@@ -1,0 +1,12596 @@
+nome_desti: nome_orige
+
+Boquira: Ibipitanga
+
+Pedro Afonso: Bom Jesus do Tocantins
+
+Rolim de Moura: Novo Horizonte do Oeste
+
+Porto Nacional: Santa Rosa do Tocantins
+
+Bacabal: Bela Vista do Maranh�o
+
+Bacabal: Bom Lugar
+
+Bacabal: Brejo de Areia
+
+Bacabal: Concei��o do Lago-A�u
+
+Bacabal: Lago da Pedra
+
+Bacabal: Lago Verde
+
+Bacabal: Olho d'�gua das Cunh�s
+
+Bacabal: Pio XII
+
+Bacabal: S�o Lu�s Gonzaga do Maranh�o
+
+Rolim de Moura: Castanheiras
+
+Bacabal: Vitorino Freire
+
+Balsas: Alto Parna�ba
+
+Balsas: Feira Nova do Maranh�o
+
+Balsas: Fortaleza dos Nogueiras
+
+Balsas: Loreto
+
+Balsas: Nova Colinas
+
+Eirunep�: Envira
+
+Balsas: Riach�o
+
+Balsas: Samba�ba
+
+Balsas: S�o F�lix de Balsas
+
+Balsas: S�o Raimundo das Mangabeiras
+
+Rolim de Moura: Parecis
+
+Balsas: Tasso Fragoso
+
+Barra do Corda: Fernando Falc�o
+
+Barra do Corda: Itaipava do Graja�
+
+Barra do Corda: Jenipapo dos Vieiras
+
+Barra do Corda: S�o Raimundo do Doca Bezerra
+
+Barra do Corda: Fernando Falc�o
+
+Barra do Corda: Itaipava do Graja�
+
+Barra do Corda: Jenipapo dos Vieiras
+
+Barra do Corda: S�o Raimundo do Doca Bezerra
+
+Caxias: Aldeias Altas
+
+Concei��o do Araguaia: Santa Maria das Barreiras
+
+Caxias: Buriti Bravo
+
+Caxias: Cod�
+
+Caxias: Coelho Neto
+
+Caxias: S�o Jo�o do Soter
+
+Caic�: Ouro Branco
+
+Caxias: Senador Alexandre Costa
+
+Caxias: Aldeias Altas
+
+Caxias: Buriti Bravo
+
+Caxias: Cod�
+
+Caxias: Coelho Neto
+
+Caxias: S�o Jo�o do Soter
+
+Concei��o do Araguaia: Couto de Magalh�es
+
+Caxias: Senador Alexandre Costa
+
+Chapadinha: Anapurus
+
+Chapadinha: Bel�gua
+
+Chapadinha: Brejo
+
+Chapadinha: Mata Roma
+
+Chapadinha: S�o Benedito do Rio Preto
+
+Imperatriz: Dom Eliseu
+
+Imperatriz: Araguatins
+
+Imperatriz: Itaguatins
+
+Imperatriz: S�o Miguel do Tocantins
+
+Reden��o: Bannach
+
+Imperatriz: S�tio Novo do Tocantins
+
+Imperatriz: A�ail�ndia
+
+Imperatriz: Amarante do Maranh�o
+
+Imperatriz: Balsas
+
+Imperatriz: Buriticupu
+
+Imperatriz: Buritirana
+
+Imperatriz: Campestre do Maranh�o
+
+Imperatriz: Cidel�ndia
+
+Imperatriz: Davin�polis
+
+Imperatriz: Estreito
+
+Reden��o: Concei��o do Araguaia
+
+Imperatriz: Governador Edison Lob�o
+
+Imperatriz: Graja�
+
+Imperatriz: Jo�o Lisboa
+
+Imperatriz: Lajeado Novo
+
+Imperatriz: Montes Altos
+
+Imperatriz: Porto Franco
+
+Imperatriz: Ribamar Fiquene
+
+Imperatriz: S�o Francisco do Brej�o
+
+Imperatriz: S�o Jo�o do Para�so
+
+Imperatriz: S�o Pedro da �gua Branca
+
+Reden��o: Cumaru do Norte
+
+Imperatriz: Senador La Rocque
+
+Caic�: Parelhas
+
+Imperatriz: S�tio Novo
+
+Imperatriz: Vila Nova dos Mart�rios
+
+Pedreiras: Bernardo do Mearim
+
+Pedreiras: Capinzal do Norte
+
+Pedreiras: Esperantin�polis
+
+Pedreiras: Igarap� Grande
+
+Pedreiras: Josel�ndia
+
+Pedreiras: Lago do Junco
+
+Pedreiras: Lima Campos
+
+Reden��o: Floresta do Araguaia
+
+Pedreiras: Po��o de Pedras
+
+Pedreiras: Santo Ant�nio dos Lopes
+
+Pedreiras: S�o Raimundo do Doca Bezerra
+
+Pedreiras: Trizidela do Vale
+
+Pinheiro: Bequim�o
+
+Pinheiro: Centro Novo do Maranh�o
+
+Pinheiro: Cururupu
+
+Pinheiro: Governador Nunes Freire
+
+Pinheiro: Matinha
+
+Pinheiro: Palmeir�ndia
+
+Caic�: S�o Fernando
+
+Reden��o: Pau d'Arco
+
+Pinheiro: Pedro do Ros�rio
+
+Pinheiro: Peri Mirim
+
+Pinheiro: Presidente Sarney
+
+Pinheiro: Santa Helena
+
+Pinheiro: Turia�u
+
+Presidente Dutra: Colinas
+
+Presidente Dutra: Dom Pedro
+
+Presidente Dutra: Governador Archer
+
+Presidente Dutra: Governador Eug�nio Barros
+
+Presidente Dutra: Governador Luiz Rocha
+
+Alto Parna�ba: Santa Filomena
+
+Reden��o: Rio Maria
+
+Presidente Dutra: Gra�a Aranha
+
+Presidente Dutra: Santa Filomena do Maranh�o
+
+Presidente Dutra: S�o Domingos do Maranh�o
+
+Presidente Dutra: S�o Jos� dos Bas�lios
+
+Presidente Dutra: Senador Alexandre Costa
+
+Presidente Dutra: Tuntum
+
+Presidente Juscelino: Cachoeira Grande
+
+Santa In�s: Alto Alegre do Pindar�
+
+Santa In�s: Bom Jardim
+
+Santa In�s: Igarap� do Meio
+
+Reden��o: Santana do Araguaia
+
+Santa In�s: Mon��o
+
+Santa In�s: Pindar�-Mirim
+
+Santa In�s: Santa Luzia
+
+Santa In�s: Santa Luzia do Paru�
+
+Santa In�s: S�o Jo�o do Car�
+
+Santa In�s: Tufil�ndia
+
+Santa In�s: Vit�ria do Mearim
+
+S�o Bento: Bacurituba
+
+S�o Bento: Cajapi�
+
+S�o Jo�o dos Patos: Lagoa do Mato
+
+Reden��o: Tucum�
+
+S�o Jo�o dos Patos: Nova Iorque
+
+S�o Jo�o dos Patos: Paraibano
+
+S�o Jo�o dos Patos: Passagem Franca
+
+S�o Jo�o dos Patos: Pastos Bons
+
+S�o Jo�o dos Patos: Sucupira do Riach�o
+
+Viana: Cajari
+
+Viana: Olinda Nova do Maranh�o
+
+Z� Doca: Araguan�
+
+Z� Doca: Governador Newton Bello
+
+Z� Doca: Presidente M�dici
+
+Reden��o: Xinguara
+
+�gua Branca: Santo Ant�nio dos Milagres
+
+Alto Long�: Novo Santo Ant�nio
+
+Amarante: S�o Francisco do Maranh�o
+
+Barras: Boa Hora
+
+Barras: Campo Largo do Piau�
+
+Barras: Nossa Senhora dos Rem�dios
+
+Barras: Porto
+
+Bom Jesus: Alvorada do Gurgu�ia
+
+Bom Jesus: Col�nia do Gurgu�ia
+
+Bom Jesus: Cristino Castro
+
+Tucum�: Ouril�ndia do Norte
+
+Bom Jesus: Curimat�
+
+Bom Jesus: Currais
+
+Bom Jesus: Monte Alegre do Piau�
+
+Bom Jesus: Palmeira do Piau�
+
+Bom Jesus: Reden��o do Gurgu�ia
+
+Bom Jesus: Santa Luz
+
+Campo Maior: Boqueir�o do Piau�
+
+Campo Maior: Castelo do Piau�
+
+Campo Maior: Cocal de Telha
+
+Campo Maior: Jatob� do Piau�
+
+Tucum�: S�o F�lix do Xingu
+
+Campo Maior: Nossa Senhora de Nazar�
+
+Campo Maior: S�o Miguel do Tapuio
+
+Campo Maior: Sigefredo Pacheco
+
+Canto do Buriti: Brejo do Piau�
+
+Canto do Buriti: Eliseu Martins
+
+Canto do Buriti: Paje� do Piau�
+
+Canto do Buriti: Tamboril do Piau�
+
+Corrente: Avelino Lopes
+
+Corrente: Cristal�ndia do Piau�
+
+Corrente: Gilbu�s
+
+Xinguara: �gua Azul do Norte
+
+Corrente: Parnagu�
+
+Corrente: Riacho Frio
+
+Corrente: S�o Gon�alo do Gurgu�ia
+
+Corrente: Sebasti�o Barros
+
+Esperantina: Campo Largo do Piau�
+
+Esperantina: Joaquim Pires
+
+Esperantina: Matias Ol�mpio
+
+Esperantina: Morro do Chap�u do Piau�
+
+Esperantina: S�o Jo�o do Arraial
+
+Floriano: Bar�o de Graja�
+
+Xinguara: Sapucaia
+
+Floriano: Ant�nio Almeida
+
+Floriano: Arraial
+
+Floriano: Bertol�nia
+
+Floriano: Canavieira
+
+Floriano: Flores do Piau�
+
+Floriano: Francisco Ayres
+
+Floriano: Guadalupe
+
+Floriano: Itaueira
+
+Floriano: Jerumenha
+
+Floriano: Landri Sales
+
+Aragua�u: Sandol�ndia
+
+Floriano: Manoel Em�dio
+
+Floriano: Marcos Parente
+
+Floriano: Nazar� do Piau�
+
+Floriano: Pavussu
+
+Floriano: Porto Alegre do Piau�
+
+Floriano: Rio Grande do Piau�
+
+Floriano: S�o Francisco do Piau�
+
+Floriano: S�o Jos� do Peixe
+
+Floriano: Sebasti�o Leal
+
+Floriano: Uru�u�
+
+Araguatins: Augustin�polis
+
+Luzil�ndia: Joca Marques
+
+Luzil�ndia: Madeiro
+
+Tef�: Juru�
+
+Oeiras: Cajazeiras do Piau�
+
+Oeiras: Col�nia do Piau�
+
+Oeiras: Floresta do Piau�
+
+Oeiras: Santa Rosa do Piau�
+
+Oeiras: Santo In�cio do Piau�
+
+Oeiras: S�o Jo�o da Varjota
+
+Oeiras: S�o Miguel do Fidalgo
+
+Oeiras: Tanque do Piau�
+
+Alto Parna�ba: Santa Filomena
+
+Araguatins: Axix� do Tocantins
+
+Parna�ba: Araioses
+
+Parna�ba: Magalh�es de Almeida
+
+Parna�ba: Milagres do Maranh�o
+
+Parna�ba: Santa Quit�ria do Maranh�o
+
+Parna�ba: Santana do Maranh�o
+
+Parna�ba: S�o Bernardo
+
+Parna�ba: Tut�ia
+
+Parna�ba: Bom Princ�pio do Piau�
+
+Parna�ba: Buriti dos Lopes
+
+Parna�ba: Cajueiro da Praia
+
+Araguatins: Buriti do Tocantins
+
+Parna�ba: Cara�bas do Piau�
+
+Parna�ba: Caxing�
+
+Parna�ba: Cocal
+
+Parna�ba: Cocal dos Alves
+
+Parna�ba: Ilha Grande
+
+Parna�ba: Joaquim Pires
+
+Parna�ba: Lu�s Correia
+
+Parna�ba: Murici dos Portelas
+
+Pedro II: Lagoa de S�o Francisco
+
+Pedro II: Milton Brand�o
+
+Araguatins: Cachoeirinha
+
+Picos: Alagoinha do Piau�
+
+Picos: Alegrete do Piau�
+
+Picos: Aroeiras do Itaim
+
+Picos: Bocaina
+
+Picos: Campo Grande do Piau�
+
+Picos: Dom Expedito Lopes
+
+Picos: Francisco Macedo
+
+Picos: Francisco Santos
+
+Picos: Fronteiras
+
+Picos: Geminiano
+
+Araguatins: Carrasco Bonito
+
+Picos: Isa�as Coelho
+
+Arax�: Perdizes
+
+Picos: Itain�polis
+
+Picos: Jaic�s
+
+Picos: Marcol�ndia
+
+Picos: Monsenhor Hip�lito
+
+Picos: Padre Marcos
+
+Picos: Paquet�
+
+Picos: Paulistana
+
+Picos: Pio IX
+
+Picos: Santa Cruz do Piau�
+
+Araguatins: Esperantina
+
+Picos: Santana do Piau�
+
+Picos: Santo Ant�nio de Lisboa
+
+Picos: S�o Jo�o da Canabrava
+
+Picos: S�o Jos� do Piau�
+
+Picos: S�o Luis do Piau�
+
+Picos: Sussuapara
+
+Picos: Vera Mendes
+
+Picos: Vila Nova do Piau�
+
+Picos: Wall Ferraz
+
+Piripiri: Brasileira
+
+Araguatins: Praia Norte
+
+Piripiri: Capit�o de Campos
+
+Piripiri: Domingos Mour�o
+
+Piripiri: Lagoa de S�o Francisco
+
+Piripiri: Piracuruca
+
+Piripiri: S�o Jo�o da Fronteira
+
+S�o Jo�o do Piau�: Campo Alegre do Fidalgo
+
+S�o Jo�o do Piau�: Capit�o Gerv�sio Oliveira
+
+S�o Jo�o do Piau�: Jo�o Costa
+
+S�o Jo�o do Piau�: Lagoa do Barro do Piau�
+
+S�o Jo�o do Piau�: Pedro Laurentino
+
+Araguatins: Sampaio
+
+S�o Jo�o do Piau�: Nova Santa Rita
+
+S�o Jo�o do Piau�: Ribeira do Piau�
+
+S�o Raimundo Nonato: An�sio de Abreu
+
+S�o Raimundo Nonato: Bonfim do Piau�
+
+S�o Raimundo Nonato: Caracol
+
+S�o Raimundo Nonato: Coronel Jos� Dias
+
+S�o Raimundo Nonato: Dirceu Arcoverde
+
+S�o Raimundo Nonato: Dom Inoc�ncio
+
+S�o Raimundo Nonato: Fartura do Piau�
+
+S�o Raimundo Nonato: S�o Braz do Piau�
+
+Araguatins: S�o Sebasti�o do Tocantins
+
+Currais Novos: Bod�
+
+S�o Raimundo Nonato: S�o Louren�o do Piau�
+
+S�o Raimundo Nonato: V�rzea Branca
+
+Sim�es: Caridade do Piau�
+
+Sim�es: Curral Novo do Piau�
+
+Simpl�cio Mendes: Bela Vista do Piau�
+
+Eirunep�: Itamarati
+
+Simpl�cio Mendes: Campinas do Piau�
+
+Simpl�cio Mendes: Concei��o do Canind�
+
+Simpl�cio Mendes: Paes Landim
+
+Simpl�cio Mendes: S�o Francisco de Assis do  Piau�
+
+Simpl�cio Mendes: Socorro do Piau�
+
+Colinas do Tocantins: Bernardo Say�o
+
+Uni�o: Lagoa Alegre
+
+Valen�a do Piau�: Lagoa do S�tio
+
+Valen�a do Piau�: Novo Oriente do Piau�
+
+Valen�a do Piau�: Pimenteiras
+
+Brejo Santo: Jati
+
+Brejo Santo: Penaforte
+
+Camocim: Barroquinha
+
+Camocim: Chaval
+
+Cruz: Jijoca de Jericoacoara
+
+Guaraciaba do Norte: Croat�
+
+Colinas do Tocantins: Brasil�ndia do Tocantins
+
+Ic�: Baixio
+
+Ic�: Or�s
+
+Ic�: Umari
+
+Ipu: Pires Ferreira
+
+S�o Benedito: Carnaubal
+
+Senador Pompeu: Milh�
+
+Caic�: Cruzeta
+
+Caic�: Ipueira
+
+Caic�: Jardim de Piranhas
+
+Caic�: Jardim do Serid�
+
+Fortaleza dos Nogueiras: S�o Pedro dos Crentes
+
+Colinas do Tocantins: Couto de Magalh�es
+
+Caic�: Ouro Branco
+
+Caic�: Parelhas
+
+Caic�: S�o Fernando
+
+Caic�: S�o Jo�o do Sabugi
+
+Caic�: S�o Jos� do Serid�
+
+Caic�: Serra Negra do Norte
+
+Caic�: Timba�ba dos Batistas
+
+Caic�: S�o Bento
+
+Caic�: Cruzeta
+
+Caic�: Ipueira
+
+Colinas do Tocantins: Itacaj�
+
+Caic�: Jardim de Piranhas
+
+Caic�: Jardim do Serid�
+
+Caic�: S�o Jo�o do Sabugi
+
+Caic�: S�o Jos� do Serid�
+
+Caic�: Serra Negra do Norte
+
+Caic�: Timba�ba dos Batistas
+
+Caic�: S�o Bento
+
+Colinas do Tocantins: Itapiratins
+
+Canguaretama: Ba�a Formosa
+
+Canguaretama: Ba�a Formosa
+
+Currais Novos: Acari
+
+Currais Novos: Bod�
+
+Currais Novos: Carna�ba dos Dantas
+
+Currais Novos: Cerro Cor�
+
+Currais Novos: Flor�nia
+
+Currais Novos: Lagoa Nova
+
+Currais Novos: S�o Vicente
+
+Currais Novos: Tenente Laurentino Cruz
+
+Colinas do Tocantins: Juarina
+
+Currais Novos: Frei Martinho
+
+Currais Novos: Acari
+
+Currais Novos: Carna�ba dos Dantas
+
+Currais Novos: Cerro Cor�
+
+Currais Novos: Flor�nia
+
+Currais Novos: Lagoa Nova
+
+Currais Novos: S�o Vicente
+
+Currais Novos: Tenente Laurentino Cruz
+
+Currais Novos: Frei Martinho
+
+Colinas do Tocantins: Tupiratins
+
+Jo�o C�mara: Cai�ara do Norte
+
+Jo�o C�mara: Galinhos
+
+Jo�o C�mara: Janda�ra
+
+Jo�o C�mara: Jardim de Angicos
+
+Jo�o C�mara: Parazinho
+
+Jo�o C�mara: Pedra Grande
+
+Jo�o C�mara: Pedra Preta
+
+Jo�o C�mara: S�o Bento do Norte
+
+Jo�o C�mara: Cai�ara do Norte
+
+Jo�o C�mara: Galinhos
+
+Guara�: Centen�rio
+
+Jo�o C�mara: Janda�ra
+
+Jo�o C�mara: Jardim de Angicos
+
+Jo�o C�mara: Parazinho
+
+Jo�o C�mara: Pedra Grande
+
+Jo�o C�mara: Pedra Preta
+
+Jo�o C�mara: S�o Bento do Norte
+
+Macau: Guamar�
+
+Macau: Pend�ncias
+
+Macau: Guamar�
+
+Macau: Pend�ncias
+
+Guara�: Fortaleza do Taboc�o
+
+Mossor�: A�u
+
+Mossor�: Apodi
+
+Mossor�: Areia Branca
+
+Mossor�: Augusto Severo
+
+Mossor�: Bara�na
+
+Mossor�: Cara�bas
+
+Mossor�: Felipe Guerra
+
+Mossor�: Frutuoso Gomes
+
+Mossor�: Governador Dix-Sept Rosado
+
+Mossor�: Grossos
+
+Guara�: Goianorte
+
+Mossor�: Ita�
+
+Mossor�: Jandu�s
+
+Mossor�: Martins
+
+Mossor�: Messias Targino
+
+Mossor�: Olho-d'�gua do Borges
+
+Mossor�: Patu
+
+Mossor�: Tibau
+
+Mossor�: Serra do Mel
+
+Mossor�: Umarizal
+
+Mossor�: Upanema
+
+Guara�: Itapor� do Tocantins
+
+Mossor�: A�u
+
+Mossor�: Apodi
+
+Mossor�: Areia Branca
+
+Mossor�: Augusto Severo
+
+Mossor�: Bara�na
+
+Mossor�: Cara�bas
+
+Mossor�: Felipe Guerra
+
+Mossor�: Frutuoso Gomes
+
+Mossor�: Governador Dix-Sept Rosado
+
+Mossor�: Grossos
+
+Guara�: Pedro Afonso
+
+Mossor�: Ita�
+
+Mossor�: Jandu�s
+
+Mossor�: Martins
+
+Mossor�: Messias Targino
+
+Mossor�: Olho-d'�gua do Borges
+
+Mossor�: Patu
+
+Mossor�: Tibau
+
+Mossor�: Serra do Mel
+
+Mossor�: Umarizal
+
+Mossor�: Upanema
+
+Fortaleza dos Nogueiras: S�o Pedro dos Crentes
+
+Guara�: Pequizeiro
+
+Passa e Fica: Monte das Gameleiras
+
+Passa e Fica: Serra de S�o Bento
+
+Passa e Fica: Monte das Gameleiras
+
+Passa e Fica: Serra de S�o Bento
+
+Pau dos Ferros: �gua Nova
+
+Pau dos Ferros: Alexandria
+
+Pau dos Ferros: Doutor Severiano
+
+Pau dos Ferros: Encanto
+
+Pau dos Ferros: Francisco Dantas
+
+Pau dos Ferros: Jos� da Penha
+
+Guara�: Colm�ia
+
+Pau dos Ferros: Lu�s Gomes
+
+Pau dos Ferros: Major Sales
+
+Pau dos Ferros: Marcelino Vieira
+
+Pau dos Ferros: Martins
+
+Pau dos Ferros: Paran�
+
+Pau dos Ferros: Portalegre
+
+Pau dos Ferros: Rafael Fernandes
+
+Pau dos Ferros: Riacho da Cruz
+
+Pau dos Ferros: Riacho de Santana
+
+Pau dos Ferros: S�o Francisco do Oeste
+
+Guara�: Presidente Kennedy
+
+Pau dos Ferros: S�o Miguel
+
+Pau dos Ferros: Serrinha dos Pintos
+
+Pau dos Ferros: Taboleiro Grande
+
+Pau dos Ferros: Tenente Ananias
+
+Pau dos Ferros: Vi�osa
+
+Pau dos Ferros: �gua Nova
+
+Pau dos Ferros: Alexandria
+
+Pau dos Ferros: Doutor Severiano
+
+Pau dos Ferros: Encanto
+
+Pau dos Ferros: Francisco Dantas
+
+Marab�: Nova Ipixuna
+
+Guara�: Recursol�ndia
+
+Pau dos Ferros: Jos� da Penha
+
+Pau dos Ferros: Lu�s Gomes
+
+Pau dos Ferros: Major Sales
+
+Pau dos Ferros: Marcelino Vieira
+
+Pau dos Ferros: Martins
+
+Pau dos Ferros: Paran�
+
+Pau dos Ferros: Portalegre
+
+Pau dos Ferros: Rafael Fernandes
+
+Pau dos Ferros: Riacho da Cruz
+
+Pau dos Ferros: Riacho de Santana
+
+Guara�: Santa Maria do Tocantins
+
+Pau dos Ferros: S�o Francisco do Oeste
+
+Pau dos Ferros: S�o Miguel
+
+Pau dos Ferros: Serrinha dos Pintos
+
+Pau dos Ferros: Taboleiro Grande
+
+Pau dos Ferros: Tenente Ananias
+
+Pau dos Ferros: Vi�osa
+
+Santa Cruz: Campo Redondo
+
+Santa Cruz: Coronel Ezequiel
+
+Santa Cruz: Ja�an�
+
+Santa Cruz: Japi
+
+Guara�: Tupirama
+
+Santa Cruz: Lajes Pintadas
+
+Santa Cruz: S�o Bento do Trair�
+
+Santa Cruz: S�tio Novo
+
+Santa Cruz: Campo Redondo
+
+Santa Cruz: Coronel Ezequiel
+
+Santa Cruz: Ja�an�
+
+Santa Cruz: Japi
+
+Santa Cruz: Lajes Pintadas
+
+Santa Cruz: S�o Bento do Trair�
+
+Santa Cruz: S�tio Novo
+
+Natividade: Chapada da Natividade
+
+Santo Ant�nio: Jundi�
+
+Santo Ant�nio: Passagem
+
+Santo Ant�nio: Serrinha
+
+Santo Ant�nio: Jundi�
+
+Santo Ant�nio: Passagem
+
+Santo Ant�nio: Serrinha
+
+S�o Paulo do Potengi: Barcelona
+
+S�o Paulo do Potengi: Lagoa de Velhos
+
+S�o Paulo do Potengi: Santa Maria
+
+S�o Paulo do Potengi: Riachuelo
+
+Palmeir�polis: S�o Salvador do Tocantins
+
+S�o Paulo do Potengi: Ruy Barbosa
+
+S�o Paulo do Potengi: S�o Pedro
+
+S�o Paulo do Potengi: Senador El�i de Souza
+
+S�o Paulo do Potengi: Barcelona
+
+S�o Paulo do Potengi: Lagoa de Velhos
+
+S�o Paulo do Potengi: Santa Maria
+
+S�o Paulo do Potengi: Riachuelo
+
+S�o Paulo do Potengi: Ruy Barbosa
+
+S�o Paulo do Potengi: S�o Pedro
+
+S�o Paulo do Potengi: Senador El�i de Souza
+
+Taguatinga: Aurora do Tocantins
+
+Araruna: Dami�o
+
+ACP de Campina Grande: Alagoa Grande
+
+ACP de Campina Grande: Alagoa Nova
+
+ACP de Campina Grande: Alcantil
+
+ACP de Campina Grande: Algod�o de Janda�ra
+
+ACP de Campina Grande: Amparo
+
+ACP de Campina Grande: Arara
+
+ACP de Campina Grande: Areia
+
+ACP de Campina Grande: Areial
+
+ACP de Campina Grande: Aroeiras
+
+Taguatinga: Ponte Alta do Bom Jesus
+
+ACP de Campina Grande: Assun��o
+
+ACP de Campina Grande: Bananeiras
+
+ACP de Campina Grande: Bara�na
+
+ACP de Campina Grande: Barra de Santana
+
+ACP de Campina Grande: Barra de Santa Rosa
+
+ACP de Campina Grande: Barra de S�o Miguel
+
+ACP de Campina Grande: Boa Vista
+
+ACP de Campina Grande: Boqueir�o
+
+ACP de Campina Grande: Cabaceiras
+
+ACP de Campina Grande: Cacimba de Dentro
+
+Maraca�um�: Boa Vista do Gurupi
+
+Tocantin�polis: Luzin�polis
+
+ACP de Campina Grande: Cajazeiras
+
+ACP de Campina Grande: Cara�bas
+
+ACP de Campina Grande: Casserengue
+
+ACP de Campina Grande: Catol� do Rocha
+
+ACP de Campina Grande: Caturit�
+
+ACP de Campina Grande: Coxixola
+
+ACP de Campina Grande: Cubati
+
+ACP de Campina Grande: Cuit�
+
+ACP de Campina Grande: Dami�o
+
+ACP de Campina Grande: Esperan�a
+
+Tocantin�polis: Mauril�ndia do Tocantins
+
+ACP de Campina Grande: Fagundes
+
+ACP de Campina Grande: Gado Bravo
+
+ACP de Campina Grande: Gurj�o
+
+ACP de Campina Grande: Ing�
+
+ACP de Campina Grande: Itaporanga
+
+ACP de Campina Grande: Itatuba
+
+ACP de Campina Grande: Juarez T�vora
+
+ACP de Campina Grande: Juazeirinho
+
+ACP de Campina Grande: Junco do Serid�
+
+ACP de Campina Grande: Livramento
+
+ACP de Manaus: Caapiranga
+
+Tocantin�polis: Palmeiras do Tocantins
+
+ACP de Campina Grande: Massaranduba
+
+ACP de Campina Grande: Matinhas
+
+ACP de Campina Grande: Mogeiro
+
+ACP de Campina Grande: Montadas
+
+ACP de Campina Grande: Monteiro
+
+ACP de Campina Grande: Natuba
+
+ACP de Campina Grande: Nova Floresta
+
+ACP de Campina Grande: Nova Palmeira
+
+ACP de Campina Grande: Olivedos
+
+ACP de Campina Grande: Parari
+
+Tocantin�polis: Nazar�
+
+ACP de Campina Grande: Patos
+
+ACP de Campina Grande: Pedra Lavrada
+
+ACP de Campina Grande: Picu�
+
+ACP de Campina Grande: Pocinhos
+
+ACP de Campina Grande: Puxinan�
+
+ACP de Campina Grande: Rem�gio
+
+ACP de Campina Grande: Riach�o do Bacamarte
+
+ACP de Campina Grande: Riacho de Santo Ant�nio
+
+ACP de Campina Grande: Santo Andr�
+
+ACP de Campina Grande: S�o Domingos do Cariri
+
+Tocantin�polis: Santa Terezinha do Tocantins
+
+ACP de Campina Grande: S�o Jo�o do Cariri
+
+ACP de Campina Grande: S�o Jos� dos Cordeiros
+
+ACP de Campina Grande: S�o Sebasti�o de Lagoa de  Ro�a
+
+ACP de Campina Grande: Serid�
+
+ACP de Campina Grande: Serra Branca
+
+ACP de Campina Grande: Serra Redonda
+
+ACP de Campina Grande: Sol�nea
+
+ACP de Campina Grande: Soledade
+
+ACP de Campina Grande: Soss�go
+
+ACP de Campina Grande: Sousa
+
+Tocantin�polis: S�o Bento do Tocantins
+
+ACP de Campina Grande: Sum�
+
+ACP de Campina Grande: Tapero�
+
+ACP de Campina Grande: Ten�rio
+
+ACP de Campina Grande: Umbuzeiro
+
+Guarabira: Alagoinha
+
+Guarabira: Ara�agi
+
+Guarabira: Bel�m
+
+Guarabira: Borborema
+
+Guarabira: Cai�ara
+
+Guarabira: Cuitegi
+
+A�ail�ndia: Bom Jesus das Selvas
+
+Guarabira: Dona In�s
+
+Guarabira: Duas Estradas
+
+Guarabira: Lagoa de Dentro
+
+Guarabira: Logradouro
+
+Guarabira: Mulungu
+
+Ibotirama: Morpar�
+
+Guarabira: Pil�es
+
+Guarabira: Pil�ezinhos
+
+Guarabira: Pirpirituba
+
+Guarabira: Riach�o
+
+Guarabira: Serra da Raiz
+
+A�ail�ndia: Itinga do Maranh�o
+
+Guarabira: Sert�ozinho
+
+Guarabira: Campo de Santana
+
+Itabaiana: Mogeiro
+
+Itabaiana: Salgado de S�o F�lix
+
+Itabaiana: S�o Jos� dos Ramos
+
+Mamanguape: Curral de Cima
+
+Mamanguape: Marca��o
+
+Mamanguape: Mataraca
+
+Princesa Isabel: Mana�ra
+
+Princesa Isabel: S�o Jos� de Princesa
+
+Alto Parna�ba: Santa Filomena
+
+Sap�: Sobrado
+
+Bel�m de S�o Francisco: Itacuruba
+
+Bel�m de S�o Francisco: Itacuruba
+
+Belo Jardim: Sanhar�
+
+Belo Jardim: Tacaimb�
+
+Floresta: Itacuruba
+
+Ouricuri: Parnamirim
+
+Ouricuri: Santa Cruz
+
+Ouricuri: Parnamirim
+
+Ouricuri: Santa Cruz
+
+Araioses: �gua Doce do Maranh�o
+
+Ouricuri: Parnamirim
+
+Ouricuri: Santa Cruz
+
+Santa Cruz da Baixa Verde: Mana�ra
+
+S�o Jos� do Egito: Brejinho
+
+S�o Jos� do Egito: Santa Terezinha
+
+S�o Vicente Ferrer: Natuba
+
+Tabira: Solid�o
+
+Arapiraca: Batalha
+
+Arapiraca: Campo Grande
+
+Arapiraca: Coit� do N�ia
+
+Maraca�um�: Junco do Maranh�o
+
+Balsas: Alto Parna�ba
+
+Arapiraca: Cra�bas
+
+Arapiraca: Feira Grande
+
+Arapiraca: Girau do Ponciano
+
+Arapiraca: Igaci
+
+Arapiraca: Jacar� dos Homens
+
+Arapiraca: Jaramataia
+
+Arapiraca: Junqueiro
+
+Arapiraca: Lagoa da Canoa
+
+Arapiraca: Limoeiro de Anadia
+
+Arapiraca: Major Isidoro
+
+Balsas: Alto Parna�ba
+
+Arapiraca: Olho d'�gua das Flores
+
+Arapiraca: Olho d'�gua do Casado
+
+Arapiraca: Olho d'�gua Grande
+
+Arapiraca: Piranhas
+
+Arapiraca: Porto Real do Col�gio
+
+Arapiraca: S�o Br�s
+
+Arapiraca: S�o Jos� da Tapera
+
+Arapiraca: S�o Sebasti�o
+
+Arapiraca: Tanque d'Arca
+
+Arapiraca: Taquarana
+
+Balsas: Feira Nova do Maranh�o
+
+Arapiraca: Teot�nio Vilela
+
+Arapiraca: Traipu
+
+Delmiro Gouveia: Olho d'�gua do Casado
+
+Delmiro Gouveia: Pariconha
+
+Delmiro Gouveia: Piranhas
+
+Palmeira dos �ndios: Bel�m
+
+Palmeira dos �ndios: Estrela de Alagoas
+
+Palmeira dos �ndios: Minador do Negr�o
+
+Palmeira dos �ndios: Quebrangulo
+
+P�o de A��car: Palestina
+
+Balsas: Feira Nova do Maranh�o
+
+Penedo: Feliz Deserto
+
+Penedo: Igreja Nova
+
+Penedo: Pia�abu�u
+
+Penedo: S�o Br�s
+
+Penedo: Santana do S�o Francisco
+
+Porto Calvo: Japaratinga
+
+Santana do Ipanema: Canapi
+
+Santana do Ipanema: Carneiros
+
+Santana do Ipanema: Dois Riachos
+
+Santana do Ipanema: Inhapi
+
+Balsas: Fortaleza dos Nogueiras
+
+Santana do Ipanema: Maravilha
+
+Santana do Ipanema: Mata Grande
+
+Santana do Ipanema: Oliven�a
+
+Santana do Ipanema: Ouro Branco
+
+Santana do Ipanema: Po�o das Trincheiras
+
+Santana do Ipanema: Senador Rui Palmeira
+
+S�o Miguel dos Campos: Roteiro
+
+Uni�o dos Palmares: Branquinha
+
+Barra: Buritirama
+
+Uni�o dos Palmares: Santana do Munda�
+
+Canind� de S�o Francisco: Piranhas
+
+Balsas: Fortaleza dos Nogueiras
+
+Est�ncia: Arau�
+
+Est�ncia: Itabaianinha
+
+Est�ncia: Santa Luzia do Itanhy
+
+Itabaiana: S�o Domingos
+
+Lagarto: Salgado
+
+Ne�polis: Santana do S�o Francisco
+
+Nossa Senhora da Gl�ria: Feira Nova
+
+Nossa Senhora da Gl�ria: Gracho Cardoso
+
+Nossa Senhora da Gl�ria: Monte Alegre de Sergipe
+
+Nossa Senhora da Gl�ria: Po�o Redondo
+
+Balsas: Loreto
+
+Nossa Senhora das Dores: Cumbe
+
+Propri�: Cedro de S�o Jo�o
+
+Propri�: Nossa Senhora de Lourdes
+
+Propri�: S�o Francisco
+
+Propri�: Telha
+
+Amargosa: Brej�es
+
+Santar�m: Rur�polis
+
+Barra: Morpar�
+
+Barra: Buritirama
+
+Barra: Morpar�
+
+Balsas: Loreto
+
+Brumado: Ibiassuc�
+
+Brumado: Livramento de Nossa Senhora
+
+Brumado: Malhada de Pedras
+
+Brumado: Paramirim
+
+Camacan: Santa Luzia
+
+C�cero Dantas: F�tima
+
+C�cero Dantas: Heli�polis
+
+Concei��o do Coit�: Nordestina
+
+Concei��o do Coit�: Queimadas
+
+Concei��o do Coit�: Santaluz
+
+Balsas: Nova Colinas
+
+Concei��o do Coit�: Valente
+
+Euclides da Cunha: Canudos
+
+Euclides da Cunha: Quijingue
+
+Eun�polis: Guaratinga
+
+Eun�polis: Itabela
+
+Canind�: Paramoti
+
+Eun�polis: Itagimirim
+
+Eun�polis: Itapebi
+
+Eun�polis: Porto Seguro
+
+Eun�polis: Salto da Divisa
+
+Gandu: Itamari
+
+Balsas: Nova Colinas
+
+Gandu: Nova Ibi�
+
+Gandu: Pira� do Norte
+
+Gandu: Teol�ndia
+
+Gandu: Wenceslau Guimar�es
+
+Gandu: Nova Ibi�
+
+Gandu: Pira� do Norte
+
+Gandu: Teol�ndia
+
+Gandu: Wenceslau Guimar�es
+
+Guanambi: Bom Jesus da Lapa
+
+Guanambi: Cacul�
+
+Mirinzal: Cedral
+
+Balsas: Riach�o
+
+Guanambi: Caetit�
+
+Guanambi: Candiba
+
+Tef�: Juta�
+
+Guanambi: Carinhanha
+
+Guanambi: Feira da Mata
+
+Guanambi: Iui�
+
+Guanambi: Jacaraci
+
+Guanambi: Malhada
+
+Guanambi: Matina
+
+Guanambi: Palmas de Monte Alto
+
+Guanambi: Pinda�
+
+Balsas: Riach�o
+
+Guanambi: Riacho de Santana
+
+Guanambi: Sebasti�o Laranjeiras
+
+Guanambi: Urandi
+
+Ibicara�: Santa Cruz da Vit�ria
+
+Ibotirama: Ipupiara
+
+Ibotirama: Morpar�
+
+Ibotirama: Muqu�m de S�o Francisco
+
+Ibotirama: Brotas de Maca�bas
+
+Ibotirama: Ipupiara
+
+Ibotirama: Morpar�
+
+Balsas: Samba�ba
+
+Ibotirama: Muqu�m de S�o Francisco
+
+Ibotirama: Brotas de Maca�bas
+
+Ibotirama: Ipupiara
+
+Ibotirama: Muqu�m de S�o Francisco
+
+Ipia�: Barra do Rocha
+
+Ipia�: D�rio Meira
+
+Ipia�: Gongogi
+
+Ipia�: Ibirataia
+
+Ipia�: Itagib�
+
+Balsas: Samba�ba
+
+Ipia�: Ubat�
+
+Ipia�: Barra do Rocha
+
+Ipia�: D�rio Meira
+
+Ipia�: Gongogi
+
+Ipia�: Ibirataia
+
+Ipia�: Itagib�
+
+Ipia�: Ubat�
+
+Itapetinga: Itarantim
+
+Itapetinga: Macarani
+
+Itapetinga: Maiquinique
+
+Balsas: S�o F�lix de Balsas
+
+Itapetinga: Potiragu�
+
+Jaguaquara: Irajuba
+
+Jaguaquara: Itaquara
+
+Jaguaquara: Itiru�u
+
+Maca�bas: Boquira
+
+Maca�bas: Rio do Pires
+
+Paulo Afonso: Jatob�
+
+Paulo Afonso: Petrol�ndia
+
+Paulo Afonso: Tacaratu
+
+Paulo Afonso: �gua Branca
+
+Balsas: S�o F�lix de Balsas
+
+Paulo Afonso: Pariconha
+
+Paulo Afonso: Abar�
+
+Paulo Afonso: Chorroch�
+
+Paulo Afonso: Gl�ria
+
+Paulo Afonso: Jeremoabo
+
+Paulo Afonso: Macurur�
+
+Paulo Afonso: Rodelas
+
+Paulo Afonso: Santa Br�gida
+
+Paulo Afonso: S�tio do Quinto
+
+Po��es: Bom Jesus da Serra
+
+Balsas: S�o Raimundo das Mangabeiras
+
+Po��es: Nova Cana�
+
+Riach�o do Jacu�pe: P� de Serra
+
+Santa Maria da Vit�ria: Cocos
+
+Santa Maria da Vit�ria: Coribe
+
+Santa Maria da Vit�ria: Jaborandi
+
+Santa Maria da Vit�ria: Santana
+
+Santa Maria da Vit�ria: S�o F�lix do Coribe
+
+Senhor do Bonfim: Andorinha
+
+Senhor do Bonfim: Ant�nio Gon�alves
+
+Senhor do Bonfim: Campo Formoso
+
+Balsas: S�o Raimundo das Mangabeiras
+
+Senhor do Bonfim: Filad�lfia
+
+Senhor do Bonfim: Iti�ba
+
+Senhor do Bonfim: Jaguarari
+
+Senhor do Bonfim: Pindoba�u
+
+Senhor do Bonfim: Ponto Novo
+
+Senhor do Bonfim: Andorinha
+
+Senhor do Bonfim: Ant�nio Gon�alves
+
+Senhor do Bonfim: Campo Formoso
+
+Senhor do Bonfim: Filad�lfia
+
+Iguatu: Tarrafas
+
+Senhor do Bonfim: Iti�ba
+
+Balsas: Tasso Fragoso
+
+Senhor do Bonfim: Jaguarari
+
+Senhor do Bonfim: Pindoba�u
+
+Senhor do Bonfim: Ponto Novo
+
+Serra Dourada: Tabocas do Brejo Velho
+
+Serra Dourada: Tabocas do Brejo Velho
+
+Serrinha: Biritinga
+
+Serrinha: Lamar�o
+
+Teixeira de Freitas: Alcoba�a
+
+Teixeira de Freitas: Caravelas
+
+Teixeira de Freitas: Ibirapu�
+
+Balsas: Tasso Fragoso
+
+Teixeira de Freitas: Itamaraju
+
+Teixeira de Freitas: Itanh�m
+
+Teixeira de Freitas: Jucuru�u
+
+Teixeira de Freitas: Lajed�o
+
+Teixeira de Freitas: Medeiros Neto
+
+Teixeira de Freitas: Mucuri
+
+Teixeira de Freitas: Nova Vi�osa
+
+Teixeira de Freitas: Vereda
+
+Xique-Xique: Barra
+
+Xique-Xique: Gentio do Ouro
+
+Mirinzal: Central do Maranh�o
+
+Brejo: Milagres do Maranh�o
+
+Xique-Xique: Itagua�u da Bahia
+
+�guas Formosas: Bert�polis
+
+�guas Formosas: Fronteira dos Vales
+
+�guas Formosas: Machacalis
+
+�guas Formosas: Santa Helena de Minas
+
+�guas Formosas: Umburatiba
+
+Al�m Para�ba: Estrela Dalva
+
+Al�m Para�ba: Pirapetinga
+
+Al�m Para�ba: Santo Ant�nio do Aventureiro
+
+Al�m Para�ba: Volta Grande
+
+Cod�: Peritor�
+
+Al�m Para�ba: Carmo
+
+Al�m Para�ba: Estrela Dalva
+
+Al�m Para�ba: Pirapetinga
+
+Al�m Para�ba: Santo Ant�nio do Aventureiro
+
+Al�m Para�ba: Volta Grande
+
+Al�m Para�ba: Carmo
+
+Almenara: Bandeira
+
+Almenara: Jacinto
+
+Almenara: Joa�ma
+
+Almenara: Jord�nia
+
+Cod�: Peritor�
+
+Almenara: Palm�polis
+
+Almenara: Rio do Prado
+
+Almenara: Rubim
+
+Almenara: Santa Maria do Salto
+
+Almenara: Santo Ant�nio do Jacinto
+
+Andradas: Ibiti�ra de Minas
+
+Ara�ua�: Berilo
+
+Ara�ua�: Coronel Murta
+
+Ara�ua�: Francisco Badar�
+
+Ara�ua�: Itinga
+
+Cod�: Timbiras
+
+Ara�ua�: Jenipapo de Minas
+
+Ara�ua�: Virgem da Lapa
+
+Araguari: Cascalho Rico
+
+Araguari: Grupiara
+
+Arax�: Campos Altos
+
+Arax�: Ibi�
+
+Arax�: Perdizes
+
+Arax�: Pratinha
+
+Arax�: Tapira
+
+Arax�: Campos Altos
+
+Cod�: Timbiras
+
+Arax�: Ibi�
+
+Arax�: Pratinha
+
+Arax�: Tapira
+
+Arcos: Iguatama
+
+Arcos: Iguatama
+
+Barbacena: Alfredo Vasconcelos
+
+Barbacena: Alto Rio Doce
+
+Barbacena: Ant�nio Carlos
+
+Barbacena: Barroso
+
+Coelho Neto: Afonso Cunha
+
+Barbacena: Capela Nova
+
+Barbacena: Caranda�
+
+Sobral: Mucambo
+
+Barbacena: Cipot�nea
+
+Barbacena: Desterro do Melo
+
+Barbacena: Dores de Campos
+
+Barbacena: Ibertioga
+
+Barbacena: Paiva
+
+Barbacena: Ressaquinha
+
+Barbacena: Santa B�rbara do Tug�rio
+
+Barbacena: Santana do Garamb�u
+
+Coelho Neto: Afonso Cunha
+
+Barbacena: Santa Rita de Ibitipoca
+
+Barbacena: Senhora dos Rem�dios
+
+Barbacena: Alfredo Vasconcelos
+
+Barbacena: Alto Rio Doce
+
+Barbacena: Ant�nio Carlos
+
+Barbacena: Barroso
+
+Barbacena: Capela Nova
+
+Barbacena: Caranda�
+
+Barbacena: Cipot�nea
+
+Barbacena: Desterro do Melo
+
+Coelho Neto: Duque Bacelar
+
+Barbacena: Dores de Campos
+
+Barbacena: Ibertioga
+
+Barbacena: Paiva
+
+Barbacena: Ressaquinha
+
+Barbacena: Santa B�rbara do Tug�rio
+
+Barbacena: Santana do Garamb�u
+
+Barbacena: Santa Rita de Ibitipoca
+
+Barbacena: Senhora dos Rem�dios
+
+Bicas: Guarar�
+
+Bicas: Marip� de Minas
+
+Coelho Neto: Duque Bacelar
+
+Itacoatiara: S�o Sebasti�o do Uatum�
+
+Bicas: Rochedo de Minas
+
+Bicas: Senador Cortes
+
+Bicas: Guarar�
+
+Bicas: Marip� de Minas
+
+Bicas: Rochedo de Minas
+
+Bicas: Senador Cortes
+
+Boa Esperan�a: Ilic�nea
+
+Bom Jardim de Minas: Bocaina de Minas
+
+Bom Jardim de Minas: Liberdade
+
+Bom Jardim de Minas: Bocaina de Minas
+
+Colinas: Fortuna
+
+Bom Jardim de Minas: Liberdade
+
+Cambu�: Bom Repouso
+
+Cambu�: Consola��o
+
+Cambu�: C�rrego do Bom Jesus
+
+Cambu�: Senador Amaral
+
+Carangola: Caiana
+
+Carangola: Capara�
+
+Carangola: Divino
+
+Carangola: Espera Feliz
+
+Carangola: Faria Lemos
+
+Mirinzal: Guimar�es
+
+Colinas: Jatob�
+
+Carangola: Fervedouro
+
+Carangola: Oriz�nia
+
+Carangola: Pedra Bonita
+
+Carangola: Pedra Dourada
+
+Carangola: Tombos
+
+Carangola: Dores do Rio Preto
+
+Caratinga: Alvarenga
+
+Caratinga: Bom Jesus do Galho
+
+Caratinga: C�rrego Novo
+
+Caratinga: Dom Cavati
+
+Colinas: Mirador
+
+Caratinga: Entre Folhas
+
+Caratinga: Imb� de Minas
+
+Caratinga: Inhapim
+
+Caratinga: Piedade de Caratinga
+
+Caratinga: Santa B�rbara do Leste
+
+Caratinga: Santa Rita de Minas
+
+Caratinga: S�o Domingos das Dores
+
+Caratinga: S�o Sebasti�o do Anta
+
+Caratinga: Ubaporanga
+
+Caratinga: Vargem Alegre
+
+Colinas: Sucupira do Norte
+
+Caratinga: Vermelho Novo
+
+Cataguases: Astolfo Dutra
+
+Cataguases: Dona Eus�bia
+
+Cataguases: Itamarati de Minas
+
+Cataguases: Leopoldina
+
+Cataguases: Santana de Cataguases
+
+Cataguases: S�o Sebasti�o da Vargem  Alegre
+
+Cataguases: Astolfo Dutra
+
+Cataguases: Dona Eus�bia
+
+Cataguases: Itamarati de Minas
+
+Cururupu: Apicum-A�u
+
+Cataguases: Leopoldina
+
+Cataguases: Santana de Cataguases
+
+Cataguases: S�o Sebasti�o da Vargem  Alegre
+
+Caxambu: Aiuruoca
+
+Caxambu: Baependi
+
+Caxambu: Cruz�lia
+
+Caxambu: Seritinga
+
+Extrema: Itapeva
+
+Frutal: Comendador Gomes
+
+Frutal: Itapagipe
+
+Cururupu: Bacuri
+
+Frutal: Pirajuba
+
+Frutal: Planura
+
+Frutal: Comendador Gomes
+
+Frutal: Itapagipe
+
+Frutal: Pirajuba
+
+Frutal: Planura
+
+Guaxup�: Guaran�sia
+
+Guaxup�: Juruaia
+
+Guaxup�: Monte Belo
+
+Guaxup�: Muzambinho
+
+Cururupu: Mirinzal
+
+Guaxup�: Nova Resende
+
+Guaxup�: S�o Pedro da Uni�o
+
+Ipanema: Taparuba
+
+Ita�na: Itatiaiu�u
+
+Ituiutaba: Cachoeira Dourada
+
+Ituiutaba: Capin�polis
+
+Ituiutaba: Gurinhat�
+
+Ituiutaba: Ipia�u
+
+Ituiutaba: Santa Vit�ria
+
+Ituiutaba: S�o Sim�o
+
+Cururupu: Serrano do Maranh�o
+
+Iturama: Carneirinho
+
+Iturama: Limeira do Oeste
+
+Iturama: S�o Francisco de Sales
+
+Iturama: Uni�o de Minas
+
+Iturama: Carneirinho
+
+Iturama: Limeira do Oeste
+
+Iturama: S�o Francisco de Sales
+
+Iturama: Uni�o de Minas
+
+Jacutinga: Albertina
+
+Jana�ba: Catuti
+
+Esperantin�polis: S�o Roberto
+
+Jana�ba: Espinosa
+
+Jana�ba: Gameleiras
+
+Jana�ba: Ja�ba
+
+Jana�ba: Mamonas
+
+Jana�ba: Matias Cardoso
+
+Jana�ba: Mato Verde
+
+Jana�ba: Montezuma
+
+Jana�ba: Nova Porteirinha
+
+Jana�ba: Pai Pedro
+
+Jana�ba: Porteirinha
+
+Fortaleza dos Nogueiras: S�o Pedro dos Crentes
+
+Jana�ba: Santo Ant�nio do Retiro
+
+Jana�ba: Verdel�ndia
+
+Janu�ria: Bonito de Minas
+
+Janu�ria: C�nego Marinho
+
+Janu�ria: Itacarambi
+
+Janu�ria: Montalv�nia
+
+Janu�ria: Pedras de Maria da Cruz
+
+Lagoa da Prata: Japara�ba
+
+Machado: Carvalh�polis
+
+Machado: Po�o Fundo
+
+Governador Nunes Freire: Amap� do Maranh�o
+
+Malacacheta: Francisc�polis
+
+Malacacheta: Setubinha
+
+Manga: Mirav�nia
+
+Mantena: Cuparaque
+
+Mantena: Nova Bel�m
+
+Mantena: S�o Jo�o do Manteninha
+
+Mantena: Manten�polis
+
+Monte Carmelo: Douradoquara
+
+Monte Carmelo: Estrela do Sul
+
+Monte Carmelo: Grupiara
+
+Itacoatiara: Itapiranga
+
+Boquira: Oliveira dos Brejinhos
+
+Mirinzal: Porto Rico do Maranh�o
+
+Governador Nunes Freire: C�ndido Mendes
+
+Monte Carmelo: Romaria
+
+Muria�: Ant�nio Prado de Minas
+
+Muria�: Bar�o de Monte Alto
+
+Muria�: Carangola
+
+Muria�: Eugen�polis
+
+Muria�: Miradouro
+
+Muria�: Mira�
+
+Muria�: Patroc�nio do Muria�
+
+Muria�: Ros�rio da Limeira
+
+Muria�: S�o Francisco do Gl�ria
+
+Governador Nunes Freire: Maraca�um�
+
+Muria�: S�o Sebasti�o da Vargem  Alegre
+
+Muria�: Vieiras
+
+Muria�: Ant�nio Prado de Minas
+
+Muria�: Bar�o de Monte Alto
+
+Muria�: Carangola
+
+Muria�: Eugen�polis
+
+Muria�: Miradouro
+
+Muria�: Mira�
+
+Muria�: Patroc�nio do Muria�
+
+Muria�: Ros�rio da Limeira
+
+Governador Nunes Freire: Maranh�ozinho
+
+Muria�: S�o Francisco do Gl�ria
+
+Muria�: S�o Sebasti�o da Vargem  Alegre
+
+Muria�: Vieiras
+
+Nanuque: Serra dos Aimor�s
+
+Ouro Fino: Bueno Brand�o
+
+Ouro Fino: Inconfidentes
+
+Par� de Minas: Igaratinga
+
+Par� de Minas: Maravilhas
+
+Par� de Minas: On�a de Pitangui
+
+Par� de Minas: Pequi
+
+Governador Nunes Freire: Nova Olinda do Maranh�o
+
+Par� de Minas: S�o Jos� da Varginha
+
+Parais�polis: Consola��o
+
+Parais�polis: Gon�alves
+
+Patos de Minas: Carmo do Parana�ba
+
+Assis: Platina
+
+Patos de Minas: Guimar�nia
+
+Patos de Minas: Jo�o Pinheiro
+
+Patos de Minas: Lagamar
+
+Patos de Minas: Lagoa Formosa
+
+Patos de Minas: Lagoa Grande
+
+Patos de Minas: Patroc�nio
+
+Governador Nunes Freire: Presidente M�dici
+
+Patos de Minas: Presidente Oleg�rio
+
+Patos de Minas: S�o Gon�alo do Abaet�
+
+Patos de Minas: S�o Gotardo
+
+Patos de Minas: Varj�o de Minas
+
+Patos de Minas: Vazante
+
+Patos de Minas: Carmo do Parana�ba
+
+Patos de Minas: Guimar�nia
+
+Patos de Minas: Jo�o Pinheiro
+
+Patos de Minas: Lagamar
+
+Patos de Minas: Lagoa Formosa
+
+Graja�: Arame
+
+Patos de Minas: Lagoa Grande
+
+Patos de Minas: Patroc�nio
+
+Patos de Minas: Presidente Oleg�rio
+
+Patos de Minas: S�o Gon�alo do Abaet�
+
+Patos de Minas: S�o Gotardo
+
+Patos de Minas: Varj�o de Minas
+
+Patos de Minas: Vazante
+
+Patos de Minas: Carmo do Parana�ba
+
+Patos de Minas: Guimar�nia
+
+Patos de Minas: Jo�o Pinheiro
+
+Graja�: Formosa da Serra Negra
+
+Patos de Minas: Lagamar
+
+Patos de Minas: Lagoa Formosa
+
+Patos de Minas: Lagoa Grande
+
+Patos de Minas: Patroc�nio
+
+Patos de Minas: Presidente Oleg�rio
+
+Patos de Minas: S�o Gon�alo do Abaet�
+
+Patos de Minas: S�o Gotardo
+
+Patos de Minas: Varj�o de Minas
+
+Patos de Minas: Vazante
+
+Pedra Azul: Cachoeira de Paje�
+
+Lago da Pedra: Lago dos Rodrigues
+
+Pirapora: Buritizeiro
+
+Pirapora: Ibia�
+
+Pirapora: Ponto Chique
+
+Pirapora: Santa F� de Minas
+
+Pirapora: V�rzea da Palma
+
+Piumhi: Dores�polis
+
+Piumhi: Pimenta
+
+Piumhi: S�o Roque de Minas
+
+Piumhi: Vargem Bonita
+
+Resplendor: Itueta
+
+Lago da Pedra: Lagoa Grande do Maranh�o
+
+Resplendor: Santa Rita do Itueto
+
+Rio Pomba: Silveir�nia
+
+Rio Pomba: Silveir�nia
+
+Salinas: Fruta de Leite
+
+Salinas: Novorizonte
+
+Salinas: Rubelita
+
+Salinas: Santa Cruz de Salinas
+
+Salinas: Taiobeiras
+
+Santos Dumont: Oliveira Fortes
+
+Santos Dumont: Oliveira Fortes
+
+Lago da Pedra: Maraj� do Sena
+
+S�o Francisco: Pint�polis
+
+S�o Jo�o Nepomuceno: Rochedo de Minas
+
+S�o Jo�o Nepomuceno: Rochedo de Minas
+
+S�o Louren�o: Carmo de Minas
+
+S�o Louren�o: Concei��o do Rio Verde
+
+S�o Louren�o: Cristina
+
+S�o Louren�o: Dom Vi�oso
+
+S�o Louren�o: Itamonte
+
+S�o Louren�o: Itanhandu
+
+S�o Louren�o: Lambari
+
+S�o Jo�o do Rio do Peixe: Triunfo
+
+Lago da Pedra: Paulo Ramos
+
+S�o Louren�o: Ol�mpio Noronha
+
+S�o Louren�o: Pouso Alto
+
+S�o Louren�o: S�o Sebasti�o do Rio Verde
+
+S�o Louren�o: Soledade de Minas
+
+S�o Louren�o: Virg�nia
+
+S�o Sebasti�o do Para�so: Jacu�
+
+S�o Sebasti�o do Para�so: Monte Santo de Minas
+
+S�o Sebasti�o do Para�so: S�o Tom�s de Aquino
+
+S�o Sebasti�o do Para�so: Jacu�
+
+S�o Sebasti�o do Para�so: Monte Santo de Minas
+
+Pio XII: Satubinha
+
+S�o Sebasti�o do Para�so: S�o Tom�s de Aquino
+
+Serro: Alvorada de Minas
+
+Serro: Santo Ant�nio do Itamb�
+
+Tr�s Cora��es: Cambuquira
+
+Tr�s Cora��es: Campanha
+
+Tr�s Cora��es: S�o Bento Abade
+
+Tr�s Cora��es: S�o Thom� das Letras
+
+Tr�s Pontas: Santana da Vargem
+
+Ub�: Br�s Pires
+
+Ub�: Divin�sia
+
+Santa Helena: Turil�ndia
+
+Ub�: Dores do Turvo
+
+Ub�: Guidoval
+
+Ub�: Pira�ba
+
+Ub�: Presidente Bernardes
+
+Ub�: Rodeiro
+
+Ub�: S�o Geraldo
+
+Ub�: Senador Firmino
+
+Ub�: Silveir�nia
+
+Ub�: Tocantins
+
+Ub�: Visconde do Rio Branco
+
+Santa Luzia do Paru�: Centro do Guilherme
+
+Ub�: Br�s Pires
+
+Ub�: Divin�sia
+
+Ub�: Dores do Turvo
+
+Ub�: Guidoval
+
+Ub�: Pira�ba
+
+Ub�: Presidente Bernardes
+
+Ub�: Rodeiro
+
+Ub�: S�o Geraldo
+
+Ub�: Senador Firmino
+
+Ub�: Silveir�nia
+
+Santa Luzia do Paru�: Nova Olinda do Maranh�o
+
+Ub�: Tocantins
+
+Ub�: Visconde do Rio Branco
+
+Vi�osa: Araponga
+
+Vi�osa: Cajuri
+
+Vi�osa: Cana�
+
+Vi�osa: Coimbra
+
+Vi�osa: Erv�lia
+
+Vi�osa: Paula C�ndido
+
+Vi�osa: Pedra do Anta
+
+Vi�osa: Porto Firme
+
+Tut�ia: Paulino Neves
+
+Vi�osa: Presidente Bernardes
+
+Tef�: Mara�
+
+Vi�osa: S�o Miguel do Anta
+
+Vi�osa: Teixeiras
+
+Virgin�polis: Divinol�ndia de Minas
+
+Virgin�polis: Divinol�ndia de Minas
+
+Afonso Cl�udio: Laranja da Terra
+
+Aracruz: Ibira�u
+
+Aracruz: Jo�o Neiva
+
+Barra de S�o Francisco: �guia Branca
+
+Barra de S�o Francisco: �gua Doce do Norte
+
+Vitorino Freire: Altamira do Maranh�o
+
+Barra de S�o Francisco: Ecoporanga
+
+Altamira: Uruar�
+
+Cachoeiro de Itapemirim: Alegre
+
+Cachoeiro de Itapemirim: Atilio Vivacqua
+
+Cachoeiro de Itapemirim: Castelo
+
+Cachoeiro de Itapemirim: Gua�u�
+
+Cachoeiro de Itapemirim: Iconha
+
+Cachoeiro de Itapemirim: Itapemirim
+
+Cachoeiro de Itapemirim: Jer�nimo Monteiro
+
+Cachoeiro de Itapemirim: Marata�zes
+
+Cachoeiro de Itapemirim: Mimoso do Sul
+
+An�sio de Abreu: Jurema
+
+Cachoeiro de Itapemirim: Muniz Freire
+
+Cachoeiro de Itapemirim: Muqui
+
+Cachoeiro de Itapemirim: Presidente Kennedy
+
+Cachoeiro de Itapemirim: Rio Novo do Sul
+
+Cachoeiro de Itapemirim: Vargem Alta
+
+Colatina: Alto Rio Novo
+
+Colatina: Governador Lindenberg
+
+Colatina: Manten�polis
+
+Colatina: Maril�ndia
+
+Colatina: Pancas
+
+Avelino Lopes: Morro Cabe�a no Tempo
+
+Colatina: S�o Domingos do Norte
+
+Colatina: S�o Gabriel da Palha
+
+Colatina: S�o Roque do Cana�
+
+Linhares: Rio Bananal
+
+Linhares: Sooretama
+
+Nova Ven�cia: Boa Esperan�a
+
+Nova Ven�cia: Vila Pav�o
+
+S�o Mateus: Concei��o da Barra
+
+S�o Mateus: Jaguar�
+
+S�o Mateus: Montanha
+
+Caracol: Guaribas
+
+S�o Mateus: Mucurici
+
+S�o Mateus: Pedro Can�rio
+
+S�o Mateus: Pinheiros
+
+S�o Mateus: Ponto Belo
+
+Venda Nova do Imigrante: Brejetuba
+
+Venda Nova do Imigrante: Concei��o do Castelo
+
+Bom Jesus do Itabapoana: Apiac�
+
+Quatis: Passa-Vinte
+
+Resende: Itatiaia
+
+Resende: Porto Real
+
+S�o Jo�o do Rio do Peixe: Triunfo
+
+Castelo do Piau�: Assun��o do Piau�
+
+Resende: Arape�
+
+Santo Ant�nio de P�dua: Pirapetinga
+
+Santo Ant�nio de P�dua: Itaocara
+
+Santo Ant�nio de P�dua: Miracema
+
+Santo Ant�nio de P�dua: Pirapetinga
+
+Santo Ant�nio de P�dua: Itaocara
+
+Adamantina: Fl�rida Paulista
+
+Adamantina: Luc�lia
+
+Adamantina: Mari�polis
+
+Adamantina: Pacaembu
+
+Castelo do Piau�: Buriti dos Montes
+
+Adamantina: Fl�rida Paulista
+
+Adamantina: Luc�lia
+
+Adamantina: Mari�polis
+
+ACP de Manaus: Canutama
+
+Adamantina: Pacaembu
+
+Amparo: �guas de Lind�ia
+
+Amparo: Lind�ia
+
+Amparo: Monte Alegre do Sul
+
+Ara�atuba: Andradina
+
+Ara�atuba: Auriflama
+
+Ara�atuba: Bento de Abreu
+
+Castelo do Piau�: Juazeiro do Piau�
+
+Ara�atuba: Bilac
+
+Ara�atuba: Birigui
+
+Ara�atuba: Bra�na
+
+Ara�atuba: Brejo Alegre
+
+Ara�atuba: Clementina
+
+Ara�atuba: Gast�o Vidigal
+
+Ara�atuba: General Salgado
+
+Ara�atuba: Glic�rio
+
+Ara�atuba: Guararapes
+
+Ara�atuba: Nova Luzit�nia
+
+Castelo do Piau�: S�o Jo�o da Serra
+
+Franca: Restinga
+
+Ara�atuba: Pen�polis
+
+Ara�atuba: Santo Ant�nio do Aracangu�
+
+Ara�atuba: Sud Mennucci
+
+Ara�atuba: Turi�ba
+
+Ara�atuba: Valpara�so
+
+Araras: Conchal
+
+Araras: Leme
+
+Assis: C�ndido Mota
+
+Assis: Cruz�lia
+
+Assis: Flor�nia
+
+Curimat�: J�lio Borges
+
+Assis: Maraca�
+
+Assis: Palmital
+
+Assis: Paragua�u Paulista
+
+Assis: Pedrinhas Paulista
+
+Assis: Tarum�
+
+Avar�: �guas de Santa B�rbara
+
+Avar�: Arandu
+
+Avar�: Cerqueira C�sar
+
+Avar�: Coronel Macedo
+
+Fronteiras: S�o Juli�o
+
+Avar�: Iaras
+
+Avar�: Ita�
+
+Avar�: Manduri
+
+Avar�: �leo
+
+Avar�: Paranapanema
+
+Avar�: Piraju
+
+Avar�: Tagua�
+
+Avar�: Taquarituba
+
+Barretos: Bebedouro
+
+Barretos: Colina
+
+Gilbu�s: Barreiras do Piau�
+
+Barretos: Col�mbia
+
+Barretos: Gua�ra
+
+Barretos: Jaborandi
+
+Bragan�a Paulista: Camanducaia
+
+Bragan�a Paulista: Extrema
+
+Bragan�a Paulista: Munhoz
+
+Bragan�a Paulista: Toledo
+
+Bragan�a Paulista: Joan�polis
+
+Bragan�a Paulista: Pedra Bela
+
+Bragan�a Paulista: Pinhalzinho
+
+Gilbu�s: Monte Alegre do Piau�
+
+Bragan�a Paulista: Tuiuti
+
+Bragan�a Paulista: Vargem
+
+Catanduva: Ariranha
+
+Catanduva: Catigu�
+
+Catanduva: Elisi�rio
+
+Catanduva: Emba�ba
+
+Catanduva: Fernando Prestes
+
+Catanduva: Itajobi
+
+Catanduva: Marapoama
+
+Catanduva: Novais
+
+Jaic�s: Bel�m do Piau�
+
+Catanduva: Novo Horizonte
+
+Catanduva: Palmares Paulista
+
+Catanduva: Para�so
+
+Catanduva: Pindorama
+
+Catanduva: Pirangi
+
+Catanduva: Santa Ad�lia
+
+Ja�: Pederneiras
+
+Catanduva: Tabapu�
+
+Catanduva: Urup�s
+
+Dracena: Flora Rica
+
+Dracena: Irapuru
+
+Jaic�s: Massap� do Piau�
+
+Dracena: Junqueir�polis
+
+Dracena: Monte Castelo
+
+Dracena: Nova Guataporanga
+
+Dracena: Ouro Verde
+
+Dracena: Panorama
+
+Dracena: Paulic�ia
+
+Dracena: Santa Mercedes
+
+Dracena: S�o Jo�o do Pau d'Alho
+
+Dracena: Tupi Paulista
+
+Fernand�polis: Estrela d'Oeste
+
+Desterro: Cacimbas
+
+Paulistana: Acau�
+
+Fernand�polis: Guarani d'Oeste
+
+Fernand�polis: Indiapor�
+
+Itapeva: Buri
+
+Fernand�polis: Maced�nia
+
+Fernand�polis: Meridiano
+
+Fernand�polis: Mira Estrela
+
+Fernand�polis: Ouroeste
+
+Fernand�polis: Pedran�polis
+
+Fernand�polis: S�o Jo�o das Duas Pontes
+
+Fernand�polis: S�o Jo�o de Iracema
+
+Fernand�polis: Suzan�polis
+
+Paulistana: Bet�nia do Piau�
+
+Franca: Capetinga
+
+Franca: C�ssia
+
+Franca: Claraval
+
+Franca: Delfin�polis
+
+Franca: Ibiraci
+
+Franca: Sacramento
+
+Franca: Cristais Paulista
+
+Franca: Itirapu�
+
+Franca: Jeriquara
+
+Franca: Patroc�nio Paulista
+
+Paulistana: Jacobina do Piau�
+
+Franca: Pedregulho
+
+Franca: Ribeir�o Corrente
+
+Franca: Rifaina
+
+Franca: S�o Joaquim da Barra
+
+Franca: S�o Jos� da Bela Vista
+
+Gar�a: Fern�o
+
+Guaratinguet�: Aparecida
+
+Guaratinguet�: Cruzeiro
+
+Guaratinguet�: Cunha
+
+Paulistana: Patos do Piau�
+
+Guaratinguet�: Lorena
+
+Guaratinguet�: Potim
+
+Itapetininga: Alambari
+
+Itapetininga: Angatuba
+
+Itapetininga: Campina do Monte Alegre
+
+Itapetininga: Guare�
+
+Itapetininga: S�o Miguel Arcanjo
+
+Itapetininga: Sarapu�
+
+Itapeva: Apia�
+
+Itapeva: Barra do Chap�u
+
+Paulistana: Queimada Nova
+
+Itapeva: Bom Sucesso de Itarar�
+
+Lins: Cafel�ndia
+
+Itapeva: Guapiara
+
+Itapeva: Itaber�
+
+Itapeva: Ita�ca
+
+Itapeva: Itapirapu� Paulista
+
+Itapeva: Itarar�
+
+Itapeva: Nova Campina
+
+Itapeva: Ribeir�o Branco
+
+Itapeva: Ribeir�o Grande
+
+Piracuruca: S�o Jos� do Divino
+
+Itapeva: Taquariva�
+
+It�polis: Borborema
+
+Ituverava: Buritizal
+
+Ituverava: Guar�
+
+Ituverava: Miguel�polis
+
+Jales: Aparecida d'Oeste
+
+Jales: Asp�sia
+
+Jales: Dirce Reis
+
+Jales: Dolcin�polis
+
+Jales: Mes�polis
+
+S�o Miguel do Tapuio: Assun��o do Piau�
+
+Jales: Palmeira d'Oeste
+
+Jales: Paranapu�
+
+Jales: Pontalinda
+
+Jales: Populina
+
+Jales: Santa Albertina
+
+Jales: Santa Salete
+
+Jales: S�o Francisco
+
+Jales: Suzan�polis
+
+Jales: Turmalina
+
+Jales: Ur�nia
+
+Uru�u�: Benedito Leite
+
+Jales: Vit�ria Brasil
+
+Ja�: Bariri
+
+Ja�: Barra Bonita
+
+Ja�: Bocaina
+
+Ja�: Borac�ia
+
+Ja�: Brotas
+
+Ja�: Dois C�rregos
+
+Ja�: Itapu�
+
+Ja�: Mineiros do Tiet�
+
+Uru�u�: S�o Domingos do Azeit�o
+
+Ja�: Torrinha
+
+Limeira: Cordeir�polis
+
+Limeira: Engenheiro Coelho
+
+Limeira: Iracem�polis
+
+Lins: Guai�ara
+
+Lins: Guarant�
+
+Lins: Promiss�o
+
+Lins: Sabino
+
+Lins: Uru
+
+Uru�u�: Baixa Grande do Ribeiro
+
+Mat�o: Dobrada
+
+Mococa: Arceburgo
+
+Mogi Gua�u: Estiva Gerbi
+
+Monte Alto: Vista Alegre do Alto
+
+Monte Apraz�vel: Nipo�
+
+Ol�mpia: Cajobi
+
+Ol�mpia: Guaraci
+
+Ol�mpia: Sever�nia
+
+Orl�ndia: Nuporanga
+
+ACP de Manaus: Carauari
+
+Osvaldo Cruz: In�bia Paulista
+
+Pianc�: Aguiar
+
+Uru�u�: Ribeiro Gon�alves
+
+Osvaldo Cruz: Sagres
+
+Osvaldo Cruz: Salmour�o
+
+Piracicaba: �guas de S�o Pedro
+
+Rio Branco: Pl�cido de Castro
+
+Piracicaba: Capivari
+
+Piracicaba: Charqueada
+
+Piracicaba: Laranjal Paulista
+
+Piracicaba: Rio Claro
+
+Piracicaba: Rio das Pedras
+
+Piracicaba: Saltinho
+
+Piracicaba: Santa Maria da Serra
+
+A�u: Afonso Bezerra
+
+Piracicaba: S�o Pedro
+
+Piraju: Fartura
+
+Piraju: Sarutai�
+
+Piraju: Tejup�
+
+Piraju: Timburi
+
+Presidente Epit�cio: Caiu�
+
+Presidente Epit�cio: Santa Rita do Pardo
+
+Presidente Venceslau: Marab� Paulista
+
+Presidente Venceslau: Piquerobi
+
+Rancharia: Jo�o Ramalho
+
+A�u: Afonso Bezerra
+
+Registro: Barra do Turvo
+
+Registro: Cajati
+
+Registro: Canan�ia
+
+Registro: Eldorado
+
+Registro: Iguape
+
+Registro: Ilha Comprida
+
+Registro: Iporanga
+
+Registro: Jacupiranga
+
+Registro: Juqui�
+
+Registro: Miracatu
+
+A�u: Alto do Rodrigues
+
+Registro: Pariquera-A�u
+
+Registro: Sete Barras
+
+Santa Cruz do Rio Pardo: Esp�rito Santo do Turvo
+
+Santa Cruz do Rio Pardo: S�o Pedro do Turvo
+
+Santa F� do Sul: Nova Cana� Paulista
+
+S�o Manuel: Arei�polis
+
+Santa F� do Sul: Rubin�ia
+
+Santa F� do Sul: Santa Clara d'Oeste
+
+Santa F� do Sul: Santana da Ponte Pensa
+
+Santa F� do Sul: Santa Rita d'Oeste
+
+Santa F� do Sul: Tr�s Fronteiras
+
+A�u: Alto do Rodrigues
+
+Para�so do Tocantins: Divin�polis do Tocantins
+
+Tef�: Tonantins
+
+Santa F� do Sul: Aparecida do Taboado
+
+S�o Jo�o da Boa Vista: Agua�
+
+S�o Jo�o da Boa Vista: �guas da Prata
+
+S�o Jo�o da Boa Vista: Casa Branca
+
+S�o Jo�o da Boa Vista: Esp�rito Santo do Pinhal
+
+S�o Jo�o da Boa Vista: Vargem Grande do Sul
+
+S�o Jos� do Rio Pardo: Caconde
+
+S�o Jos� do Rio Pardo: Divinol�ndia
+
+S�o Jos� do Rio Pardo: Itobi
+
+S�o Jos� do Rio Pardo: S�o Sebasti�o da Grama
+
+A�u: Angicos
+
+S�o Jos� do Rio Pardo: Tapiratiba
+
+S�o Manuel: Prat�nia
+
+Taquaritinga: C�ndido Rodrigues
+
+Taquaritinga: Santa Ernestina
+
+Tatu�: Ces�rio Lange
+
+Tatu�: Pereiras
+
+Tatu�: Porangaba
+
+Tatu�: Quadra
+
+Tatu�: Torre de Pedra
+
+A�u: Angicos
+
+Tiet�: Jumirim
+
+Tup�: Arco-�ris
+
+Tup�: Bastos
+
+Tup�: Hercul�ndia
+
+Tup�: Iacri
+
+Tup�: Parapu�
+
+Tup�: Queiroz
+
+Tup�: Rin�polis
+
+Votuporanga: �lvares Florence
+
+Votuporanga: Am�rico de Campos
+
+A�u: Carnaubais
+
+Votuporanga: Cardoso
+
+Ji-Paran�: Alvorada d'Oeste
+
+Votuporanga: Cosmorama
+
+Votuporanga: Floreal
+
+Votuporanga: Nhandeara
+
+Votuporanga: Parisi
+
+Votuporanga: Pontes Gestal
+
+Votuporanga: Riol�ndia
+
+Votuporanga: Sebastian�polis do Sul
+
+Votuporanga: Valentim Gentil
+
+Andir�: Barra do Jacar�
+
+A�u: Carnaubais
+
+Apucarana: Borraz�polis
+
+Apucarana: Calif�rnia
+
+Apucarana: Cruzmaltina
+
+Apucarana: Jandaia do Sul
+
+Apucarana: Kalor�
+
+Apucarana: Maril�ndia do Sul
+
+Apucarana: Mau� da Serra
+
+Apucarana: Novo Itacolomi
+
+Apucarana: Rio Bom
+
+Arapongas: Pitangueiras
+
+ACP de Manaus: Careiro
+
+A�u: Fernando Pedroza
+
+Arapongas: Sab�udia
+
+Bandeirantes: Itambarac�
+
+Campo Mour�o: Araruna
+
+Campo Mour�o: Barbosa Ferraz
+
+Campo Mour�o: Boa Esperan�a
+
+Campo Mour�o: Campina da Lagoa
+
+Campo Mour�o: Corumbata� do Sul
+
+Campo Mour�o: Farol
+
+Campo Mour�o: F�nix
+
+Rio Branco: Santa Rosa do Purus
+
+Campo Mour�o: Goioer�
+
+Pianc�: Santana dos Garrotes
+
+A�u: Fernando Pedroza
+
+Campo Mour�o: Iretama
+
+Campo Mour�o: Jani�polis
+
+Campo Mour�o: Juranda
+
+Campo Mour�o: Luiziana
+
+Campo Mour�o: Mambor�
+
+Campo Mour�o: Nova Cantu
+
+Campo Mour�o: Nova Tebas
+
+Ji-Paran�: Nova Uni�o
+
+Campo Mour�o: Peabiru
+
+Campo Mour�o: Quinta do Sol
+
+Campo Mour�o: Roncador
+
+A�u: Ipangua�u
+
+Campo Mour�o: Terra Boa
+
+Campo Mour�o: Ubirat�
+
+Capanema: P�rola d'Oeste
+
+Chopinzinho: Saudade do Igua�u
+
+Chopinzinho: Sulina
+
+Cianorte: Guaporema
+
+Cianorte: Indian�polis
+
+Cianorte: Japur�
+
+Cianorte: Jussara
+
+Cianorte: Rondon
+
+A�u: Ipangua�u
+
+Cianorte: S�o Manoel do Paran�
+
+Cianorte: S�o Tom�
+
+Cianorte: Tapejara
+
+Cianorte: Terra Boa
+
+Cianorte: Tuneiras do Oeste
+
+Corn�lio Proc�pio: Congonhinhas
+
+Corn�lio Proc�pio: Le�polis
+
+Corn�lio Proc�pio: Nova Am�rica da Colina
+
+Corn�lio Proc�pio: Nova F�tima
+
+Corn�lio Proc�pio: Nova Santa B�rbara
+
+A�u: Itaj�
+
+Corn�lio Proc�pio: Rancho Alegre
+
+Corn�lio Proc�pio: Santa Am�lia
+
+Corn�lio Proc�pio: Santa Mariana
+
+Corn�lio Proc�pio: Santo Ant�nio do Para�so
+
+Corn�lio Proc�pio: S�o Sebasti�o da Amoreira
+
+Corn�lio Proc�pio: Sertaneja
+
+Corn�lio Proc�pio: Ura�
+
+Coronel Vivida: Hon�rio Serpa
+
+Coronel Vivida: Mangueirinha
+
+Faxinal: Cruzmaltina
+
+A�u: Itaj�
+
+Faxinal: Grandes Rios
+
+Foz do Igua�u: Itaipul�ndia
+
+Foz do Igua�u: Medianeira
+
+Foz do Igua�u: Santa Terezinha de Itaipu
+
+Foz do Igua�u: S�o Miguel do Igua�u
+
+Francisco Beltr�o: Amp�re
+
+Francisco Beltr�o: Barrac�o
+
+Francisco Beltr�o: Bela Vista da Caroba
+
+Francisco Beltr�o: Dois Vizinhos
+
+Francisco Beltr�o: En�as Marques
+
+A�u: Lajes
+
+Francisco Beltr�o: Flor da Serra do Sul
+
+Francisco Beltr�o: Manfrin�polis
+
+Francisco Beltr�o: Marmeleiro
+
+Francisco Beltr�o: Nova Esperan�a do Sudoeste
+
+Francisco Beltr�o: Nova Prata do Igua�u
+
+Francisco Beltr�o: Pinhal de S�o Bento
+
+Francisco Beltr�o: Pranchita
+
+Francisco Beltr�o: Realeza
+
+Francisco Beltr�o: Renascen�a
+
+Francisco Beltr�o: Salgado Filho
+
+A�u: Lajes
+
+Francisco Beltr�o: Santa Izabel do Oeste
+
+Francisco Beltr�o: Santo Ant�nio do Sudoeste
+
+ACP de Bel�m: Salin�polis
+
+Francisco Beltr�o: Ver�
+
+Francisco Beltr�o: Campo Er�
+
+Gua�ra: Terra Roxa
+
+Ibaiti: Conselheiro Mairinck
+
+Ibaiti: Jaboti
+
+Ibaiti: Japira
+
+Ibaiti: Pinhal�o
+
+Ibaiti: Tomazina
+
+A�u: Para�
+
+Irati: Fernandes Pinheiro
+
+Irati: Guamiranga
+
+Irati: Imbituva
+
+Irati: Mallet
+
+Irati: Rebou�as
+
+Irati: Rio Azul
+
+Irati: Teixeira Soares
+
+Ivaipor�: Arapu�
+
+Ivaipor�: Ariranha do Iva�
+
+Ivaipor�: C�ndido de Abreu
+
+A�u: Para�
+
+Ivaipor�: Grandes Rios
+
+Ivaipor�: Lidian�polis
+
+Ivaipor�: Lunardelli
+
+Ivaipor�: Manoel Ribas
+
+Ivaipor�: Rio Branco do Iva�
+
+Ivaipor�: Ros�rio do Iva�
+
+Ivaipor�: S�o Jo�o do Iva�
+
+Jacarezinho: Cambar�
+
+Jacarezinho: Ribeir�o Claro
+
+Jaguaria�va: Arapoti
+
+A�u: Pend�ncias
+
+Laranjeiras do Sul: Foz do Jord�o
+
+Laranjeiras do Sul: Marquinho
+
+Laranjeiras do Sul: Nova Laranjeiras
+
+Laranjeiras do Sul: Porto Barreiro
+
+Laranjeiras do Sul: Rio Bonito do Igua�u
+
+Laranjeiras do Sul: Virmond
+
+Marechal C�ndido Rondon: Entre Rios do Oeste
+
+Marechal C�ndido Rondon: Mercedes
+
+Marechal C�ndido Rondon: Nova Santa Rosa
+
+Marechal C�ndido Rondon: Pato Bragado
+
+Pombal: Cajazeirinhas
+
+ACP de Bel�m: Salvaterra
+
+A�u: Pend�ncias
+
+Marechal C�ndido Rondon: Quatro Pontes
+
+Palmas: Coronel Domingos Soares
+
+Palmeira: S�o Jo�o do Triunfo
+
+Paranacity: Inaj�
+
+Paranava�: Alto Paran�
+
+Paranava�: Amapor�
+
+Paranava�: Diamante do Norte
+
+Paranava�: Guaira��
+
+Paranava�: Ita�na do Sul
+
+Paranava�: Loanda
+
+A�u: Porto do Mangue
+
+Paranava�: Mirador
+
+Paranava�: Nova Alian�a do Iva�
+
+Paranava�: Nova Londrina
+
+Paranava�: Para�so do Norte
+
+Paranava�: Planaltina do Paran�
+
+Paranava�: Santo Ant�nio do Caiu�
+
+Paranava�: S�o Carlos do Iva�
+
+Paranava�: S�o Jo�o do Caiu�
+
+Paranava�: Tamboara
+
+Paranava�: Terra Rica
+
+A�u: Porto do Mangue
+
+Pitanga: Boa Ventura de S�o Roque
+
+Pitanga: Laranjal
+
+Pitanga: Nova Tebas
+
+Pitanga: Santa Maria do Oeste
+
+Prudent�polis: Guamiranga
+
+Prudent�polis: Guamiranga
+
+Quedas do Igua�u: Espig�o Alto do Igua�u
+
+Santo Ant�nio da Platina: Abati�
+
+Santo Ant�nio da Platina: Barra do Jacar�
+
+Santo Ant�nio da Platina: Carl�polis
+
+A�u: S�o Rafael
+
+Santo Ant�nio da Platina: Guapirama
+
+Santo Ant�nio da Platina: Joaquim T�vora
+
+Santo Ant�nio da Platina: Jundia� do Sul
+
+Santo Ant�nio da Platina: Quatigu�
+
+Blumenau: Gaspar
+
+Santo Ant�nio da Platina: Siqueira Campos
+
+Santo Ant�nio da Platina: Tomazina
+
+S�o Mateus do Sul: Ant�nio Olinto
+
+Tel�maco Borba: Curi�va
+
+Tel�maco Borba: Imba�
+
+Tel�maco Borba: Ortigueira
+
+A�u: S�o Rafael
+
+Tel�maco Borba: Reserva
+
+Tel�maco Borba: Tibagi
+
+Tel�maco Borba: Ventania
+
+Toledo: Assis Chateaubriand
+
+Toledo: Marip�
+
+Toledo: Ouro Verde do Oeste
+
+Toledo: Palotina
+
+Toledo: S�o Jos� das Palmeiras
+
+Toledo: S�o Pedro do Igua�u
+
+Blumenau: Api�na
+
+A�u: Triunfo Potiguar
+
+Blumenau: Ascurra
+
+Blumenau: Balne�rio Cambori�
+
+Blumenau: Benedito Novo
+
+Blumenau: Brusque
+
+Blumenau: Indaial
+
+Blumenau: Pomerode
+
+Blumenau: Presidente Get�lio
+
+Blumenau: Rio do Sul
+
+Blumenau: Timb�
+
+A�u: Triunfo Potiguar
+
+Blumenau: Api�na
+
+Blumenau: Ascurra
+
+Blumenau: Balne�rio Cambori�
+
+Blumenau: Benedito Novo
+
+Blumenau: Brusque
+
+Blumenau: Gaspar
+
+Blumenau: Indaial
+
+Blumenau: Pomerode
+
+Blumenau: Presidente Get�lio
+
+Blumenau: Rio do Sul
+
+Alexandria: Pil�es
+
+Blumenau: Timb�
+
+Ca�ador: Lebon R�gis
+
+Ca�ador: Matos Costa
+
+Ca�ador: Timb� Grande
+
+ACP de Recife: Gravat�
+
+Ca�ador: Videira
+
+Ca�ador: Lebon R�gis
+
+Ca�ador: Matos Costa
+
+Ca�ador: Timb� Grande
+
+Ca�ador: Videira
+
+Chapec�: �guas de Chapec�
+
+Alexandria: Pil�es
+
+Chapec�: �guas Frias
+
+Chapec�: Arvoredo
+
+Chapec�: Caibi
+
+Chapec�: Caxambu do Sul
+
+Chapec�: Conc�rdia
+
+Chapec�: Cordilheira Alta
+
+Chapec�: Coronel Freitas
+
+Chapec�: Cunhata�
+
+Chapec�: Formosa do Sul
+
+Chapec�: Guatamb�
+
+Apodi: Rodolfo Fernandes
+
+Chapec�: Irati
+
+Chapec�: Jardin�polis
+
+Chapec�: Maravilha
+
+Chapec�: Modelo
+
+Chapec�: Monda�
+
+Chapec�: Nova Erechim
+
+Chapec�: Nova Itaberaba
+
+Chapec�: Palmitos
+
+Chapec�: Pinhalzinho
+
+Chapec�: Planalto Alegre
+
+Pombal: Condado
+
+Apodi: Rodolfo Fernandes
+
+Chapec�: Quilombo
+
+Chapec�: Riqueza
+
+Chapec�: Santiago do Sul
+
+Chapec�: S�o Carlos
+
+Chapec�: S�o Louren�o do Oeste
+
+Chapec�: S�o Miguel do Oeste
+
+Chapec�: Seara
+
+Chapec�: Serra Alta
+
+Chapec�: Uni�o do Oeste
+
+Chapec�: Xanxer�
+
+Apodi: Severiano Melo
+
+Ji-Paran�: S�o Francisco do Guapor�
+
+Chapec�: Xaxim
+
+Chapec�: Alpestre
+
+Chapec�: Nonoai
+
+Chapec�: Planalto
+
+Chapec�: Trindade do Sul
+
+Chapec�: �guas de Chapec�
+
+Chapec�: �guas Frias
+
+Chapec�: Arvoredo
+
+Chapec�: Caibi
+
+Chapec�: Caxambu do Sul
+
+Apodi: Severiano Melo
+
+Chapec�: Conc�rdia
+
+Chapec�: Cordilheira Alta
+
+Chapec�: Coronel Freitas
+
+Chapec�: Cunhata�
+
+Chapec�: Formosa do Sul
+
+Chapec�: Guatamb�
+
+Chapec�: Irati
+
+Chapec�: Jardin�polis
+
+Chapec�: Maravilha
+
+Ji-Paran�: Seringueiras
+
+Chapec�: Modelo
+
+Parelhas: Equador
+
+Chapec�: Monda�
+
+Chapec�: Nova Erechim
+
+Chapec�: Nova Itaberaba
+
+Chapec�: Palmitos
+
+Chapec�: Pinhalzinho
+
+Chapec�: Planalto Alegre
+
+Chapec�: Quilombo
+
+Chapec�: Riqueza
+
+Chapec�: Santiago do Sul
+
+Chapec�: S�o Carlos
+
+Parelhas: Equador
+
+Chapec�: S�o Louren�o do Oeste
+
+Chapec�: S�o Miguel do Oeste
+
+Chapec�: Seara
+
+Chapec�: Serra Alta
+
+Chapec�: Uni�o do Oeste
+
+Chapec�: Xanxer�
+
+Chapec�: Xaxim
+
+ACP de Goi�nia: Indiara
+
+Chapec�: Alpestre
+
+Chapec�: Nonoai
+
+Chapec�: Planalto
+
+Parelhas: Santana do Serid�
+
+Chapec�: Trindade do Sul
+
+Crici�ma: Ararangu�
+
+Crici�ma: Cocal do Sul
+
+Crici�ma: Forquilhinha
+
+Crici�ma: I�ara
+
+Crici�ma: Lauro Muller
+
+Crici�ma: Morro da Fuma�a
+
+Crici�ma: Nova Veneza
+
+Crici�ma: Orleans
+
+Crici�ma: Sider�polis
+
+Parelhas: Santana do Serid�
+
+Crici�ma: Treviso
+
+Crici�ma: Urussanga
+
+Crici�ma: Ararangu�
+
+Crici�ma: Cocal do Sul
+
+Crici�ma: Forquilhinha
+
+Ji-Paran�: Teixeir�polis
+
+Crici�ma: I�ara
+
+Crici�ma: Lauro Muller
+
+Crici�ma: Morro da Fuma�a
+
+Crici�ma: Nova Veneza
+
+Crici�ma: Orleans
+
+Patu: Almino Afonso
+
+Crici�ma: Sider�polis
+
+Crici�ma: Treviso
+
+Crici�ma: Urussanga
+
+Imbituba: Garopaba
+
+Imbituba: Imaru�
+
+Imbituba: Garopaba
+
+Imbituba: Imaru�
+
+Itaja�: Balne�rio Cambori�
+
+Itaja�: Bombinhas
+
+Itaja�: Ilhota
+
+Patu: Almino Afonso
+
+Itaja�: Luiz Alves
+
+Itaja�: Navegantes
+
+Itaja�: Penha
+
+Itaja�: Pi�arras
+
+Itaja�: Balne�rio Cambori�
+
+Itaja�: Bombinhas
+
+Itaja�: Ilhota
+
+Itaja�: Luiz Alves
+
+Itaja�: Navegantes
+
+Itaja�: Penha
+
+Patu: Ant�nio Martins
+
+Itaja�: Pi�arras
+
+Joa�aba: �gua Doce
+
+Joa�aba: Campos Novos
+
+Joa�aba: Capinzal
+
+Joa�aba: Catanduvas
+
+Joa�aba: Erval Velho
+
+Joa�aba: Herval d'Oeste
+
+Joa�aba: Ibicar�
+
+Joa�aba: Jabor�
+
+Joa�aba: Lacerd�polis
+
+Pombal: Lagoa
+
+Patu: Ant�nio Martins
+
+Joa�aba: Luzerna
+
+Ji-Paran�: Urup�
+
+Joa�aba: Treze T�lias
+
+Joa�aba: Vargem Bonita
+
+Joa�aba: �gua Doce
+
+Joa�aba: Campos Novos
+
+Joa�aba: Capinzal
+
+Joa�aba: Catanduvas
+
+Joa�aba: Erval Velho
+
+Joa�aba: Herval d'Oeste
+
+Joa�aba: Ibicar�
+
+Patu: Rafael Godeiro
+
+Joa�aba: Jabor�
+
+Joa�aba: Lacerd�polis
+
+Joa�aba: Luzerna
+
+Joa�aba: Treze T�lias
+
+Joa�aba: Vargem Bonita
+
+Lages: Anita Garibaldi
+
+Lages: Bocaina do Sul
+
+Lages: Bom Jardim da Serra
+
+Lages: Bom Retiro
+
+Lages: Cap�o Alto
+
+Ji-Paran�: Vale do Para�so
+
+Patu: Rafael Godeiro
+
+Lages: Campo Belo do Sul
+
+Lages: Cerro Negro
+
+Lages: Correia Pinto
+
+Lages: Curitibanos
+
+Lages: Otac�lio Costa
+
+Lages: Painel
+
+Lages: Palmeira
+
+Tef�: Japur�
+
+Lages: Ponte Alta
+
+Lages: Rio Rufino
+
+Lages: S�o Joaquim
+
+S�o Miguel: Coronel Jo�o Pessoa
+
+Lages: S�o Jos� do Cerrito
+
+Lages: Urubici
+
+Lages: Urupema
+
+Lages: Anita Garibaldi
+
+Lages: Bocaina do Sul
+
+Lages: Bom Jardim da Serra
+
+Lages: Bom Retiro
+
+Lages: Cap�o Alto
+
+Lages: Campo Belo do Sul
+
+Lages: Cerro Negro
+
+S�o Miguel: Coronel Jo�o Pessoa
+
+Lages: Correia Pinto
+
+Lages: Curitibanos
+
+Lages: Otac�lio Costa
+
+Lages: Painel
+
+Lages: Palmeira
+
+Lages: Ponte Alta
+
+Lages: Rio Rufino
+
+Lages: S�o Joaquim
+
+Lages: S�o Jos� do Cerrito
+
+Lages: Urubici
+
+S�o Miguel: Venha-Ver
+
+Lages: Urupema
+
+Mafra: Rio Negro
+
+Mafra: Canoinhas
+
+Mafra: Itai�polis
+
+Mafra: Papanduva
+
+Porto Uni�o: Irine�polis
+
+Porto Uni�o: Matos Costa
+
+S�o Bento do Sul: Pi�n
+
+S�o Bento do Sul: Campo Alegre
+
+S�o Bento do Sul: Rio Negrinho
+
+S�o Miguel: Venha-Ver
+
+Tijucas: Canelinha
+
+Tijucas: Canelinha
+
+Tubar�o: Armaz�m
+
+Tubar�o: Bra�o do Norte
+
+Tubar�o: Capivari de Baixo
+
+Tubar�o: Gravatal
+
+Tubar�o: Jaguaruna
+
+Tubar�o: Laguna
+
+Tubar�o: Pedras Grandes
+
+Tubar�o: Sang�o
+
+Umarizal: Vi�osa
+
+Tubar�o: S�o Ludgero
+
+Tubar�o: S�o Martinho
+
+Tubar�o: Treze de Maio
+
+Tubar�o: Armaz�m
+
+Tubar�o: Bra�o do Norte
+
+Tubar�o: Capivari de Baixo
+
+Ji-Paran�: Rondol�ndia
+
+Tubar�o: Gravatal
+
+Tubar�o: Jaguaruna
+
+Tubar�o: Laguna
+
+Tubar�o: Pedras Grandes
+
+Umarizal: Vi�osa
+
+Tubar�o: Sang�o
+
+Tubar�o: S�o Ludgero
+
+Tubar�o: S�o Martinho
+
+Tubar�o: Treze de Maio
+
+Arroio do Meio: Capit�o
+
+Bag�: Acegu�
+
+Bag�: Candiota
+
+Bag�: Dom Pedrito
+
+Bag�: Hulha Negra
+
+Bag�: Pinheiro Machado
+
+Cajazeiras: Baixio
+
+Bento Gon�alves: Carlos Barbosa
+
+Bento Gon�alves: Garibaldi
+
+Bento Gon�alves: Monte Belo do Sul
+
+Bento Gon�alves: Nova Prata
+
+Bento Gon�alves: Santa Tereza
+
+Bento Gon�alves: S�o Valentim do Sul
+
+Bento Gon�alves: Veran�polis
+
+Ca�apava do Sul: Lavras do Sul
+
+Ca�apava do Sul: Santana da Boa Vista
+
+Cachoeira do Sul: Cerro Branco
+
+Pombal: Mato Grosso
+
+Cajazeiras: Ipaumirim
+
+Cachoeira do Sul: Novo Cabrais
+
+Cachoeira do Sul: Para�so do Sul
+
+Carazinho: Almirante Tamandar� do Sul
+
+Carazinho: Chapada
+
+Carazinho: Coqueiros do Sul
+
+Carazinho: N�o-Me-Toque
+
+Carazinho: Saldanha Marinho
+
+Carazinho: Santo Ant�nio do Planalto
+
+Carazinho: Sarandi
+
+Casca: Santo Ant�nio do Palma
+
+Cajazeiras: S�o Jo�o do Rio do Peixe
+
+Casca: S�o Domingos do Sul
+
+Encantado: Anta Gorda
+
+Encantado: Arvorezinha
+
+Encantado: Doutor Ricardo
+
+Encantado: Il�polis
+
+Encantado: Mu�um
+
+Encantado: Nova Br�scia
+
+Encantado: Relvado
+
+Encantado: Roca Sales
+
+Erechim: Aratiba
+
+Cajazeiras: Bom Jesus
+
+Erechim: �urea
+
+Erechim: Bar�o de Cotegipe
+
+Erechim: Barra do Rio Azul
+
+Erechim: Benjamin Constant do Sul
+
+Rio Branco: Epitaciol�ndia
+
+Erechim: Campinas do Sul
+
+Erechim: Carlos Gomes
+
+Erechim: Centen�rio
+
+Erechim: Charrua
+
+Erechim: Cruzaltense
+
+Erechim: Erval Grande
+
+Cajazeiras: Bonito de Santa F�
+
+Erechim: Esta��o
+
+Erechim: Faxinalzinho
+
+Erechim: Gaurama
+
+Erechim: Get�lio Vargas
+
+Erechim: Itatiba do Sul
+
+Erechim: Jacutinga
+
+Erechim: Marcelino Ramos
+
+Erechim: Mariano Moro
+
+Erechim: Paim Filho
+
+Erechim: Paulo Bento
+
+Cajazeiras: Cachoeira dos �ndios
+
+Erechim: Ponte Preta
+
+Erechim: Quatro Irm�os
+
+Erechim: S�o Valentim
+
+Erechim: Severiano de Almeida
+
+Erechim: Tr�s Arroios
+
+Erechim: Viadutos
+
+Espumoso: Alto Alegre
+
+Espumoso: Campos Borges
+
+Estrela: Colinas
+
+Estrela: Teut�nia
+
+Cajazeiras: Carrapateira
+
+Frederico Westphalen: Ametista do Sul
+
+Frederico Westphalen: Boa Vista das Miss�es
+
+Frederico Westphalen: Cai�ara
+
+Frederico Westphalen: Erval Seco
+
+Frederico Westphalen: Ira�
+
+Frederico Westphalen: Jaboticaba
+
+Frederico Westphalen: Liberato Salzano
+
+Frederico Westphalen: Palmitinho
+
+Frederico Westphalen: Pinhal
+
+Frederico Westphalen: Pinheirinho do Vale
+
+Cajazeiras: Concei��o
+
+Frederico Westphalen: Rodeio Bonito
+
+Frederico Westphalen: Seberi
+
+Frederico Westphalen: Taquaru�u do Sul
+
+Frederico Westphalen: Vicente Dutra
+
+Frederico Westphalen: Vista Alegre
+
+Horizontina: Doutor Maur�cio Cardoso
+
+Ibirub�: Quinze de Novembro
+
+Vilhena: Cabixi
+
+Itaqui: Ma�ambara
+
+Itaqui: Ma�ambara
+
+Lagoa Vermelha: Cap�o Bonito do Sul
+
+Cajazeiras: Monte Horebe
+
+Lagoa Vermelha: Caseiros
+
+Lagoa Vermelha: S�o Jos� do Ouro
+
+Lagoa Vermelha: Tupanci do Sul
+
+Marau: Camargo
+
+Marau: Gentil
+
+Marau: Nova Alvorada
+
+Nova Petr�polis: Linha Nova
+
+Nova Petr�polis: Picada Caf�
+
+Palmeira das Miss�es: Boa Vista das Miss�es
+
+Palmeira das Miss�es: Cerro Grande
+
+Cajazeiras: Po�o de Jos� de Moura
+
+Palmeira das Miss�es: Dois Irm�os das Miss�es
+
+Palmeira das Miss�es: Lajeado do Bugre
+
+Palmeira das Miss�es: Novo Barreiro
+
+Palmeira das Miss�es: Rodeio Bonito
+
+Palmeira das Miss�es: Sagrada Fam�lia
+
+Palmeira das Miss�es: S�o Jos� das Miss�es
+
+Palmeira das Miss�es: S�o Pedro das Miss�es
+
+Salto do Jacu�: Jacuizinho
+
+Salvador do Sul: S�o Jos� do Sul
+
+Sananduva: Maximiliano de Almeida
+
+Cajazeiras: Santa Helena
+
+Sananduva: Paim Filho
+
+Sananduva: Santo Expedito do Sul
+
+Sananduva: S�o Jo�o da Urtiga
+
+Santa Vit�ria do Palmar: Chu�
+
+Santiago: Cap�o do Cip�
+
+Santiago: Itacurubi
+
+Santiago: Nova Esperan�a do Sul
+
+Santiago: Unistalda
+
+Santo �ngelo: Cerro Largo
+
+Santo �ngelo: Entre-Iju�s
+
+Santana: Can�polis
+
+Pombal: Paulista
+
+Cajazeiras: S�o Jos� de Piranhas
+
+Santo �ngelo: Eug�nio de Castro
+
+Santo �ngelo: Giru�
+
+Santo �ngelo: Guarani das Miss�es
+
+Santo �ngelo: Mato Queimado
+
+Santo �ngelo: Porto Xavier
+
+Santo �ngelo: S�o Luiz Gonzaga
+
+Santo �ngelo: S�o Miguel das Miss�es
+
+Santo �ngelo: Sete de Setembro
+
+Santo �ngelo: Vit�ria das Miss�es
+
+Santo Augusto: Chiapetta
+
+Cajazeiras: Serra Grande
+
+Santo Augusto: Coronel Bicaco
+
+Santo Augusto: Inhacor�
+
+Santo Augusto: S�o Val�rio do Sul
+
+S�o Gabriel: Santa Margarida do Sul
+
+S�o Gabriel: Vila Nova do Sul
+
+S�o Sebasti�o do Ca�: Harmonia
+
+S�o Sebasti�o do Ca�: Tupandi
+
+Serafina Corr�a: Montauri
+
+Sinimbu: Herveiras
+
+Soledade: Arvorezinha
+
+Catol� do Rocha: Jo�o Dias
+
+Soledade: Barros Cassal
+
+Soledade: Fontoura Xavier
+
+Soledade: Ibirapuit�
+
+Soledade: Morma�o
+
+Soledade: S�o Jos� do Herval
+
+Tapejara: �gua Santa
+
+Tapejara: Charrua
+
+Tapejara: Ibia��
+
+Tapejara: Santa Cec�lia do Sul
+
+Tapejara: Vila L�ngaro
+
+Catol� do Rocha: Bel�m do Brejo do Cruz
+
+Tenente Portela: Barra do Guarita
+
+Tenente Portela: Miragua�
+
+Tenente Portela: Vista Ga�cha
+
+Tr�s de Maio: Alegria
+
+Tr�s de Maio: Boa Vista do Buric�
+
+Tr�s de Maio: Independ�ncia
+
+Tr�s de Maio: S�o Jos� do Inhacor�
+
+Tr�s Passos: Bom Progresso
+
+Tr�s Passos: Braga
+
+Tr�s Passos: Crissiumal
+
+Catol� do Rocha: Bom Sucesso
+
+Tr�s Passos: Derrubadas
+
+Tr�s Passos: Esperan�a do Sul
+
+Tr�s Passos: Humait�
+
+Tr�s Passos: Redentora
+
+Tr�s Passos: S�o Martinho
+
+Tr�s Passos: Sede Nova
+
+Tr�s Passos: Tiradentes do Sul
+
+Tucunduva: Novo Machado
+
+Vacaria: Esmeralda
+
+Vacaria: Monte Alegre dos Campos
+
+Catol� do Rocha: Brejo do Cruz
+
+Vacaria: Muitos Cap�es
+
+Vacaria: Pinhal da Serra
+
+Ven�ncio Aires: Mato Leit�o
+
+Ven�ncio Aires: Passo do Sobrado
+
+Aquidauana: Anast�cio
+
+Aquidauana: Nioaque
+
+Bataguassu: Santa Rita do Pardo
+
+Carauari: Itamarati
+
+Bataguassu: Santa Rita do Pardo
+
+Camapu�: Figueir�o
+
+Cassil�ndia: Apor�
+
+Catol� do Rocha: Brejo dos Santos
+
+Cassil�ndia: Itaj�
+
+Cassil�ndia: Lagoa Santa
+
+Chapad�o do Sul: Chapad�o do C�u
+
+Corumb�: Lad�rio
+
+Coxim: Alcin�polis
+
+Dourados: Amamba�
+
+Dourados: Ang�lica
+
+Dourados: Caarap�
+
+Dourados: Deod�polis
+
+Dourados: Douradina
+
+Catol� do Rocha: Jeric�
+
+Dourados: F�tima do Sul
+
+Dourados: Gl�ria de Dourados
+
+Dourados: Itapor�
+
+Dourados: Ivinhema
+
+Dourados: Jate�
+
+Dourados: Juti
+
+Dourados: Laguna Carap�
+
+Dourados: Maracaju
+
+Dourados: Mundo Novo
+
+Dourados: Navira�
+
+Catol� do Rocha: Riacho dos Cavalos
+
+Dourados: Novo Horizonte do Sul
+
+Dourados: Ponta Por�
+
+Dourados: Rio Brilhante
+
+Dourados: Sete Quedas
+
+Dourados: Tacuru
+
+Dourados: Vicentina
+
+Jardim: Guia Lopes da Laguna
+
+Miranda: Bodoquena
+
+Nova Andradina: Anauril�ndia
+
+Nova Andradina: Ang�lica
+
+Itaporanga: Aguiar
+
+Nova Andradina: Bataipor�
+
+Nova Andradina: Taquarussu
+
+Parana�ba: Inoc�ncia
+
+Tr�s Lagoas: �gua Clara
+
+Tr�s Lagoas: Brasil�ndia
+
+Tr�s Lagoas: Selv�ria
+
+�gua Boa: Campin�polis
+
+�gua Boa: Canarana
+
+�gua Boa: Cocalinho
+
+�gua Boa: Ga�cha do Norte
+
+Pombal: Riacho dos Cavalos
+
+Itaporanga: Boa Ventura
+
+�gua Boa: Nova Nazar�
+
+�gua Boa: Quer�ncia
+
+�gua Boa: Ribeir�o Cascalheira
+
+Araputanga: Figueir�polis d'Oeste
+
+Araputanga: Indiava�
+
+Araputanga: Jauru
+
+Araputanga: Reserva do Caba�al
+
+Campo Novo do Parecis: Sapezal
+
+Comodoro: Campos de J�lio
+
+Confresa: Porto Alegre do Norte
+
+Itaporanga: Igaracy
+
+Confresa: S�o Jos� do Xingu
+
+Confresa: Santa Cruz do Xingu
+
+Jaciara: Dom Aquino
+
+Jaciara: Juscimeira
+
+Jaciara: S�o Pedro da Cipa
+
+Lucas do Rio Verde: Tapurah
+
+Mirassol d'Oeste: Gl�ria d'Oeste
+
+Mirassol d'Oeste: Porto Esperidi�o
+
+Mirassol d'Oeste: S�o Jos� dos Quatro Marcos
+
+Rio Branco: Feij�
+
+Pontes e Lacerda: Conquista d'Oeste
+
+Itaporanga: Curral Velho
+
+Pontes e Lacerda: Vila Bela da Sant�ssima Trindade
+
+Pontes e Lacerda: Nova Lacerda
+
+Pontes e Lacerda: Vale de S�o Domingos
+
+Terra Nova do Norte: Nova Guarita
+
+Vila Rica: Porto Alegre do Norte
+
+Vila Rica: Santa Cruz do Xingu
+
+Vila Rica: Santa Terezinha
+
+Goiatuba: Jovi�nia
+
+Quirin�polis: Gouvel�ndia
+
+Quirin�polis: Paranaiguara
+
+Itaporanga: Diamante
+
+Quirin�polis: S�o Sim�o
+
+Rubiataba: Ipiranga de Goi�s
+
+Rubiataba: Morro Agudo de Goi�s
+
+Rubiataba: Nova Am�rica
+
+Ariquemes: Machadinho d'Oeste
+
+Ariquemes: Rio Crespo
+
+Ariquemes: Alto Para�so
+
+Ariquemes: Buritis
+
+Ariquemes: Cacaul�ndia
+
+Ariquemes: Campo Novo de Rond�nia
+
+Itaporanga: Ibiara
+
+Ariquemes: Cujubim
+
+Ariquemes: Monte Negro
+
+Guajar�-Mirim: Nova Mamor�
+
+Jaru: Governador Jorge Teixeira
+
+Jaru: Theobroma
+
+Jaru: Vale do Anari
+
+Ji-Paran�: Cacoal
+
+Ji-Paran�: Costa Marques
+
+Ji-Paran�: Ouro Preto do Oeste
+
+Ji-Paran�: Presidente M�dici
+
+Itaporanga: Nova Olinda
+
+Ji-Paran�: S�o Miguel do Guapor�
+
+Itaporanga: Pedra Branca
+
+Vilhena: Cerejeiras
+
+Vilhena: Colorado do Oeste
+
+Vilhena: Corumbiara
+
+Vilhena: Chupinguaia
+
+Vilhena: Comodoro
+
+Rio Branco: Acrel�ndia
+
+Rio Branco: Brasil�ia
+
+Rio Branco: Bujari
+
+Rio Branco: Capixaba
+
+Rio Branco: Cruzeiro do Sul
+
+Itaporanga: Santa In�s
+
+Rio Branco: Senador Guiomard
+
+Rio Branco: Sena Madureira
+
+Rio Branco: Tarauac�
+
+Rio Branco: Xapuri
+
+Rio Branco: Porto Acre
+
+Rio Branco: Boca do Acre
+
+Itaporanga: Santana de Mangueira
+
+Rio Branco: Pauini
+
+Itacoatiara: Urucurituba
+
+L�brea: Canutama
+
+Parintins: Barreirinha
+
+Parintins: Boa Vista do Ramos
+
+Itaporanga: S�o Jos� de Caiana
+
+Parintins: Mau�s
+
+Parintins: Nhamund�
+
+Parintins: Faro
+
+Tabatinga: Amatur�
+
+Tabatinga: Atalaia do Norte
+
+Tabatinga: Benjamin Constant
+
+Tabatinga: Santo Ant�nio do I��
+
+Tabatinga: S�o Paulo de Oliven�a
+
+Tef�: Alvar�es
+
+Tef�: Fonte Boa
+
+Pombal: S�o Domingos de Pombal
+
+Monteiro: Camala�
+
+Tef�: Uarini
+
+Boa Vista: Amajari
+
+Boa Vista: Alto Alegre
+
+Boa Vista: Bonfim
+
+Boa Vista: Cant�
+
+Monteiro: Ouro Velho
+
+Boa Vista: Caracara�
+
+Boa Vista: Caroebe
+
+Boa Vista: Iracema
+
+Boa Vista: Mucaja�
+
+Boa Vista: Normandia
+
+Boa Vista: Pacaraima
+
+Boa Vista: Rorain�polis
+
+Boa Vista: S�o Jo�o da Baliza
+
+Boa Vista: S�o Luiz
+
+Boa Vista: Uiramut�
+
+Monteiro: Prata
+
+Abaetetuba: Igarap�-Miri
+
+Abaetetuba: Moju
+
+Almeirim: Vit�ria do Jari
+
+Altamira: Anapu
+
+Altamira: Brasil Novo
+
+Altamira: Medicil�ndia
+
+Altamira: Pacaj�
+
+Altamira: Porto de Moz
+
+Altamira: Senador Jos� Porf�rio
+
+Monteiro: S�o Jo�o do Tigre
+
+Altamira: Vit�ria do Xingu
+
+Bragan�a: Augusto Corr�a
+
+Bragan�a: Tracuateua
+
+Bragan�a: Viseu
+
+Breves: Bagre
+
+Breves: Curralinho
+
+Breves: Melga�o
+
+Breves: Portel
+
+Camet�: Bai�o
+
+Camet�: Limoeiro do Ajuru
+
+Monteiro: S�o Sebasti�o do Umbuzeiro
+
+Camet�: Oeiras do Par�
+
+Capanema: Bonito
+
+Capanema: Cachoeira do Piri�
+
+Capanema: Nova Timboteua
+
+Capanema: Our�m
+
+Capanema: Peixe-Boi
+
+Capanema: Primavera
+
+Capanema: Quatipuru
+
+Capanema: Santa Luzia do Par�
+
+Capanema: Santar�m Novo
+
+Monteiro: Zabel�
+
+Marab�: Jacund�
+
+Capit�o Po�o: Garraf�o do Norte
+
+Capit�o Po�o: Nova Esperan�a do Piri�
+
+Castanhal: Aurora do Par�
+
+Castanhal: Inhangapi
+
+Castanhal: M�e do Rio
+
+Castanhal: Magalh�es Barata
+
+Castanhal: Maracan�
+
+Castanhal: Marapanim
+
+Castanhal: Santa Maria do Par�
+
+Castanhal: S�o Domingos do Capim
+
+Patos: Areia de Bara�nas
+
+Castanhal: S�o Francisco do Par�
+
+Castanhal: S�o Jo�o da Ponta
+
+Castanhal: S�o Miguel do Guam�
+
+Castanhal: Terra Alta
+
+Concei��o do Araguaia: Couto de Magalh�es
+
+Marab�: Abel Figueiredo
+
+Marab�: Bom Jesus do Tocantins
+
+Marab�: Brejo Grande do Araguaia
+
+Marab�: Eldorado dos Caraj�s
+
+Marab�: Goian�sia do Par�
+
+Patos: Cacimba de Areia
+
+Marab�: Itupiranga
+
+Marab�: Palestina do Par�
+
+Marab�: Parauapebas
+
+Marab�: Pi�arra
+
+Marab�: Reden��o
+
+Marab�: Rondon do Par�
+
+Marab�: S�o Domingos do Araguaia
+
+Marab�: S�o Jo�o do Araguaia
+
+Patos: Catingueira
+
+Marab�: Tucum�
+
+Marab�: Xinguara
+
+Paragominas: Ipixuna do Par�
+
+Paragominas: Ulian�polis
+
+Santar�m: Alenquer
+
+Santar�m: Aveiro
+
+Santar�m: Belterra
+
+Santar�m: Curu�
+
+Santar�m: Faro
+
+Santar�m: Itaituba
+
+Patos: Coremas
+
+Santar�m: Juruti
+
+Santar�m: Monte Alegre
+
+Santar�m: �bidos
+
+Santar�m: Oriximin�
+
+Santar�m: Placas
+
+Santar�m: Terra Santa
+
+Tucuru�: Breu Branco
+
+Tucuru�: Goian�sia do Par�
+
+Santa Luzia: S�o Jos� do Sabugi
+
+Patos: Desterro
+
+Tucuru�: Novo Repartimento
+
+Vigia: S�o Caetano de Odivelas
+
+ACP de Macap�: Afu�
+
+ACP de Macap�: Chaves
+
+ACP de Macap�: Gurup�
+
+ACP de Macap�: Serra do Navio
+
+ACP de Macap�: Amap�
+
+ACP de Macap�: Pedra Branca do Amapar�
+
+ACP de Macap�: Cal�oene
+
+ACP de Macap�: Cutias
+
+Patos: Vista Serrana
+
+ACP de Macap�: Ferreira Gomes
+
+ACP de Macap�: Itaubal
+
+ACP de Macap�: Laranjal do Jari
+
+ACP de Macap�: Mazag�o
+
+ACP de Macap�: Oiapoque
+
+ACP de Macap�: Porto Grande
+
+ACP de Macap�: Pracu�ba
+
+ACP de Macap�: Tartarugalzinho
+
+Palmas: Aparecida do Rio Negro
+
+Palmas: Aragua�na
+
+Patos: Emas
+
+Palmas: Cristal�ndia
+
+Palmas: Dian�polis
+
+Palmas: F�tima
+
+Palmas: Gurupi
+
+Palmas: Lagoa da Confus�o
+
+Palmas: Lagoa do Tocantins
+
+Palmas: Lajeado
+
+Palmas: Lizarda
+
+Palmas: Mateiros
+
+Palmas: Miracema do Tocantins
+
+Patos: Imaculada
+
+Palmas: Monte do Carmo
+
+Palmas: Nova Rosal�ndia
+
+Palmas: Novo Acordo
+
+Palmas: Para�so do Tocantins
+
+Palmas: Porto Nacional
+
+Palmas: Rio Sono
+
+Palmas: Santa Tereza do Tocantins
+
+Palmas: S�o F�lix do Tocantins
+
+Palmas: Silvan�polis
+
+Carutapera: C�ndido Mendes
+
+Patos: Juru
+
+Carutapera: Godofredo Viana
+
+Carutapera: Lu�s Domingues
+
+Maraca�um�: Junco do Maranh�o
+
+ACP de S�o Lu�s: Alc�ntara
+
+ACP de S�o Lu�s: Alto Alegre do Maranh�o
+
+ACP de S�o Lu�s: Anajatuba
+
+ACP de S�o Lu�s: Arari
+
+ACP de S�o Lu�s: Axix�
+
+ACP de S�o Lu�s: Bacabal
+
+ACP de S�o Lu�s: Bacabeira
+
+Patos: M�e d'�gua
+
+ACP de S�o Lu�s: Barra do Corda
+
+ACP de S�o Lu�s: Barreirinhas
+
+ACP de S�o Lu�s: Cantanhede
+
+ACP de S�o Lu�s: Caxias
+
+ACP de S�o Lu�s: Chapadinha
+
+ACP de S�o Lu�s: Coroat�
+
+ACP de S�o Lu�s: Gon�alves Dias
+
+ACP de S�o Lu�s: Humberto de Campos
+
+ACP de S�o Lu�s: Icatu
+
+ACP de S�o Lu�s: Imperatriz
+
+Patos: Malta
+
+ACP de S�o Lu�s: Itapecuru Mirim
+
+ACP de S�o Lu�s: Mat�es do Norte
+
+ACP de S�o Lu�s: Miranda do Norte
+
+ACP de S�o Lu�s: Morros
+
+ACP de S�o Lu�s: Nina Rodrigues
+
+ACP de S�o Lu�s: Pedreiras
+
+Caruaru: Cumaru
+
+ACP de S�o Lu�s: Penalva
+
+ACP de S�o Lu�s: Pinheiro
+
+ACP de S�o Lu�s: Pirapemas
+
+ACP de S�o Lu�s: Presidente Dutra
+
+Patos: Matur�ia
+
+ACP de S�o Lu�s: Presidente Juscelino
+
+ACP de S�o Lu�s: Presidente Vargas
+
+ACP de S�o Lu�s: Primeira Cruz
+
+ACP de S�o Lu�s: Ros�rio
+
+ACP de S�o Lu�s: Santa In�s
+
+ACP de S�o Lu�s: Santa Rita
+
+ACP de S�o Lu�s: Santo Amaro do Maranh�o
+
+ACP de S�o Lu�s: S�o Bento
+
+ACP de S�o Lu�s: S�o Jo�o Batista
+
+ACP de S�o Lu�s: S�o Mateus do Maranh�o
+
+Patos: Olho d'�gua
+
+ACP de S�o Lu�s: S�o Vicente Ferrer
+
+ACP de S�o Lu�s: Urbano Santos
+
+ACP de S�o Lu�s: Vargem Grande
+
+ACP de S�o Lu�s: Viana
+
+ACP de S�o Lu�s: Z� Doca
+
+ACP de Teresina: Balsas
+
+ACP de Teresina: Barra do Corda
+
+ACP de Teresina: Buriti
+
+ACP de Teresina: Caxias
+
+ACP de Teresina: Dom Pedro
+
+Patos: Passagem
+
+ACP de Teresina: Gon�alves Dias
+
+ACP de Teresina: Mat�es
+
+ACP de Teresina: Parnarama
+
+ACP de Teresina: S�o Jo�o dos Patos
+
+ACP de Teresina: Agricol�ndia
+
+ACP de Teresina: �gua Branca
+
+ACP de Teresina: Alto Long�
+
+ACP de Teresina: Altos
+
+ACP de Teresina: Amarante
+
+ACP de Teresina: Angical do Piau�
+
+Santa Luzia: V�rzea
+
+Patos: Pianc�
+
+ACP de Teresina: Aroazes
+
+ACP de Teresina: Barra d'Alc�ntara
+
+ACP de Teresina: Barras
+
+ACP de Teresina: Barro Duro
+
+ACP de Teresina: Batalha
+
+ACP de Teresina: Beneditinos
+
+ACP de Teresina: Bom Jesus
+
+ACP de Teresina: Cabeceiras do Piau�
+
+ACP de Teresina: Campo Maior
+
+ACP de Teresina: Canto do Buriti
+
+Patos: Pombal
+
+ACP de Teresina: Coivaras
+
+ACP de Teresina: Corrente
+
+ACP de Teresina: Curralinhos
+
+ACP de Teresina: Elesb�o Veloso
+
+ACP de Teresina: Esperantina
+
+ACP de Teresina: Floriano
+
+ACP de Teresina: Francin�polis
+
+ACP de Teresina: Hugo Napole�o
+
+ACP de Teresina: Inhuma
+
+ACP de Teresina: Ipiranga do Piau�
+
+Patos: Quixab�
+
+ACP de Teresina: Jardim do Mulato
+
+ACP de Teresina: Jos� de Freitas
+
+ACP de Teresina: Lagoinha do Piau�
+
+ACP de Teresina: Lagoa do Piau�
+
+ACP de Teresina: Luzil�ndia
+
+ACP de Teresina: Miguel Alves
+
+ACP de Teresina: Miguel Le�o
+
+ACP de Teresina: Monsenhor Gil
+
+ACP de Teresina: Oeiras
+
+ACP de Teresina: Olho d'�gua do Piau�
+
+Patos: Salgadinho
+
+ACP de Teresina: Palmeirais
+
+ACP de Teresina: Parna�ba
+
+ACP de Teresina: Passagem Franca do Piau�
+
+ACP de Teresina: Pau D'arco do Piau�
+
+ACP de Teresina: Pedro II
+
+ACP de Teresina: Picos
+
+ACP de Teresina: Piripiri
+
+ACP de Teresina: Prata do Piau�
+
+ACP de Teresina: Regenera��o
+
+ACP de Teresina: Santa Cruz dos Milagres
+
+Patos: Santa Luzia
+
+ACP de Teresina: S�o F�lix do Piau�
+
+ACP de Teresina: S�o Gon�alo do Piau�
+
+ACP de Teresina: S�o Jo�o do Piau�
+
+ACP de Teresina: S�o Miguel da Baixa Grande
+
+ACP de Teresina: S�o Pedro do Piau�
+
+ACP de Teresina: S�o Raimundo Nonato
+
+ACP de Teresina: Simpl�cio Mendes
+
+ACP de Teresina: Uni�o
+
+ACP de Teresina: Valen�a do Piau�
+
+ACP de Teresina: V�rzea Grande
+
+Patos: Santa Teresinha
+
+Acara�: Cruz
+
+Acara�: Itarema
+
+Aracati: Fortim
+
+Aracati: Itai�aba
+
+Aracati: Jaguaruana
+
+Canind�: Boa Viagem
+
+Canind�: Caridade
+
+Canind�: Itatira
+
+Canind�: Madalena
+
+Patos: S�o Bentinho
+
+Crate�s: Ararend�
+
+Crate�s: Independ�ncia
+
+Crate�s: Ipaporanga
+
+Crate�s: Monsenhor Tabosa
+
+Crate�s: Nova Russas
+
+Crate�s: Novo Oriente
+
+Crate�s: Poranga
+
+Crate�s: Quiterian�polis
+
+Crate�s: Tamboril
+
+Iguatu: Acopiara
+
+Patos: S�o Jos� de Espinharas
+
+Iguatu: Cari�s
+
+Iguatu: Catarina
+
+Iguatu: Cedro
+
+Iguatu: Ic�
+
+Iguatu: Juc�s
+
+Iguatu: Momba�a
+
+Iguatu: Pedra Branca
+
+Iguatu: Piquet Carneiro
+
+Iguatu: Quixel�
+
+Iguatu: Saboeiro
+
+Patos: S�o Jos� do Bonfim
+
+Iguatu: V�rzea Alegre
+
+Iracema: Potiretama
+
+Itapag�: Irau�uba
+
+Itapipoca: Amontada
+
+Itapipoca: Mira�ma
+
+Itapipoca: Tururu
+
+Itapipoca: Umirim
+
+Itapipoca: Uruburetama
+
+Jaguaribe: Pereiro
+
+Patos: S�o Mamede
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Abaiara
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Aiuaba
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Altaneira
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Antonina do Norte
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Araripe
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Assar�
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Aurora
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Barro
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Brejo Santo
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Campos Sales
+
+Quixad�: Senador Pompeu
+
+Uira�na: Bernardino Batista
+
+Patos: Teixeira
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Cariria�u
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Cedro
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Farias Brito
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Granjeiro
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Jardim
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Juc�s
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Lavras da Mangabeira
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Mauriti
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Milagres
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Miss�o Velha
+
+S�o Bento: Bel�m do Brejo do Cruz
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Nova Olinda
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Porteiras
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Potengi
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Saboeiro
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Salitre
+
+Sobral: Morrinhos
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Santana do Cariri
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Tarrafas
+
+ACP de Juazeiro do Norte - Crato - Barbalha: V�rzea Alegre
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Concei��o
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Bodoc�
+
+S�o Bento: Bel�m do Brejo do Cruz
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Exu
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Granito
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Ipubi
+
+ACP de Juazeiro do Norte - Crato - Barbalha: Moreil�ndia
+
+Limoeiro do Norte: Alto Santo
+
+Limoeiro do Norte: Quixer�
+
+Limoeiro do Norte: S�o Jo�o do Jaguaribe
+
+Quixad�: Banabui�
+
+Quixad�: Chor�
+
+Quixad�: Deputado Irapuan Pinheiro
+
+S�o Bento: Brejo do Cruz
+
+Quixad�: Ibaretama
+
+Quixad�: Ibicuitinga
+
+Quixad�: Pedra Branca
+
+Quixad�: Quixeramobim
+
+Quixad�: Solon�pole
+
+Russas: Palhano
+
+Sobral: Alc�ntaras
+
+Sobral: Bela Cruz
+
+Sobral: Camocim
+
+S�o Bento: Brejo do Cruz
+
+Sobral: Carir�
+
+Sobral: Corea�
+
+Sobral: Forquilha
+
+Sobral: Frecheirinha
+
+Sobral: Gra�a
+
+Sobral: Granja
+
+Sobral: Groa�ras
+
+Sobral: Guaraciaba do Norte
+
+Sobral: Hidrol�ndia
+
+Sobral: Ibiapina
+
+S�o Bento: S�o Jos� do Brejo do Cruz
+
+Sobral: Ipu
+
+Sobral: Ipueiras
+
+Sobral: Marco
+
+Sobral: Martin�pole
+
+Sobral: Massap�
+
+Sobral: Meruoca
+
+Sobral: Mora�jo
+
+Sobral: Pacuj�
+
+S�o Bento: S�o Jos� do Brejo do Cruz
+
+Sobral: Reriutaba
+
+Sobral: Santana do Acara�
+
+Sobral: Santa Quit�ria
+
+Sobral: S�o Benedito
+
+Sobral: Senador S�
+
+Sobral: Tiangu�
+
+Sobral: Ubajara
+
+Sobral: Uruoca
+
+Sobral: Varjota
+
+Sobral: Vi�osa do Cear�
+
+Sousa: Baixio
+
+Tau�: Arneiroz
+
+Tau�: Parambu
+
+ACP de Natal: Ar�s
+
+ACP de Natal: Bento Fernandes
+
+ACP de Natal: Bom Jesus
+
+ACP de Natal: Brejinho
+
+ACP de Natal: Cai�ara do Rio do Vento
+
+ACP de Natal: Caic�
+
+ACP de Natal: Canguaretama
+
+ACP de Natal: Cear�-Mirim
+
+Barreiros: Maragogi
+
+Sousa: Ipaumirim
+
+ACP de Natal: Currais Novos
+
+ACP de Natal: Esp�rito Santo
+
+ACP de Natal: Goianinha
+
+ACP de Natal: Ielmo Marinho
+
+ACP de Natal: Janu�rio Cicco
+
+ACP de Natal: Jo�o C�mara
+
+ACP de Natal: Jucurutu
+
+ACP de Natal: Lagoa d'Anta
+
+ACP de Natal: Lagoa de Pedras
+
+ACP de Natal: Lagoa Salgada
+
+Sousa: S�o Jo�o do Rio do Peixe
+
+ACP de Natal: Lucr�cia
+
+ACP de Natal: Macau
+
+ACP de Natal: Maxaranguape
+
+ACP de Natal: Montanhas
+
+ACP de Natal: Monte Alegre
+
+ACP de Natal: Mossor�
+
+ACP de Natal: Nova Cruz
+
+ACP de Natal: Rio do Fogo
+
+ACP de Natal: Passa e Fica
+
+ACP de Natal: Pau dos Ferros
+
+ACP de Natal: Vila Flor
+
+Uira�na: Po�o Dantas
+
+Sousa: Aparecida
+
+ACP de Natal: Pedro Avelino
+
+ACP de Natal: Pedro Velho
+
+ACP de Natal: Po�o Branco
+
+ACP de Natal: Presidente Juscelino
+
+ACP de Natal: Pureza
+
+ACP de Natal: Santa Cruz
+
+ACP de Natal: Santana do Matos
+
+ACP de Natal: Santo Ant�nio
+
+ACP de Natal: S�o Jos� do Campestre
+
+ACP de Natal: S�o Miguel do Gostoso
+
+Sousa: Bom Jesus
+
+ACP de Natal: S�o Paulo do Potengi
+
+ACP de Natal: S�o Tom�
+
+ACP de Natal: Senador Georgino Avelino
+
+ACP de Natal: Taipu
+
+ACP de Natal: Tangar�
+
+ACP de Natal: Tibau do Sul
+
+ACP de Natal: Touros
+
+ACP de Natal: V�rzea
+
+ACP de Natal: Vera Cruz
+
+Sousa: Bonito de Santa F�
+
+ACP de Natal: Ar�s
+
+ACP de Natal: Bento Fernandes
+
+ACP de Natal: Bom Jesus
+
+Caruaru: Cupira
+
+ACP de Natal: Brejinho
+
+ACP de Natal: Cai�ara do Rio do Vento
+
+ACP de Natal: Caic�
+
+ACP de Natal: Canguaretama
+
+ACP de Natal: Cear�-Mirim
+
+ACP de Natal: Currais Novos
+
+ACP de Natal: Esp�rito Santo
+
+Sousa: Cachoeira dos �ndios
+
+ACP de Natal: Goianinha
+
+ACP de Natal: Ielmo Marinho
+
+ACP de Natal: Janu�rio Cicco
+
+ACP de Natal: Jo�o C�mara
+
+ACP de Natal: Jucurutu
+
+ACP de Natal: Lagoa d'Anta
+
+ACP de Natal: Lagoa de Pedras
+
+ACP de Natal: Lagoa Salgada
+
+ACP de Natal: Lucr�cia
+
+ACP de Natal: Macau
+
+Sousa: Carrapateira
+
+ACP de Natal: Maxaranguape
+
+ACP de Natal: Montanhas
+
+ACP de Natal: Monte Alegre
+
+ACP de Natal: Mossor�
+
+ACP de Natal: Nova Cruz
+
+ACP de Natal: Rio do Fogo
+
+ACP de Natal: Passa e Fica
+
+ACP de Natal: Pau dos Ferros
+
+ACP de Natal: Pedro Avelino
+
+ACP de Natal: Pedro Velho
+
+Sousa: Concei��o
+
+ACP de Natal: Po�o Branco
+
+ACP de Natal: Presidente Juscelino
+
+ACP de Natal: Pureza
+
+ACP de Natal: Santa Cruz
+
+ACP de Natal: Santana do Matos
+
+ACP de Natal: Santo Ant�nio
+
+ACP de Natal: S�o Jos� do Campestre
+
+ACP de Natal: S�o Miguel do Gostoso
+
+ACP de Natal: S�o Paulo do Potengi
+
+ACP de Natal: S�o Tom�
+
+Sousa: Lastro
+
+ACP de Natal: Senador Georgino Avelino
+
+ACP de Natal: Taipu
+
+ACP de Natal: Tangar�
+
+ACP de Natal: Tibau do Sul
+
+ACP de Natal: Touros
+
+ACP de Natal: V�rzea
+
+ACP de Natal: Vera Cruz
+
+ACP de Natal: Vila Flor
+
+ACP de Jo�o Pessoa: Alhandra
+
+ACP de Jo�o Pessoa: Araruna
+
+Sousa: Mariz�polis
+
+ACP de Jo�o Pessoa: Ba�a da Trai��o
+
+ACP de Jo�o Pessoa: Caapor�
+
+ACP de Jo�o Pessoa: Caldas Brand�o
+
+ACP de Jo�o Pessoa: ACP de Campina Grande
+
+ACP de Jo�o Pessoa: Capim
+
+ACP de Jo�o Pessoa: Conde
+
+ACP de Jo�o Pessoa: Cuit� de Mamanguape
+
+ACP de Jo�o Pessoa: Guarabira
+
+ACP de Jo�o Pessoa: Gurinh�m
+
+ACP de Jo�o Pessoa: Itabaiana
+
+Sousa: Monte Horebe
+
+ACP de Jo�o Pessoa: Itapororoca
+
+ACP de Jo�o Pessoa: Jacara�
+
+ACP de Jo�o Pessoa: Juripiranga
+
+ACP de Jo�o Pessoa: Lucena
+
+ACP de Jo�o Pessoa: Mamanguape
+
+ACP de Jo�o Pessoa: Mari
+
+ACP de Jo�o Pessoa: Pedras de Fogo
+
+ACP de Jo�o Pessoa: Pilar
+
+ACP de Jo�o Pessoa: Pitimbu
+
+ACP de Jo�o Pessoa: Pedro R�gis
+
+Caruaru: Frei Miguelinho
+
+Sousa: Nazarezinho
+
+ACP de Jo�o Pessoa: Riach�o do Po�o
+
+ACP de Jo�o Pessoa: Rio Tinto
+
+ACP de Jo�o Pessoa: S�o Miguel de Taipu
+
+ACP de Jo�o Pessoa: Sap�
+
+ACP de Jo�o Pessoa: Serraria
+
+ACP de Jo�o Pessoa: Tavares
+
+Afogados da Ingazeira: �gua Branca
+
+Afogados da Ingazeira: Carna�ba
+
+Afogados da Ingazeira: Iguaraci
+
+Afogados da Ingazeira: Ingazeira
+
+Uira�na: Santar�m
+
+Sousa: Po�o de Jos� de Moura
+
+Afogados da Ingazeira: Itapetim
+
+Afogados da Ingazeira: Quixaba
+
+Afogados da Ingazeira: S�o Jos� do Egito
+
+Afogados da Ingazeira: Tabira
+
+Afogados da Ingazeira: Tuparetama
+
+Araripina: Caldeir�o Grande do Piau�
+
+Araripina: Marcol�ndia
+
+Araripina: Sim�es
+
+Araripina: Ipubi
+
+Araripina: Ouricuri
+
+Seabra: Iraquara
+
+Sousa: Santa Cruz
+
+Araripina: Trindade
+
+Arcoverde: Bu�que
+
+Arcoverde: Cust�dia
+
+Arcoverde: Ibimirim
+
+Arcoverde: Inaj�
+
+Arcoverde: Ita�ba
+
+Arcoverde: Manari
+
+Arcoverde: Pedra
+
+Arcoverde: Sert�nia
+
+Arcoverde: Tupanatinga
+
+Sousa: Santa Helena
+
+Arcoverde: Venturosa
+
+Carpina: Lagoa do Carro
+
+Carpina: Lagoa do Itaenga
+
+Carpina: Tracunha�m
+
+Caruaru: Agrestina
+
+Caruaru: Altinho
+
+Caruaru: Barra de Guabiraba
+
+Caruaru: Bel�m de Maria
+
+Caruaru: Belo Jardim
+
+Sousa: S�o Francisco
+
+Caruaru: Bonito
+
+Caruaru: Brejo da Madre de Deus
+
+Caruaru: Cachoeirinha
+
+Caruaru: Camocim de S�o F�lix
+
+Caruaru: Ibirajuba
+
+Caruaru: Jata�ba
+
+Caruaru: Lagoa dos Gatos
+
+Sousa: S�o Jos� da Lagoa Tapada
+
+Caruaru: Panelas
+
+Caruaru: Riacho das Almas
+
+Caruaru: Sair�
+
+Caruaru: Santa Cruz do Capibaribe
+
+Caruaru: S�o Caitano
+
+Caruaru: S�o Joaquim do Monte
+
+Caruaru: Taquaritinga do Norte
+
+Caruaru: Toritama
+
+Garanhuns: �guas Belas
+
+Garanhuns: Angelim
+
+Sousa: S�o Jos� de Piranhas
+
+Garanhuns: Bom Conselho
+
+Garanhuns: Brej�o
+
+Garanhuns: Caet�s
+
+Garanhuns: Cal�ado
+
+Garanhuns: Canhotinho
+
+Garanhuns: Capoeiras
+
+Garanhuns: Correntes
+
+Garanhuns: Iati
+
+Garanhuns: Jucati
+
+Garanhuns: Jupi
+
+Sousa: Serra Grande
+
+Garanhuns: Jurema
+
+Garanhuns: Lagoa do Ouro
+
+Garanhuns: Lajedo
+
+Garanhuns: Palmeirina
+
+Garanhuns: Paranatama
+
+Garanhuns: Quipap�
+
+Garanhuns: Salo�
+
+Garanhuns: S�o Bento do Una
+
+Garanhuns: S�o Jo�o
+
+Garanhuns: Terezinha
+
+Sousa: Uira�na
+
+Goiana: Condado
+
+Limoeiro: Feira Nova
+
+Limoeiro: Machados
+
+Limoeiro: Passira
+
+Limoeiro: Salgadinho
+
+Limoeiro: Vertentes
+
+Palmares: �gua Preta
+
+Palmares: Bel�m de Maria
+
+Palmares: Gameleira
+
+Palmares: Jaqueira
+
+Sousa: Vieir�polis
+
+Palmares: Joaquim Nabuco
+
+Palmares: Maraial
+
+Palmares: S�o Benedito do Sul
+
+Palmares: Xex�u
+
+Palmares: Campestre
+
+Palmares: Col�nia Leopoldina
+
+Palmares: Jacu�pe
+
+Palmares: Jundi�
+
+Palmares: Novo Lino
+
+Pesqueira: Alagoinha
+
+Sum�: Congo
+
+Pesqueira: Po��o
+
+ACP de Petrolina - Juazeiro: Afr�nio
+
+ACP de Petrolina - Juazeiro: Bel�m de S�o Francisco
+
+ACP de Petrolina - Juazeiro: Cabrob�
+
+ACP de Petrolina - Juazeiro: Dormentes
+
+ACP de Petrolina - Juazeiro: Lagoa Grande
+
+ACP de Petrolina - Juazeiro: Oroc�
+
+ACP de Petrolina - Juazeiro: Ouricuri
+
+ACP de Petrolina - Juazeiro: Santa Filomena
+
+ACP de Petrolina - Juazeiro: Santa Maria da Boa Vista
+
+Ibotirama: Brotas de Maca�bas
+
+Batalha: Belo Monte
+
+ACP de Petrolina - Juazeiro: Abar�
+
+ACP de Petrolina - Juazeiro: Campo Alegre de Lourdes
+
+ACP de Petrolina - Juazeiro: Casa Nova
+
+ACP de Petrolina - Juazeiro: Cura��
+
+ACP de Petrolina - Juazeiro: Pil�o Arcado
+
+ACP de Petrolina - Juazeiro: Remanso
+
+ACP de Petrolina - Juazeiro: Senhor do Bonfim
+
+ACP de Petrolina - Juazeiro: Sento S�
+
+ACP de Petrolina - Juazeiro: Sobradinho
+
+ACP de Petrolina - Juazeiro: Uau�
+
+Olho d'�gua das Flores: Monteir�polis
+
+ACP de Petrolina - Juazeiro: Afr�nio
+
+ACP de Petrolina - Juazeiro: Bel�m de S�o Francisco
+
+ACP de Petrolina - Juazeiro: Cabrob�
+
+ACP de Petrolina - Juazeiro: Dormentes
+
+ACP de Petrolina - Juazeiro: Lagoa Grande
+
+ACP de Petrolina - Juazeiro: Oroc�
+
+ACP de Petrolina - Juazeiro: Ouricuri
+
+ACP de Petrolina - Juazeiro: Santa Filomena
+
+ACP de Petrolina - Juazeiro: Santa Maria da Boa Vista
+
+ACP de Petrolina - Juazeiro: Campo Alegre de Lourdes
+
+Barra: Buritirama
+
+ACP de Petrolina - Juazeiro: Casa Nova
+
+ACP de Petrolina - Juazeiro: Cura��
+
+ACP de Petrolina - Juazeiro: Pil�o Arcado
+
+ACP de Petrolina - Juazeiro: Remanso
+
+ACP de Petrolina - Juazeiro: Senhor do Bonfim
+
+ACP de Petrolina - Juazeiro: Sento S�
+
+ACP de Petrolina - Juazeiro: Sobradinho
+
+ACP de Petrolina - Juazeiro: Uau�
+
+Salgueiro: Carnaubeira da Penha
+
+Salgueiro: Cedro
+
+Barra: Morpar�
+
+Salgueiro: Parnamirim
+
+Salgueiro: Serrita
+
+Salgueiro: Terra Nova
+
+Salgueiro: Verdejante
+
+Serra Talhada: Princesa Isabel
+
+Serra Talhada: Bet�nia
+
+Serra Talhada: Calumbi
+
+Serra Talhada: Flores
+
+Serra Talhada: Floresta
+
+Serra Talhada: Mirandiba
+
+Bom Jesus da Lapa: Ibotirama
+
+Serra Talhada: Santa Cruz da Baixa Verde
+
+Serra Talhada: S�o Jos� do Belmonte
+
+Serra Talhada: Triunfo
+
+Surubim: Santa Cec�lia
+
+Surubim: Casinhas
+
+Surubim: Santa Maria do Cambuc�
+
+Surubim: Vertente do L�rio
+
+Timba�ba: Alian�a
+
+Timba�ba: Ferreiros
+
+Timba�ba: Macaparana
+
+Bom Jesus da Lapa: Maca�bas
+
+Timba�ba: S�o Vicente Ferrer
+
+Vit�ria de Santo Ant�o: Ch� de Alegria
+
+Vit�ria de Santo Ant�o: Pombos
+
+ACP de Macei�: Anadia
+
+ACP de Macei�: Arapiraca
+
+ACP de Macei�: Atalaia
+
+ACP de Macei�: Barra de Santo Ant�nio
+
+ACP de Macei�: Barra de S�o Miguel
+
+ACP de Macei�: Boca da Mata
+
+ACP de Macei�: Cacimbinhas
+
+Bom Jesus da Lapa: Paratinga
+
+ACP de Macei�: Cajueiro
+
+ACP de Macei�: Campo Alegre
+
+ACP de Macei�: Capela
+
+ACP de Macei�: Ch� Preta
+
+ACP de Macei�: Coruripe
+
+ACP de Macei�: Delmiro Gouveia
+
+ACP de Macei�: Flexeiras
+
+ACP de Macei�: Ibateguara
+
+ACP de Macei�: Jequi� da Praia
+
+ACP de Macei�: Joaquim Gomes
+
+Bom Jesus da Lapa: Santa Maria da Vit�ria
+
+ACP de Macei�: Maragogi
+
+ACP de Macei�: Marechal Deodoro
+
+ACP de Macei�: Maribondo
+
+ACP de Macei�: Mar Vermelho
+
+ACP de Macei�: Matriz de Camaragibe
+
+ACP de Macei�: Messias
+
+ACP de Macei�: Murici
+
+ACP de Macei�: Palmeira dos �ndios
+
+ACP de Macei�: P�o de A��car
+
+ACP de Macei�: Paripueira
+
+Bom Jesus da Lapa: Serra do Ramalho
+
+ACP de Macei�: Passo de Camaragibe
+
+ACP de Macei�: Paulo Jacinto
+
+ACP de Macei�: Penedo
+
+ACP de Macei�: Pilar
+
+ACP de Macei�: Pindoba
+
+ACP de Macei�: Porto Calvo
+
+ACP de Macei�: Porto de Pedras
+
+Irec�: Central
+
+ACP de Macei�: Santana do Ipanema
+
+ACP de Macei�: S�o Jos� da Laje
+
+ACP de Macei�: S�o Lu�s do Quitunde
+
+Bom Jesus da Lapa: S�tio do Mato
+
+ACP de Macei�: S�o Miguel dos Campos
+
+ACP de Macei�: S�o Miguel dos Milagres
+
+ACP de Macei�: Uni�o dos Palmares
+
+ACP de Macei�: Vi�osa
+
+ACP de Aracaju: Porto Real do Col�gio
+
+ACP de Aracaju: Amparo de S�o Francisco
+
+ACP de Aracaju: Aquidab�
+
+ACP de Aracaju: Areia Branca
+
+ACP de Aracaju: Boquim
+
+ACP de Aracaju: Brejo Grande
+
+Ibotirama: Ipupiara
+
+Boquira: Ibipitanga
+
+ACP de Aracaju: Campo do Brito
+
+ACP de Aracaju: Canhoba
+
+ACP de Aracaju: Canind� de S�o Francisco
+
+ACP de Aracaju: Capela
+
+ACP de Aracaju: Carira
+
+ACP de Aracaju: Carm�polis
+
+ACP de Aracaju: Cristin�polis
+
+ACP de Aracaju: Divina Pastora
+
+ACP de Aracaju: Est�ncia
+
+ACP de Aracaju: Frei Paulo
+
+Boquira: Oliveira dos Brejinhos
+
+ACP de Aracaju: Gararu
+
+ACP de Aracaju: General Maynard
+
+ACP de Aracaju: Ilha das Flores
+
+ACP de Aracaju: Indiaroba
+
+ACP de Aracaju: Itabaiana
+
+ACP de Aracaju: Itabi
+
+ACP de Aracaju: Itaporanga d'Ajuda
+
+ACP de Aracaju: Japaratuba
+
+ACP de Aracaju: Japoat�
+
+ACP de Aracaju: Lagarto
+
+Cacul�: Lic�nio de Almeida
+
+ACP de Aracaju: Macambira
+
+ACP de Aracaju: Malhada dos Bois
+
+ACP de Aracaju: Malhador
+
+ACP de Aracaju: Moita Bonita
+
+ACP de Aracaju: Muribeca
+
+ACP de Aracaju: Ne�polis
+
+ACP de Aracaju: Nossa Senhora Aparecida
+
+ACP de Aracaju: Nossa Senhora da Gl�ria
+
+ACP de Aracaju: Nossa Senhora das Dores
+
+ACP de Aracaju: Pacatuba
+
+Cacul�: Mortugaba
+
+ACP de Aracaju: Pedra Mole
+
+ACP de Aracaju: Pedrinhas
+
+ACP de Aracaju: Pinh�o
+
+ACP de Aracaju: Pirambu
+
+ACP de Aracaju: Po�o Verde
+
+ACP de Aracaju: Porto da Folha
+
+ACP de Aracaju: Propri�
+
+ACP de Aracaju: Riach�o do Dantas
+
+ACP de Aracaju: Riachuelo
+
+ACP de Aracaju: Ribeir�polis
+
+Cacul�: Rio do Ant�nio
+
+ACP de Aracaju: Ros�rio do Catete
+
+ACP de Aracaju: Santa Rosa de Lima
+
+ACP de Aracaju: Santo Amaro das Brotas
+
+ACP de Aracaju: S�o Miguel do Aleixo
+
+ACP de Aracaju: Sim�o Dias
+
+ACP de Aracaju: Siriri
+
+ACP de Aracaju: Tobias Barreto
+
+Irec�: Ibipeba
+
+ACP de Aracaju: Tomar do Geru
+
+ACP de Aracaju: Umba�ba
+
+ACP de Aracaju: Adustina
+
+Caetit�: Botupor�
+
+ACP de Aracaju: C�cero Dantas
+
+ACP de Aracaju: Coronel Jo�o S�
+
+ACP de Aracaju: Paripiranga
+
+ACP de Aracaju: Paulo Afonso
+
+ACP de Aracaju: Pedro Alexandre
+
+Alagoinhas: Acajutiba
+
+Alagoinhas: Apor�
+
+Alagoinhas: Ara�as
+
+Alagoinhas: Aramari
+
+Alagoinhas: Cardeal da Silva
+
+Caetit�: Ibiassuc�
+
+Alagoinhas: Cris�polis
+
+Alagoinhas: Entre Rios
+
+Alagoinhas: Pedr�o
+
+Alagoinhas: S�tiro Dias
+
+Barreiras: Angical
+
+Barreiras: Baian�polis
+
+Barreiras: Barra
+
+Barreiras: Brejol�ndia
+
+Barreiras: Catol�ndia
+
+Barreiras: Cotegipe
+
+Caetit�: Igapor�
+
+Barreiras: Crist�polis
+
+Barreiras: Formosa do Rio Preto
+
+Barreiras: Ibotirama
+
+Barreiras: Lu�s Eduardo Magalh�es
+
+Barreiras: Mansid�o
+
+Barreiras: Riach�o das Neves
+
+Barreiras: Santa Rita de C�ssia
+
+Barreiras: S�o Desid�rio
+
+Barreiras: Serra Dourada
+
+Barreiras: Wanderley
+
+Caetit�: Lagoa Real
+
+Barreiras: Angical
+
+Barreiras: Baian�polis
+
+Barreiras: Barra
+
+Barreiras: Brejol�ndia
+
+Barreiras: Catol�ndia
+
+Barreiras: Cotegipe
+
+Barreiras: Crist�polis
+
+Barreiras: Formosa do Rio Preto
+
+Barreiras: Ibotirama
+
+Irec�: Ibitit�
+
+Barreiras: Lu�s Eduardo Magalh�es
+
+Caetit�: Tanque Novo
+
+Barreiras: Mansid�o
+
+Barreiras: Riach�o das Neves
+
+Barreiras: Santa Rita de C�ssia
+
+Barreiras: S�o Desid�rio
+
+Barreiras: Serra Dourada
+
+Barreiras: Wanderley
+
+Bom Jesus da Lapa: Ibotirama
+
+Bom Jesus da Lapa: Maca�bas
+
+Bom Jesus da Lapa: Paratinga
+
+Bom Jesus da Lapa: Santa Maria da Vit�ria
+
+Concei��o do Araguaia: Santa Maria das Barreiras
+
+Ibotirama: Morpar�
+
+Itamaraju: Prado
+
+Bom Jesus da Lapa: Serra do Ramalho
+
+Bom Jesus da Lapa: S�tio do Mato
+
+Capim Grosso: Gavi�o
+
+Cruz das Almas: Cabaceiras do Paragua�u
+
+Cruz das Almas: Concei��o do Almeida
+
+Cruz das Almas: Governador Mangabeira
+
+Cruz das Almas: S�o Felipe
+
+Cruz das Almas: Sapea�u
+
+ACP de Feira de Santana: �gua Fria
+
+ACP de Feira de Santana: Araci
+
+Para�so do Tocantins: Marian�polis do Tocantins
+
+Livramento de Nossa Senhora: Aba�ra
+
+ACP de Feira de Santana: Baixa Grande
+
+ACP de Feira de Santana: Barrocas
+
+ACP de Feira de Santana: Cachoeira
+
+ACP de Feira de Santana: Candeal
+
+ACP de Feira de Santana: Capela do Alto Alegre
+
+ACP de Feira de Santana: Castro Alves
+
+ACP de Feira de Santana: Concei��o da Feira
+
+ACP de Feira de Santana: Concei��o do Coit�
+
+ACP de Feira de Santana: Concei��o do Jacu�pe
+
+ACP de Feira de Santana: Cora��o de Maria
+
+Livramento de Nossa Senhora: Dom Bas�lio
+
+ACP de Feira de Santana: Ichu
+
+ACP de Feira de Santana: Ipecaet�
+
+ACP de Feira de Santana: Ipir�
+
+ACP de Feira de Santana: Irar�
+
+ACP de Feira de Santana: Itatim
+
+ACP de Feira de Santana: Macajuba
+
+ACP de Feira de Santana: Mairi
+
+ACP de Feira de Santana: Milagres
+
+ACP de Feira de Santana: Nova F�tima
+
+ACP de Feira de Santana: Nova Itarana
+
+Livramento de Nossa Senhora: Jussiape
+
+ACP de Feira de Santana: Ouri�angas
+
+ACP de Feira de Santana: Pintadas
+
+ACP de Feira de Santana: Rafael Jambeiro
+
+ACP de Feira de Santana: Retirol�ndia
+
+ACP de Feira de Santana: Riach�o do Jacu�pe
+
+ACP de Feira de Santana: Santa B�rbara
+
+ACP de Feira de Santana: Santan�polis
+
+ACP de Feira de Santana: Santa Teresinha
+
+ACP de Feira de Santana: Santo Est�v�o
+
+ACP de Feira de Santana: S�o Gon�alo dos Campos
+
+Livramento de Nossa Senhora: Rio de Contas
+
+ACP de Feira de Santana: Serra Preta
+
+ACP de Feira de Santana: Serrinha
+
+ACP de Feira de Santana: Tanquinho
+
+ACP de Feira de Santana: Teofil�ndia
+
+ACP de Feira de Santana: V�rzea da Ro�a
+
+ACP de Feira de Santana: Wagner
+
+ACP de Ilh�us - Itabuna: Almadina
+
+ACP de Ilh�us - Itabuna: Arataca
+
+ACP de Ilh�us - Itabuna: Aurelino Leal
+
+ACP de Ilh�us - Itabuna: Barro Preto (antigo Gov. Lomanto Jr.)
+
+Paramirim: �rico Cardoso
+
+ACP de Ilh�us - Itabuna: Buerarema
+
+ACP de Ilh�us - Itabuna: Camacan
+
+ACP de Ilh�us - Itabuna: Canavieiras
+
+ACP de Ilh�us - Itabuna: Coaraci
+
+ACP de Ilh�us - Itabuna: Eun�polis
+
+ACP de Ilh�us - Itabuna: Firmino Alves
+
+ACP de Ilh�us - Itabuna: Floresta Azul
+
+ACP de Ilh�us - Itabuna: Gandu
+
+ACP de Ilh�us - Itabuna: Ibicara�
+
+ACP de Ilh�us - Itabuna: Ibicu�
+
+Paramirim: Caturama
+
+ACP de Ilh�us - Itabuna: Ibirapitanga
+
+ACP de Ilh�us - Itabuna: Igua�
+
+ACP de Ilh�us - Itabuna: Ipia�
+
+ACP de Ilh�us - Itabuna: Itacar�
+
+ACP de Ilh�us - Itabuna: Itaju do Col�nia
+
+ACP de Ilh�us - Itabuna: Itaju�pe
+
+ACP de Ilh�us - Itabuna: Itap�
+
+ACP de Ilh�us - Itabuna: Itapitanga
+
+ACP de Ilh�us - Itabuna: Itoror�
+
+ACP de Ilh�us - Itabuna: Jussari
+
+Porto Seguro: Belmonte
+
+ACP de Ilh�us - Itabuna: Mara�
+
+ACP de Ilh�us - Itabuna: Mascote
+
+ACP de Ilh�us - Itabuna: Pau Brasil
+
+ACP de Ilh�us - Itabuna: S�o Jos� da Vit�ria
+
+ACP de Ilh�us - Itabuna: Ubaitaba
+
+Jequi�: Itagi
+
+ACP de Ilh�us - Itabuna: Una
+
+ACP de Ilh�us - Itabuna: Uru�uca
+
+Irec�: Am�rica Dourada
+
+Irec�: Barra do Mendes
+
+Irec�: Barro Alto
+
+Porto Seguro: Santa Cruz Cabr�lia
+
+Irec�: Bonito
+
+Irec�: Cafarnaum
+
+Irec�: Canarana
+
+Irec�: Itagua�u da Bahia
+
+Irec�: Jo�o Dourado
+
+Irec�: Jussara
+
+Irec�: Lap�o
+
+Santana: Can�polis
+
+Irec�: Morro do Chap�u
+
+Irec�: Mulungu do Morro
+
+Irec�: Presidente Dutra
+
+Irec�: Uiba�
+
+Irec�: Xique-Xique
+
+Itaberaba: Boa Vista do Tupim
+
+Itaberaba: Ia�u
+
+Itaberaba: Ibiquera
+
+Itaberaba: Itaet�
+
+Itaberaba: Lajedinho
+
+Ibotirama: Muqu�m de S�o Francisco
+
+Valente: S�o Domingos
+
+Itaberaba: Marcion�lio Souza
+
+Itaberaba: Nova Reden��o
+
+Itaberaba: Ruy Barbosa
+
+Jacobina: Ca�m
+
+Jacobina: Caldeir�o Grande
+
+Jacobina: Miguel Calmon
+
+Jacobina: Mirangaba
+
+Jacobina: Ourol�ndia
+
+Jacobina: Piritiba
+
+Jacobina: Quixabeira
+
+Baependi: Carvalhos
+
+Jacobina: S�o Jos� do Jacu�pe
+
+Jacobina: Sa�de
+
+Jacobina: Serrol�ndia
+
+Jacobina: Umburanas
+
+Jacobina: V�rzea do Po�o
+
+Jacobina: V�rzea Nova
+
+Jequi�: Aiquara
+
+Jequi�: Apuarema
+
+Jequi�: Contendas do Sincor�
+
+Jequi�: Cravol�ndia
+
+Campos Altos: Santa Rosa da Serra
+
+Jequi�: Ipia�
+
+Jequi�: Iramaia
+
+Jequi�: Itamari
+
+Jequi�: Jaguaquara
+
+Jequi�: Jita�na
+
+Jequi�: Lafaiete Coutinho
+
+Jequi�: Lajedo do Tabocal
+
+Jequi�: Manoel Vitorino
+
+Jequi�: Marac�s
+
+Campos Altos: Santa Rosa da Serra
+
+Jequi�: Planaltino
+
+Nazar�: Aratu�pe
+
+Nazar�: Jaguaripe
+
+Paulo Afonso: Jatob�
+
+Paulo Afonso: Tacaratu
+
+Paulo Afonso: �gua Branca
+
+Paulo Afonso: Pariconha
+
+Paulo Afonso: Abar�
+
+Paulo Afonso: Chorroch�
+
+Paulo Afonso: Gl�ria
+
+Carangola: Caiana
+
+Paulo Afonso: Jeremoabo
+
+Paulo Afonso: Macurur�
+
+Paulo Afonso: Rodelas
+
+Paulo Afonso: Santa Br�gida
+
+Paulo Afonso: S�tio do Quinto
+
+Ribeira do Pombal: Antas
+
+Ribeira do Pombal: Banza�
+
+Ribeira do Pombal: Cip�
+
+Ribeira do Pombal: Euclides da Cunha
+
+Ribeira do Pombal: Nova Soure
+
+Carangola: Caiana
+
+Ribeira do Pombal: Novo Triunfo
+
+Ribeira do Pombal: Olindina
+
+Ribeira do Pombal: Ribeira do Amparo
+
+Ribeira do Pombal: Tucano
+
+Rio Real: Janda�ra
+
+Santo Ant�nio de Jesus: Amargosa
+
+Santo Ant�nio de Jesus: Dom Macedo Costa
+
+Santo Ant�nio de Jesus: El�sio Medrado
+
+Santo Ant�nio de Jesus: Jiquiri��
+
+Santo Ant�nio de Jesus: Laje
+
+Carangola: Capara�
+
+Santo Ant�nio de Jesus: Muniz Ferreira
+
+Santo Ant�nio de Jesus: Mutu�pe
+
+Santo Ant�nio de Jesus: Presidente Tancredo Neves
+
+Santo Ant�nio de Jesus: S�o Miguel das Matas
+
+Santo Ant�nio de Jesus: Varzedo
+
+Seabra: Boninal
+
+Seabra: Ibitiara
+
+Seabra: Len��is
+
+Seabra: Mucug�
+
+Carangola: Capara�
+
+Seabra: Novo Horizonte
+
+Seabra: Palmeiras
+
+Seabra: Piat�
+
+Seabra: Souto Soares
+
+Valen�a: Cairu
+
+Valen�a: Camamu
+
+Valen�a: Gandu
+
+Valen�a: Igrapi�na
+
+Valen�a: Ituber�
+
+Valen�a: Nilo Pe�anha
+
+Carangola: Divino
+
+Valen�a: Tapero�
+
+Vit�ria da Conquista: Anag�
+
+Vit�ria da Conquista: Aracatu
+
+Vit�ria da Conquista: Barra da Estiva
+
+Vit�ria da Conquista: Barra do Cho�a
+
+Vit�ria da Conquista: Belo Campo
+
+Vit�ria da Conquista: Boa Nova
+
+Vit�ria da Conquista: Brumado
+
+Vit�ria da Conquista: Caatiba
+
+Vit�ria da Conquista: Caetanos
+
+Carangola: Divino
+
+Vit�ria da Conquista: C�ndido Sales
+
+Vit�ria da Conquista: Cara�bas
+
+Vit�ria da Conquista: Conde�ba
+
+Vit�ria da Conquista: Contendas do Sincor�
+
+Vit�ria da Conquista: Cordeiros
+
+Vit�ria da Conquista: Encruzilhada
+
+Vit�ria da Conquista: Guajeru
+
+Vit�ria da Conquista: Guanambi
+
+Vit�ria da Conquista: Ibicoara
+
+Vit�ria da Conquista: Igua�
+
+Maca�bas: Boquira
+
+Carangola: Espera Feliz
+
+Vit�ria da Conquista: Iramaia
+
+Vit�ria da Conquista: Itamb�
+
+Vit�ria da Conquista: Itapetinga
+
+Vit�ria da Conquista: Itua�u
+
+Vit�ria da Conquista: Maetinga
+
+Vit�ria da Conquista: Mirante
+
+Vit�ria da Conquista: Pirip�
+
+Vit�ria da Conquista: Planalto
+
+Vit�ria da Conquista: Po��es
+
+Vit�ria da Conquista: Presidente J�nio Quadros
+
+Carangola: Espera Feliz
+
+Vit�ria da Conquista: Ribeir�o do Largo
+
+Vit�ria da Conquista: Tanha�u
+
+Vit�ria da Conquista: Tremedal
+
+Vit�ria da Conquista: �guas Vermelhas
+
+Vit�ria da Conquista: Divisa Alegre
+
+Vit�ria da Conquista: Divis�polis
+
+Vit�ria da Conquista: Mata Verde
+
+Vit�ria da Conquista: Pedra Azul
+
+Abaet�: Biquinhas
+
+Abaet�: Cedro do Abaet�
+
+Carangola: Faria Lemos
+
+Abaet�: Paineiras
+
+Abaet�: Quartel Geral
+
+Abre Campo: Sericita
+
+Aimor�s: Itueta
+
+Alfenas: Alterosa
+
+Alfenas: Areado
+
+Alfenas: Campo do Meio
+
+Alfenas: Campos Gerais
+
+Alfenas: Concei��o da Aparecida
+
+Alfenas: Cordisl�ndia
+
+Carangola: Faria Lemos
+
+Alfenas: Divisa Nova
+
+Alfenas: Fama
+
+Alfenas: Guaxup�
+
+Alfenas: Machado
+
+Alfenas: Paragua�u
+
+Alfenas: Serrania
+
+Arinos: Urucuia
+
+Bambu�: C�rrego Danta
+
+Bambu�: Medeiros
+
+Bambu�: Tapira�
+
+Carangola: Fervedouro
+
+Buritis: Formoso
+
+Campo Belo: Aguanil
+
+Campo Belo: Candeias
+
+Campo Belo: Cristais
+
+Campo Belo: Santana do Jacar�
+
+Capelinha: �gua Boa
+
+Capelinha: Angel�ndia
+
+Capelinha: Aricanduva
+
+Capelinha: Minas Novas
+
+Capelinha: Setubinha
+
+Carangola: Fervedouro
+
+Coluna: Frei Lagonegro
+
+Congonhas: Belo Vale
+
+Congonhas: Jeceaba
+
+Congonhas: S�o Br�s do Sua�u�
+
+Conselheiro Lafaiete: Carana�ba
+
+Conselheiro Lafaiete: Casa Grande
+
+Conselheiro Lafaiete: Catas Altas da Noruega
+
+Conselheiro Lafaiete: Cristiano Otoni
+
+Conselheiro Lafaiete: Itaverava
+
+Conselheiro Lafaiete: Lamim
+
+Carangola: Oriz�nia
+
+Conselheiro Lafaiete: Piranga
+
+Conselheiro Lafaiete: Queluzito
+
+Conselheiro Lafaiete: Rio Espera
+
+Conselheiro Lafaiete: Santana dos Montes
+
+Conselheiro Lafaiete: S�o Br�s do Sua�u�
+
+Conselheiro Lafaiete: Senhora de Oliveira
+
+Curvelo: Buen�polis
+
+Curvelo: Corinto
+
+Curvelo: Felixl�ndia
+
+Curvelo: Inimutaba
+
+Carangola: Oriz�nia
+
+Curvelo: Monjolos
+
+Curvelo: Morro da Gar�a
+
+Curvelo: Presidente Juscelino
+
+Curvelo: Santo Hip�lito
+
+Diamantina: Congonhas do Norte
+
+Diamantina: Couto de Magalh�es de Minas
+
+Diamantina: Datas
+
+Diamantina: Fel�cio dos Santos
+
+Diamantina: S�o Gon�alo do Rio Preto
+
+Diamantina: Gouveia
+
+Carangola: Pedra Bonita
+
+Diamantina: Presidente Kubitschek
+
+Diamantina: Senador Modestino Gon�alves
+
+Diamantina: Serro
+
+Divin�polis: Ara�jos
+
+Divin�polis: Arcos
+
+Divin�polis: Camacho
+
+Divin�polis: Carmo da Mata
+
+Divin�polis: Carmo do Cajuru
+
+Divin�polis: Cl�udio
+
+Cascavel: Anahy
+
+Divin�polis: Itapecerica
+
+Carangola: Pedra Bonita
+
+Divin�polis: Ita�na
+
+Divin�polis: Lagoa da Prata
+
+Divin�polis: Nova Serrana
+
+Divin�polis: Par� de Minas
+
+Divin�polis: Pedra do Indai�
+
+Divin�polis: Perdig�o
+
+Divin�polis: Santo Ant�nio do Monte
+
+Divin�polis: S�o Gon�alo do Par�
+
+Divin�polis: S�o Sebasti�o do Oeste
+
+Dores do Indai�: Estrela do Indai�
+
+Maca�bas: Rio do Pires
+
+Carangola: Pedra Dourada
+
+Dores do Indai�: Serra da Saudade
+
+Entre Rios de Minas: Desterro de Entre Rios
+
+Formiga: Arcos
+
+Formiga: C�rrego Fundo
+
+Formiga: Pains
+
+Formiga: Pimenta
+
+Governador Valadares: Alpercata
+
+Governador Valadares: Capit�o Andrade
+
+Governador Valadares: Central de Minas
+
+Governador Valadares: Conselheiro Pena
+
+Carangola: Pedra Dourada
+
+Governador Valadares: Coroaci
+
+Governador Valadares: Divino das Laranjeiras
+
+Governador Valadares: Engenheiro Caldas
+
+Governador Valadares: Fernandes Tourinho
+
+Governador Valadares: Frei Inoc�ncio
+
+Governador Valadares: Galil�ia
+
+Governador Valadares: Goiabeira
+
+Governador Valadares: Gonzaga
+
+Governador Valadares: Itabirinha de Mantena
+
+Governador Valadares: Itanhomi
+
+Carangola: Tombos
+
+Governador Valadares: Jampruca
+
+Governador Valadares: Jos� Raydan
+
+Governador Valadares: Mantena
+
+Governador Valadares: Marilac
+
+Governador Valadares: Mendes Pimentel
+
+Governador Valadares: Nacip Raydan
+
+Governador Valadares: Nova M�dica
+
+Governador Valadares: Periquito
+
+Governador Valadares: Pescador
+
+Governador Valadares: Resplendor
+
+Carangola: Tombos
+
+Governador Valadares: Santa Efig�nia de Minas
+
+Governador Valadares: S�o F�lix de Minas
+
+Governador Valadares: S�o Geraldo da Piedade
+
+Governador Valadares: S�o Geraldo do Baixio
+
+Governador Valadares: S�o Jos� da Safira
+
+Governador Valadares: S�o Jos� do Divino
+
+Governador Valadares: Sardo�
+
+Governador Valadares: Sobr�lia
+
+Governador Valadares: Tarumirim
+
+Governador Valadares: Tumiritinga
+
+Carangola: Dores do Rio Preto
+
+Governador Valadares: Mathias Lobato
+
+Governador Valadares: Virgin�polis
+
+Governador Valadares: Virgol�ndia
+
+Guanh�es: Dom Joaquim
+
+Guanh�es: Dores de Guanh�es
+
+Guanh�es: Materl�ndia
+
+Guanh�es: Paulistas
+
+Guanh�es: S�o Pedro do Sua�u�
+
+Guanh�es: S�o Sebasti�o do Maranh�o
+
+Guanh�es: Senhora do Porto
+
+Carangola: Dores do Rio Preto
+
+Guanh�es: Serra Azul de Minas
+
+Guanh�es: Virgin�polis
+
+Guaxup�: Guaran�sia
+
+Guaxup�: Juruaia
+
+Guaxup�: Monte Belo
+
+Guaxup�: Muzambinho
+
+Guaxup�: Nova Resende
+
+Guaxup�: S�o Pedro da Uni�o
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: A�ucena
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Ant�nio Dias
+
+Carmo do Parana�ba: Arapu�
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Belo Oriente
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Bra�nas
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Bugre
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Caratinga
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Dion�sio
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Iapu
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Jaguara�u
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Joan�sia
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Marli�ria
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Mesquita
+
+Carmo do Parana�ba: Arapu�
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Naque
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Nova Era
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: Pingo-d'�gua
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: S�o Jo�o do Oriente
+
+ACP de Ipatinga - Coronel Fabriciano - Tim�: S�o Jos� do Goiabal
+
+Itabira: Bom Jesus do Amparo
+
+Itabira: Itamb� do Mato Dentro
+
+Itabira: Passab�m
+
+Itabira: Santa Maria de Itabira
+
+Itabira: Santo Ant�nio do Rio Abaixo
+
+Carmo do Parana�ba: Arapu�
+
+Itabira: S�o Gon�alo do Rio Abaixo
+
+Itabira: S�o Sebasti�o do Rio Preto
+
+Itajub�: Bras�polis
+
+Itajub�: Concei��o das Pedras
+
+Itajub�: Delfim Moreira
+
+Itajub�: Maria da F�
+
+Itajub�: Marmel�polis
+
+Itajub�: Parais�polis
+
+Itajub�: Pedralva
+
+Itajub�: Pirangu�u
+
+Carmo do Parana�ba: Rio Parana�ba
+
+Itajub�: Piranguinho
+
+Itajub�: S�o Jos� do Alegre
+
+Itajub�: Wenceslau Braz
+
+Jo�o Monlevade: Alvin�polis
+
+Jo�o Monlevade: Bela Vista de Minas
+
+Jo�o Monlevade: Nova Era
+
+Jo�o Monlevade: Rio Piracicaba
+
+Jo�o Monlevade: S�o Domingos do Prata
+
+ACP de Juiz de Fora: Al�m Para�ba
+
+ACP de Juiz de Fora: Andrel�ndia
+
+Santa Maria da Vit�ria: Cocos
+
+Carmo do Parana�ba: Rio Parana�ba
+
+ACP de Juiz de Fora: Aracitaba
+
+ACP de Juiz de Fora: Arantina
+
+ACP de Juiz de Fora: Barbacena
+
+ACP de Juiz de Fora: Belmiro Braga
+
+ACP de Juiz de Fora: Bias Fortes
+
+ACP de Juiz de Fora: Bicas
+
+ACP de Juiz de Fora: Bom Jardim de Minas
+
+ACP de Juiz de Fora: Cataguases
+
+ACP de Juiz de Fora: Coronel Pacheco
+
+ACP de Juiz de Fora: Descoberto
+
+Carmo do Parana�ba: Rio Parana�ba
+
+ACP de Juiz de Fora: Ewbank da C�mara
+
+ACP de Juiz de Fora: Goian�
+
+ACP de Juiz de Fora: Guarani
+
+ACP de Juiz de Fora: Laranjal
+
+ACP de Juiz de Fora: Lima Duarte
+
+ACP de Juiz de Fora: Mar de Espanha
+
+ACP de Juiz de Fora: Merc�s
+
+ACP de Juiz de Fora: Muria�
+
+ACP de Juiz de Fora: Olaria
+
+ACP de Juiz de Fora: Paiva
+
+Cruz�lia: Minduri
+
+ACP de Juiz de Fora: Palma
+
+ACP de Juiz de Fora: Pedro Teixeira
+
+ACP de Juiz de Fora: Pequeri
+
+ACP de Juiz de Fora: Piau
+
+ACP de Juiz de Fora: Rio Novo
+
+ACP de Juiz de Fora: Rio Pomba
+
+ACP de Juiz de Fora: Rio Preto
+
+ACP de Juiz de Fora: Santa B�rbara do Monte Verde
+
+ACP de Juiz de Fora: Santana do Deserto
+
+ACP de Juiz de Fora: Santos Dumont
+
+Cruz�lia: Serranos
+
+ACP de Juiz de Fora: S�o Jo�o Nepomuceno
+
+ACP de Juiz de Fora: Sim�o Pereira
+
+ACP de Juiz de Fora: Tabuleiro
+
+ACP de Juiz de Fora: Ub�
+
+ACP de Juiz de Fora: Al�m Para�ba
+
+ACP de Juiz de Fora: Andrel�ndia
+
+ACP de Juiz de Fora: Aracitaba
+
+ACP de Juiz de Fora: Arantina
+
+ACP de Juiz de Fora: Barbacena
+
+ACP de Juiz de Fora: Belmiro Braga
+
+Extrema: Itapeva
+
+ACP de Juiz de Fora: Bias Fortes
+
+ACP de Juiz de Fora: Bicas
+
+ACP de Juiz de Fora: Bom Jardim de Minas
+
+ACP de Juiz de Fora: Cataguases
+
+ACP de Juiz de Fora: Coronel Pacheco
+
+ACP de Juiz de Fora: Descoberto
+
+ACP de Juiz de Fora: Ewbank da C�mara
+
+ACP de Juiz de Fora: Goian�
+
+ACP de Juiz de Fora: Guarani
+
+ACP de Juiz de Fora: Laranjal
+
+Itacarambi: S�o Jo�o das Miss�es
+
+ACP de Juiz de Fora: Lima Duarte
+
+ACP de Juiz de Fora: Mar de Espanha
+
+ACP de Juiz de Fora: Merc�s
+
+ACP de Juiz de Fora: Muria�
+
+ACP de Juiz de Fora: Olaria
+
+ACP de Juiz de Fora: Paiva
+
+ACP de Juiz de Fora: Palma
+
+ACP de Juiz de Fora: Pedro Teixeira
+
+ACP de Juiz de Fora: Pequeri
+
+ACP de Juiz de Fora: Piau
+
+Montes Claros: Francisco S�
+
+Itamonte: Alagoa
+
+ACP de Juiz de Fora: Rio Novo
+
+ACP de Juiz de Fora: Rio Pomba
+
+ACP de Juiz de Fora: Rio Preto
+
+ACP de Juiz de Fora: Santa B�rbara do Monte Verde
+
+ACP de Juiz de Fora: Santana do Deserto
+
+ACP de Juiz de Fora: Santos Dumont
+
+ACP de Juiz de Fora: S�o Jo�o Nepomuceno
+
+ACP de Juiz de Fora: Sim�o Pereira
+
+ACP de Juiz de Fora: Tabuleiro
+
+ACP de Juiz de Fora: Ub�
+
+Joa�ma: Monte Formoso
+
+Lavras: Bom Sucesso
+
+Lavras: Cana Verde
+
+Lavras: Carmo da Cachoeira
+
+Lavras: Carrancas
+
+Lavras: Ibituruna
+
+Lavras: Ijaci
+
+Lavras: Inga�
+
+Lavras: Itumirim
+
+Lavras: Itutinga
+
+Lavras: Lumin�rias
+
+Jo�o Pinheiro: Brasil�ndia de Minas
+
+Lavras: Nepomuceno
+
+Lavras: Perd�es
+
+Lavras: Ribeir�o Vermelho
+
+Lavras: Santo Ant�nio do Amparo
+
+Manhua�u: Alto Capara�
+
+Manhua�u: Caputira
+
+Manhua�u: Chal�
+
+Manhua�u: Concei��o de Ipanema
+
+Manhua�u: Durand�
+
+Manhua�u: Ipanema
+
+Jo�o Pinheiro: Brasil�ndia de Minas
+
+Manhua�u: Lajinha
+
+Manhua�u: Luisburgo
+
+Manhua�u: Manhumirim
+
+Manhua�u: Martins Soares
+
+Manhua�u: Matip�
+
+Manhua�u: Mutum
+
+Manhua�u: Pocrane
+
+Manhua�u: Alto Jequitib�
+
+Manhua�u: Reduto
+
+Manhua�u: Santa Margarida
+
+S�o Jo�o del Rei: Concei��o da Barra de Minas
+
+Santa Maria da Vit�ria: Coribe
+
+Jo�o Pinheiro: Brasil�ndia de Minas
+
+Manhua�u: Santana do Manhua�u
+
+Manhua�u: S�o Jo�o do Manhua�u
+
+Manhua�u: S�o Jos� do Mantimento
+
+Manhua�u: Sericita
+
+Manhua�u: Simon�sia
+
+Montes Claros: Cachoeira de Paje�
+
+Montes Claros: Bocai�va
+
+Montes Claros: Botumirim
+
+Montes Claros: Bras�lia de Minas
+
+Montes Claros: Campo Azul
+
+Lambari: Jesu�nia
+
+Montes Claros: Capit�o En�as
+
+Montes Claros: Chapada Ga�cha
+
+Montes Claros: Claro dos Po��es
+
+Montes Claros: Comercinho
+
+Montes Claros: Cora��o de Jesus
+
+Montes Claros: Crist�lia
+
+Montes Claros: Curral de Dentro
+
+Montes Claros: Engenheiro Navarro
+
+Montes Claros: Francisco Dumont
+
+Leopoldina: Argirita
+
+Montes Claros: Glaucil�ndia
+
+Montes Claros: Gr�o Mogol
+
+Montes Claros: Guaraciama
+
+Montes Claros: Ibiracatu
+
+Montes Claros: Icara� de Minas
+
+Montes Claros: Itacambira
+
+Montes Claros: Jana�ba
+
+Montes Claros: Janu�ria
+
+Montes Claros: Japonvar
+
+Montes Claros: Jequita�
+
+Leopoldina: Argirita
+
+Montes Claros: Joaquim Fel�cio
+
+Montes Claros: Josen�polis
+
+Montes Claros: Juramento
+
+Montes Claros: Juven�lia
+
+Montes Claros: Lagoa dos Patos
+
+Montes Claros: Lontra
+
+Montes Claros: Luisl�ndia
+
+Montes Claros: Manga
+
+Montes Claros: Mirabela
+
+Montes Claros: Monte Azul
+
+Leopoldina: Recreio
+
+Montes Claros: Olhos-d'�gua
+
+Montes Claros: Padre Carvalho
+
+Montes Claros: Patis
+
+Montes Claros: Pirapora
+
+Montes Claros: Salinas
+
+Montes Claros: S�o Francisco
+
+Montes Claros: S�o Jo�o da Lagoa
+
+Montes Claros: S�o Jo�o da Ponte
+
+Montes Claros: S�o Jo�o do Pacu�
+
+Montes Claros: S�o Rom�o
+
+Leopoldina: Recreio
+
+Montes Claros: Uba�
+
+Montes Claros: Varzel�ndia
+
+Oliveira: S�o Francisco de Paula
+
+Paracatu: Guarda-Mor
+
+Paracatu: Guarda-Mor
+
+Passos: Alpin�polis
+
+Passos: Bom Jesus da Penha
+
+Passos: Capit�lio
+
+Passos: Carmo do Rio Claro
+
+Passos: Fortaleza de Minas
+
+Patroc�nio: Cruzeiro da Fortaleza
+
+Passos: Guap�
+
+Passos: Itamogi
+
+Passos: Ita� de Minas
+
+Passos: Piumhi
+
+Passos: Prat�polis
+
+Passos: S�o Jo�o Batista do Gl�ria
+
+Passos: S�o Jos� da Barra
+
+Passos: S�o Sebasti�o do Para�so
+
+Pe�anha: Cantagalo
+
+Pitangui: Concei��o do Par�
+
+Patroc�nio: Cruzeiro da Fortaleza
+
+Po�os de Caldas: Andradas
+
+Po�os de Caldas: Bandeira do Sul
+
+Po�os de Caldas: Botelhos
+
+Po�os de Caldas: Cabo Verde
+
+Po�os de Caldas: Caldas
+
+Po�os de Caldas: Campestre
+
+Po�os de Caldas: Ipui�na
+
+Po�os de Caldas: Santa Rita de Caldas
+
+Ponte Nova: Acaiaca
+
+Ponte Nova: Amparo do Serra
+
+Patroc�nio: Cruzeiro da Fortaleza
+
+Ponte Nova: Diogo de Vasconcelos
+
+Ponte Nova: Dom Silv�rio
+
+Ponte Nova: Guaraciaba
+
+Ponte Nova: Jequeri
+
+Ponte Nova: Orat�rios
+
+Ponte Nova: Piedade de Ponte Nova
+
+Ponte Nova: Raul Soares
+
+Ponte Nova: Rio Casca
+
+Ponte Nova: Rio Doce
+
+Ponte Nova: Santa Cruz do Escalvado
+
+Patroc�nio: Serra do Salitre
+
+Ponte Nova: Santo Ant�nio do Grama
+
+Ponte Nova: S�o Pedro dos Ferros
+
+Ponte Nova: Sem-Peixe
+
+Ponte Nova: Uruc�nia
+
+Ponte Nova: Vi�osa
+
+Pouso Alegre: Borda da Mata
+
+Pouso Alegre: Cachoeira de Minas
+
+Pouso Alegre: Cambu�
+
+Pouso Alegre: Carea�u
+
+Pouso Alegre: Concei��o dos Ouros
+
+Santa Maria da Vit�ria: Jaborandi
+
+Patroc�nio: Serra do Salitre
+
+Pouso Alegre: Congonhal
+
+Pouso Alegre: Cordisl�ndia
+
+Pouso Alegre: Esp�rito Santo do Dourado
+
+Pouso Alegre: Estiva
+
+Pouso Alegre: Extrema
+
+Pouso Alegre: Heliodora
+
+Pouso Alegre: Ipui�na
+
+Pouso Alegre: Jacutinga
+
+Pouso Alegre: Nat�rcia
+
+Pouso Alegre: Ouro Fino
+
+Patroc�nio: Serra do Salitre
+
+Pouso Alegre: Santa Rita do Sapuca�
+
+Pouso Alegre: S�o Jo�o da Mata
+
+Pouso Alegre: S�o Sebasti�o da Bela Vista
+
+Pouso Alegre: Senador Jos� Bento
+
+Pouso Alegre: Silvian�polis
+
+Pouso Alegre: Tocos do Moji
+
+Pouso Alegre: Turvol�ndia
+
+Santa B�rbara: Catas Altas
+
+Santa Maria do Sua�u�: Jos� Raydan
+
+Porteirinha: Riacho dos Machados
+
+S�o Jo�o del Rei: Coronel Xavier Chaves
+
+S�o Jo�o del Rei: Lagoa Dourada
+
+S�o Jo�o del Rei: Madre de Deus de Minas
+
+S�o Jo�o del Rei: Nazareno
+
+S�o Jo�o del Rei: Piedade do Rio Grande
+
+S�o Jo�o del Rei: Prados
+
+S�o Jo�o del Rei: Resende Costa
+
+S�o Jo�o del Rei: Rit�polis
+
+S�o Jo�o del Rei: Santa Cruz de Minas
+
+S�o Jo�o del Rei: S�o Tiago
+
+Porteirinha: Serran�polis de Minas
+
+S�o Jo�o del Rei: S�o Vicente de Minas
+
+S�o Jo�o del Rei: Tiradentes
+
+S�o Jo�o Evangelista: S�o Pedro do Sua�u�
+
+Te�filo Otoni: �guas Formosas
+
+Te�filo Otoni: Almenara
+
+Te�filo Otoni: Ara�ua�
+
+Te�filo Otoni: Atal�ia
+
+Te�filo Otoni: Campan�rio
+
+Te�filo Otoni: Cara�
+
+Te�filo Otoni: Carlos Chagas
+
+S�o Gotardo: Matutina
+
+Te�filo Otoni: Catuji
+
+Te�filo Otoni: Cris�lita
+
+Te�filo Otoni: Felisburgo
+
+Te�filo Otoni: Frei Gaspar
+
+Te�filo Otoni: Itaip�
+
+Te�filo Otoni: Itambacuri
+
+Te�filo Otoni: Itaobim
+
+Te�filo Otoni: Jequitinhonha
+
+Te�filo Otoni: Ladainha
+
+Te�filo Otoni: Malacacheta
+
+S�o Gotardo: Matutina
+
+Te�filo Otoni: Medina
+
+Te�filo Otoni: Monte Formoso
+
+Te�filo Otoni: Nanuque
+
+Te�filo Otoni: Novo Cruzeiro
+
+Te�filo Otoni: Novo Oriente de Minas
+
+Te�filo Otoni: Ouro Verde de Minas
+
+Te�filo Otoni: Padre Para�so
+
+Te�filo Otoni: Pav�o
+
+Te�filo Otoni: Ponto dos Volantes
+
+Te�filo Otoni: Pot�
+
+S�o Gotardo: Matutina
+
+Te�filo Otoni: Virgem da Lapa
+
+Turmalina: Veredinha
+
+Uberaba: �gua Comprida
+
+Uberaba: Arax�
+
+Uberaba: Campo Florido
+
+Uberaba: Concei��o das Alagoas
+
+Uberaba: Conquista
+
+Uberaba: Delta
+
+Uberaba: Frutal
+
+Uberaba: Iturama
+
+S�o Gotardo: Tiros
+
+Uberaba: Patos de Minas
+
+Uberaba: Pedrin�polis
+
+Uberaba: Ver�ssimo
+
+Uberaba: Aramina
+
+Uberaba: Igarapava
+
+Uberaba: �gua Comprida
+
+Uberaba: Arax�
+
+Uberaba: Campo Florido
+
+Uberaba: Concei��o das Alagoas
+
+Uberaba: Conquista
+
+S�o Gotardo: Tiros
+
+Uberaba: Delta
+
+Uberaba: Frutal
+
+Uberaba: Iturama
+
+Uberaba: Patos de Minas
+
+Uberaba: Pedrin�polis
+
+Uberaba: Ver�ssimo
+
+Uberaba: Aramina
+
+Uberaba: Igarapava
+
+ACP de Uberl�ndia: Abadia dos Dourados
+
+ACP de Uberl�ndia: Araguari
+
+S�o Gotardo: Tiros
+
+ACP de Uberl�ndia: Campina Verde
+
+ACP de Uberl�ndia: Can�polis
+
+ACP de Uberl�ndia: Centralina
+
+ACP de Uberl�ndia: Coromandel
+
+ACP de Uberl�ndia: Indian�polis
+
+ACP de Uberl�ndia: Ira� de Minas
+
+ACP de Uberl�ndia: Ituiutaba
+
+ACP de Uberl�ndia: Monte Alegre de Minas
+
+ACP de Uberl�ndia: Monte Carmelo
+
+ACP de Uberl�ndia: Nova Ponte
+
+Santa Maria da Vit�ria: Santana
+
+Taiobeiras: Berizal
+
+ACP de Uberl�ndia: Patos de Minas
+
+ACP de Uberl�ndia: Pedrin�polis
+
+ACP de Uberl�ndia: Prata
+
+ACP de Uberl�ndia: Santa Juliana
+
+ACP de Uberl�ndia: Tupaciguara
+
+Una�: Bonfin�polis de Minas
+
+Una�: Cabeceira Grande
+
+Una�: Dom Bosco
+
+Una�: Natal�ndia
+
+Una�: Riachinho
+
+Taiobeiras: Indaiabira
+
+Una�: Uruana de Minas
+
+Varginha: Boa Esperan�a
+
+Varginha: Carmo da Cachoeira
+
+Varginha: Caxambu
+
+Varginha: Coqueiral
+
+Varginha: El�i Mendes
+
+Varginha: Monsenhor Paulo
+
+Varginha: S�o Gon�alo do Sapuca�
+
+Varginha: S�o Louren�o
+
+Bauru: Balbinos
+
+Varginha: Tr�s Cora��es
+
+Taiobeiras: Ninheira
+
+Varginha: Tr�s Pontas
+
+ACP de Vit�ria: Teixeira de Freitas
+
+ACP de Vit�ria: Afonso Cl�udio
+
+ACP de Vit�ria: Alfredo Chaves
+
+ACP de Vit�ria: Anchieta
+
+ACP de Vit�ria: Aracruz
+
+ACP de Vit�ria: Baixo Guandu
+
+ACP de Vit�ria: Barra de S�o Francisco
+
+ACP de Vit�ria: Bom Jesus do Norte
+
+ACP de Vit�ria: Cachoeiro de Itapemirim
+
+Taiobeiras: Rio Pardo de Minas
+
+ACP de Vit�ria: Colatina
+
+ACP de Vit�ria: Divino de S�o Louren�o
+
+ACP de Vit�ria: Domingos Martins
+
+ACP de Vit�ria: Dores do Rio Preto
+
+ACP de Vit�ria: Fund�o
+
+ACP de Vit�ria: Ibatiba
+
+ACP de Vit�ria: Ibitirama
+
+ACP de Vit�ria: Irupi
+
+ACP de Vit�ria: Itagua�u
+
+ACP de Vit�ria: Itarana
+
+Taiobeiras: S�o Jo�o do Para�so
+
+ACP de Vit�ria: I�na
+
+ACP de Vit�ria: Linhares
+
+ACP de Vit�ria: Marechal Floriano
+
+ACP de Vit�ria: Nova Ven�cia
+
+ACP de Vit�ria: Pi�ma
+
+ACP de Vit�ria: Santa Leopoldina
+
+ACP de Vit�ria: Santa Maria de Jetib�
+
+ACP de Vit�ria: Santa Teresa
+
+ACP de Vit�ria: S�o Mateus
+
+ACP de Vit�ria: Venda Nova do Imigrante
+
+Taiobeiras: Vargem Grande do Rio Pardo
+
+Angra dos Reis: Parati
+
+Araruama: Iguaba Grande
+
+Cabo Frio: Arma��o dos B�zios
+
+Cabo Frio: Arraial do Cabo
+
+Cabo Frio: Iguaba Grande
+
+Cabo Frio: S�o Pedro da Aldeia
+
+ACP de Campos dos Goytacazes: Bom Jesus do Norte
+
+ACP de Campos dos Goytacazes: Cardoso Moreira
+
+ACP de Campos dos Goytacazes: Italva
+
+ACP de Campos dos Goytacazes: Quissam�
+
+V�rzea da Palma: Lassance
+
+ACP de Campos dos Goytacazes: Santo Ant�nio de P�dua
+
+ACP de Campos dos Goytacazes: S�o Francisco de Itabapoana
+
+ACP de Campos dos Goytacazes: S�o Fid�lis
+
+ACP de Campos dos Goytacazes: S�o Jo�o da Barra
+
+Itaperuna: Carangola
+
+Itaperuna: S�o Jos� do Cal�ado
+
+Itaperuna: Bom Jesus do Itabapoana
+
+Itaperuna: Laje do Muria�
+
+Itaperuna: Miracema
+
+Itaperuna: Natividade
+
+Vazante: Guarda-Mor
+
+Itaperuna: Porci�ncula
+
+Itaperuna: Santo Ant�nio de P�dua
+
+Itaperuna: S�o Jos� de Ub�
+
+Itaperuna: Varre-Sai
+
+Maca�: Carapebus
+
+Maca�: Concei��o de Macabu
+
+Maca�: Rio das Ostras
+
+Nova Friburgo: Bom Jardim
+
+Nova Friburgo: Cantagalo
+
+Nova Friburgo: Cordeiro
+
+Vazante: Guarda-Mor
+
+Nova Friburgo: Duas Barras
+
+Nova Friburgo: Macuco
+
+Nova Friburgo: Santa Maria Madalena
+
+Nova Friburgo: S�o Sebasti�o do Alto
+
+Nova Friburgo: Sumidouro
+
+Nova Friburgo: Trajano de Morais
+
+Rio Bonito: Silva Jardim
+
+Teres�polis: S�o Jos� do Vale do Rio Pret
+
+Tr�s Rios: Chiador
+
+Tr�s Rios: Comendador Levy Gasparian
+
+Vazante: Guarda-Mor
+
+Tr�s Rios: Para�ba do Sul
+
+Tr�s Rios: Sapucaia
+
+Valen�a: Rio Preto
+
+Valen�a: Rio das Flores
+
+ACP de Volta Redonda - Barra Mansa: Santa Rita de Jacutinga
+
+ACP de Volta Redonda - Barra Mansa: Engenheiro Paulo de Frontin
+
+ACP de Volta Redonda - Barra Mansa: Mendes
+
+ACP de Volta Redonda - Barra Mansa: Quatis
+
+Bauru: Borebi
+
+ACP de Volta Redonda - Barra Mansa: Resende
+
+ACP de Volta Redonda - Barra Mansa: Rio Claro
+
+Santa Maria da Vit�ria: S�o F�lix do Coribe
+
+Visconde do Rio Branco: Guiricema
+
+ACP de Volta Redonda - Barra Mansa: Bananal
+
+Araraquara: Am�rico Brasiliense
+
+Araraquara: Boa Esperan�a do Sul
+
+Araraquara: Gavi�o Peixoto
+
+Araraquara: Ibitinga
+
+Araraquara: It�polis
+
+Araraquara: Mat�o
+
+Araraquara: Motuca
+
+Araraquara: Nova Europa
+
+Araraquara: Rinc�o
+
+Visconde do Rio Branco: Guiricema
+
+Araraquara: Santa L�cia
+
+Araraquara: Tabatinga
+
+Araraquara: Taquaritinga
+
+Araraquara: Trabiju
+
+Bauru: Agudos
+
+Bauru: Arealva
+
+Bauru: Ava�
+
+Bauru: Cabr�lia Paulista
+
+Castelo: Concei��o do Castelo
+
+Bauru: Duartina
+
+Bauru: Iacanga
+
+Bauru: Ja�
+
+Bauru: Len��is Paulista
+
+Bauru: Lins
+
+Bauru: Lucian�polis
+
+Bauru: Macatuba
+
+Bauru: Paulist�nia
+
+Bauru: Piraju�
+
+Bauru: Piratininga
+
+S�o Gabriel da Palha: Vila Val�rio
+
+Bauru: Ponga�
+
+Bauru: Presidente Alves
+
+Bauru: Regin�polis
+
+Bauru: Ubirajara
+
+Botucatu: Anhembi
+
+Botucatu: Avar�
+
+Botucatu: Bofete
+
+Botucatu: Conchas
+
+Botucatu: Itatinga
+
+Botucatu: Pardinho
+
+Ourinhos: Canitar
+
+Itaocara: Aperib�
+
+Botucatu: S�o Manuel
+
+ACP de Campinas: Monte Si�o
+
+ACP de Campinas: Amparo
+
+ACP de Campinas: Araras
+
+ACP de Campinas: Artur Nogueira
+
+ACP de Campinas: Bragan�a Paulista
+
+ACP de Campinas: Elias Fausto
+
+ACP de Campinas: Holambra
+
+ACP de Campinas: Itapira
+
+ACP de Campinas: Limeira
+
+Itaocara: Aperib�
+
+ACP de Campinas: Mogi Gua�u
+
+ACP de Campinas: Moji-Mirim
+
+ACP de Campinas: Piracicaba
+
+ACP de Campinas: Santa Cruz das Palmeiras
+
+ACP de Campinas: Santo Ant�nio de Posse
+
+ACP de Campinas: S�o Jo�o da Boa Vista
+
+ACP de Campinas: S�o Jos� do Rio Pardo
+
+ACP de Campinas: Serra Negra
+
+ACP de Campinas: Socorro
+
+ACP de Jundia�: Jarinu
+
+Itaocara: Cambuci
+
+Mar�lia: Adamantina
+
+Mar�lia: �lvaro de Carvalho
+
+Mar�lia: Alvinl�ndia
+
+Mar�lia: Assis
+
+Mar�lia: Campos Novos Paulista
+
+Mar�lia: Echapor�
+
+Mar�lia: G�lia
+
+Mar�lia: Gar�a
+
+Mar�lia: Getulina
+
+Mar�lia: Guaimb�
+
+Itaocara: Cambuci
+
+Mar�lia: J�lio Mesquita
+
+Mar�lia: Lup�rcio
+
+Mar�lia: Ocau�u
+
+Mar�lia: Oriente
+
+Mar�lia: Oscar Bressane
+
+Mar�lia: Pomp�ia
+
+Mar�lia: Quintana
+
+Mar�lia: Tup�
+
+Mar�lia: Vera Cruz
+
+Ourinhos: Bernardino de Campos
+
+Andradina: Castilho
+
+Ourinhos: Ibirarema
+
+Ourinhos: Ipaussu
+
+Ourinhos: Piraju
+
+Ourinhos: Ribeir�o do Sul
+
+Ourinhos: Salto Grande
+
+Ourinhos: Santa Cruz do Rio Pardo
+
+Ourinhos: Chavantes
+
+Presidente Prudente: Adamantina
+
+Presidente Prudente: Alfredo Marcondes
+
+Andradina: Guara�a�
+
+Presidente Prudente: �lvares Machado
+
+Presidente Prudente: Anhumas
+
+Presidente Prudente: Caiabu
+
+Presidente Prudente: Dracena
+
+Presidente Prudente: Emilian�polis
+
+Presidente Prudente: Estrela do Norte
+
+Presidente Prudente: Euclides da Cunha Paulista
+
+Presidente Prudente: Iep�
+
+Presidente Prudente: Indiana
+
+Presidente Prudente: Martin�polis
+
+Ilha Solteira: Itapura
+
+Presidente Prudente: Bataguassu
+
+Andradina: Ilha Solteira
+
+Presidente Prudente: Mirante do Paranapanema
+
+Presidente Prudente: Nantes
+
+Presidente Prudente: Narandiba
+
+Presidente Prudente: Osvaldo Cruz
+
+Presidente Prudente: Pirapozinho
+
+Presidente Prudente: Presidente Bernardes
+
+Presidente Prudente: Presidente Epit�cio
+
+Presidente Prudente: Presidente Venceslau
+
+Presidente Prudente: Quat�
+
+Presidente Prudente: Rancharia
+
+Andradina: Lav�nia
+
+Presidente Prudente: Regente Feij�
+
+Presidente Prudente: Ribeir�o dos �ndios
+
+Presidente Prudente: Rosana
+
+Presidente Prudente: Sandovalina
+
+Presidente Prudente: Santo Anast�cio
+
+Presidente Prudente: Santo Expedito
+
+Presidente Prudente: Taciba
+
+Presidente Prudente: Tarabai
+
+Presidente Prudente: Teodoro Sampaio
+
+Andradina: Mirand�polis
+
+ACP de Ribeir�o Preto: Itamogi
+
+ACP de Ribeir�o Preto: S�o Sebasti�o do Para�so
+
+ACP de Ribeir�o Preto: Altin�polis
+
+ACP de Ribeir�o Preto: Barretos
+
+ACP de Ribeir�o Preto: Barrinha
+
+ACP de Ribeir�o Preto: Batatais
+
+ACP de Ribeir�o Preto: Brodowski
+
+ACP de Ribeir�o Preto: Cajuru
+
+ACP de Sorocaba: Piedade
+
+ACP de Ribeir�o Preto: C�ssia dos Coqueiros
+
+ACP de Ribeir�o Preto: Cravinhos
+
+Andradina: Murutinga do Sul
+
+ACP de Ribeir�o Preto: Dumont
+
+ACP de Ribeir�o Preto: Franca
+
+ACP de Ribeir�o Preto: Guariba
+
+ACP de Ribeir�o Preto: Guatapar�
+
+ACP de Ribeir�o Preto: Ituverava
+
+ACP de Ribeir�o Preto: Jaboticabal
+
+ACP de Ribeir�o Preto: Lu�s Ant�nio
+
+ACP de Ribeir�o Preto: Mococa
+
+ACP de Ribeir�o Preto: Monte Alto
+
+ACP de Ribeir�o Preto: Morro Agudo
+
+Andradina: Nova Independ�ncia
+
+ACP de Ribeir�o Preto: Orl�ndia
+
+ACP de Ribeir�o Preto: Pitangueiras
+
+ACP de Ribeir�o Preto: Pontal
+
+ACP de Ribeir�o Preto: Prad�polis
+
+ACP de Ribeir�o Preto: Sales Oliveira
+
+ACP de Ribeir�o Preto: Santa Cruz da Esperan�a
+
+ACP de Ribeir�o Preto: Santa Cruz das Palmeiras
+
+ACP de Ribeir�o Preto: Santa Rita do Passa Quatro
+
+ACP de Ribeir�o Preto: Santa Rosa de Viterbo
+
+ACP de Ribeir�o Preto: Santo Ant�nio da Alegria
+
+Andradina: Pereira Barreto
+
+ACP de Ribeir�o Preto: S�o Sim�o
+
+ACP de Ribeir�o Preto: Serra Azul
+
+ACP de Ribeir�o Preto: Tamba�
+
+ACP de Santos: Itariri
+
+ACP de Santos: Pedro de Toledo
+
+ACP de Santos: Peru�be
+
+ACP de Santos: Registro
+
+S�o Carlos: Descalvado
+
+S�o Carlos: Dourado
+
+S�o Carlos: Ibat�
+
+Aparecida: Roseira
+
+S�o Carlos: Itirapina
+
+S�o Carlos: Porto Ferreira
+
+S�o Carlos: Ribeir�o Bonito
+
+S�o Carlos: Santa Rita do Passa Quatro
+
+ACP de S�o Jos� do Rio Preto: Fronteira
+
+ACP de S�o Jos� do Rio Preto: Adolfo
+
+ACP de S�o Jos� do Rio Preto: Altair
+
+ACP de S�o Jos� do Rio Preto: Ara�atuba
+
+ACP de S�o Jos� do Rio Preto: B�lsamo
+
+ACP de S�o Jos� do Rio Preto: Catanduva
+
+Apia�: Ribeira
+
+ACP de S�o Jos� do Rio Preto: Fernand�polis
+
+ACP de S�o Jos� do Rio Preto: Ibir�
+
+ACP de S�o Jos� do Rio Preto: Ic�m
+
+ACP de S�o Jos� do Rio Preto: Ipigu�
+
+ACP de S�o Jos� do Rio Preto: Irapu�
+
+ACP de S�o Jos� do Rio Preto: Jaci
+
+ACP de S�o Jos� do Rio Preto: Jales
+
+ACP de S�o Jos� do Rio Preto: Jos� Bonif�cio
+
+ACP de S�o Jos� do Rio Preto: Macaubal
+
+ACP de S�o Jos� do Rio Preto: Mendon�a
+
+Auriflama: Guzol�ndia
+
+ACP de S�o Jos� do Rio Preto: Mirassol�ndia
+
+ACP de S�o Jos� do Rio Preto: Mon��es
+
+ACP de S�o Jos� do Rio Preto: Monte Apraz�vel
+
+ACP de S�o Jos� do Rio Preto: Neves Paulista
+
+ACP de S�o Jos� do Rio Preto: Nova Alian�a
+
+ACP de S�o Jos� do Rio Preto: Nova Granada
+
+ACP de S�o Jos� do Rio Preto: Ol�mpia
+
+ACP de S�o Jos� do Rio Preto: Onda Verde
+
+ACP de S�o Jos� do Rio Preto: Orindi�va
+
+ACP de S�o Jos� do Rio Preto: Palestina
+
+Bariri: Itaju
+
+ACP de S�o Jos� do Rio Preto: Paulo de Faria
+
+ACP de S�o Jos� do Rio Preto: Planalto
+
+ACP de S�o Jos� do Rio Preto: Poloni
+
+ACP de S�o Jos� do Rio Preto: Potirendaba
+
+ACP de S�o Jos� do Rio Preto: Sales
+
+ACP de S�o Jos� do Rio Preto: Santa F� do Sul
+
+ACP de S�o Jos� do Rio Preto: Sever�nia
+
+ACP de S�o Jos� do Rio Preto: Tanabi
+
+ACP de S�o Jos� do Rio Preto: Ubarana
+
+ACP de S�o Jos� do Rio Preto: Uchoa
+
+Concei��o do Araguaia: Couto de Magalh�es
+
+Ilha Solteira: Selv�ria
+
+Barra Bonita: Igara�u do Tiet�
+
+ACP de S�o Jos� do Rio Preto: Uni�o Paulista
+
+ACP de S�o Jos� do Rio Preto: Votuporanga
+
+ACP de S�o Jos� dos Campos: Sapuca�-Mirim
+
+ACP de S�o Jos� dos Campos: Campos do Jord�o
+
+ACP de S�o Jos� dos Campos: Caraguatatuba
+
+ACP de S�o Jos� dos Campos: Guaratinguet�
+
+ACP de S�o Jos� dos Campos: Igarat�
+
+ACP de S�o Jos� dos Campos: Jambeiro
+
+ACP de S�o Jos� dos Campos: Lagoinha
+
+ACP de S�o Jos� dos Campos: Monteiro Lobato
+
+Bebedouro: Monte Azul Paulista
+
+ACP de S�o Jos� dos Campos: Natividade da Serra
+
+ACP de S�o Jos� dos Campos: Paraibuna
+
+ACP de S�o Jos� dos Campos: Reden��o da Serra
+
+ACP de S�o Jos� dos Campos: Santa Branca
+
+ACP de S�o Jos� dos Campos: Santo Ant�nio do Pinhal
+
+ACP de S�o Jos� dos Campos: S�o Bento do Sapuca�
+
+ACP de S�o Jos� dos Campos: S�o Lu�s do Paraitinga
+
+ACP de S�o Jos� dos Campos: Ubatuba
+
+S�o Sebasti�o: Ilhabela
+
+ACP de Sorocaba: Cap�o Bonito
+
+Bebedouro: Taia�u
+
+ACP de Sorocaba: Capela do Alto
+
+ACP de Sorocaba: Cerquilho
+
+ACP de Sorocaba: Ibi�na
+
+ACP de Sorocaba: Itapetininga
+
+ACP de Sorocaba: Itapeva
+
+ACP de Sorocaba: Pilar do Sul
+
+ACP de Sorocaba: Tapira�
+
+ACP de Sorocaba: Tatu�
+
+ACP de Sorocaba: Tiet�
+
+Bebedouro: Tai�va
+
+Cascavel: Boa Vista da Aparecida
+
+Cascavel: Braganey
+
+Cascavel: Cafel�ndia
+
+Cascavel: Campo Bonito
+
+Cascavel: Capanema
+
+Cascavel: Capit�o Le�nidas Marques
+
+Cascavel: Catanduvas
+
+Cascavel: C�u Azul
+
+Cascavel: Corb�lia
+
+Bebedouro: Taquaral
+
+Cascavel: Diamante do Sul
+
+Cascavel: Diamante d'Oeste
+
+Cascavel: Formosa do Oeste
+
+Cascavel: Foz do Igua�u
+
+Cascavel: Francisco Beltr�o
+
+Cascavel: Guarania�u
+
+Cascavel: Ibema
+
+Cascavel: Iguatu
+
+Cascavel: Laranjeiras do Sul
+
+Cascavel: Lindoeste
+
+Bebedouro: Terra Roxa
+
+Cascavel: Marechal C�ndido Rondon
+
+Cascavel: Matel�ndia
+
+Cascavel: Nova Aurora
+
+Cascavel: Planalto
+
+Cascavel: Ramil�ndia
+
+Cascavel: Santa Helena
+
+Cascavel: Santa L�cia
+
+Cascavel: Santa Tereza do Oeste
+
+Cascavel: Toledo
+
+Cascavel: Tr�s Barras do Paran�
+
+Bebedouro: Viradouro
+
+Cascavel: Tup�ssi
+
+Cascavel: Ubirat�
+
+Cascavel: Vera Cruz do Oeste
+
+Guarapuava: Campina do Sim�o
+
+Guarapuava: Cand�i
+
+Guarapuava: Cantagalo
+
+Guarapuava: Goioxim
+
+Guarapuava: In�cio Martins
+
+Guarapuava: Palmital
+
+Guarapuava: Pinh�o
+
+Birigui: Buritama
+
+Guarapuava: Pitanga
+
+Guarapuava: Prudent�polis
+
+Guarapuava: Quedas do Igua�u
+
+Guarapuava: Reserva do Igua�u
+
+Guarapuava: Turvo
+
+ACP de Londrina: Alvorada do Sul
+
+ACP de Londrina: Andir�
+
+ACP de Londrina: Apucarana
+
+ACP de Londrina: Arapongas
+
+ACP de Londrina: Assa�
+
+Birigui: Coroados
+
+ACP de Londrina: Bandeirantes
+
+ACP de Londrina: Bela Vista do Para�so
+
+ACP de Londrina: Cafeara
+
+ACP de Londrina: Centen�rio do Sul
+
+ACP de Londrina: Corn�lio Proc�pio
+
+ACP de Londrina: Curi�va
+
+ACP de Londrina: Faxinal
+
+ACP de Londrina: Figueira
+
+ACP de Londrina: Florest�polis
+
+ACP de Londrina: Guaraci
+
+Birigui: Gabriel Monteiro
+
+ACP de Londrina: Ibaiti
+
+ACP de Londrina: Ivaipor�
+
+ACP de Londrina: Jaboti
+
+ACP de Londrina: Jacarezinho
+
+ACP de Londrina: Jaguapit�
+
+ACP de Londrina: Jardim Alegre
+
+ACP de Londrina: Jataizinho
+
+ACP de Londrina: Lupion�polis
+
+ACP de Londrina: Miraselva
+
+ACP de Londrina: Pinhal�o
+
+Gua�ra: Terra Roxa
+
+Birigui: Lourdes
+
+ACP de Londrina: Porecatu
+
+ACP de Londrina: Prado Ferreira
+
+ACP de Londrina: Primeiro de Maio
+
+ACP de Londrina: Ribeir�o do Pinhal
+
+ACP de Londrina: Santa Cec�lia do Pav�o
+
+ACP de Londrina: Santo Ant�nio da Platina
+
+ACP de Londrina: S�o Jer�nimo da Serra
+
+ACP de Londrina: Sapopema
+
+ACP de Londrina: Sertan�polis
+
+ACP de Londrina: Tamarana
+
+Birigui: Piacatu
+
+ACP de Maring�: �ngulo
+
+ACP de Maring�: Astorga
+
+ACP de Maring�: Atalaia
+
+ACP de Maring�: Campo Mour�o
+
+ACP de Maring�: Cianorte
+
+ACP de Maring�: Colorado
+
+ACP de Maring�: Cruzeiro do Sul
+
+ACP de Maring�: Doutor Camargo
+
+ACP de Maring�: Engenheiro Beltr�o
+
+ACP de Maring�: Flora�
+
+Birigui: Sant�polis do Aguape�
+
+ACP de Maring�: Fl�rida
+
+ACP de Maring�: Iguara�u
+
+ACP de Maring�: Itaguaj�
+
+ACP de Maring�: Itamb�
+
+ACP de Maring�: Ivatuba
+
+ACP de Maring�: Jardim Olinda
+
+ACP de Maring�: Lobato
+
+ACP de Maring�: Mandagua�u
+
+ACP de Maring�: Munhoz de Melo
+
+ACP de Maring�: Nossa Senhora das Gra�as
+
+Birigui: Zacarias
+
+ACP de Maring�: Nova Esperan�a
+
+ACP de Maring�: Ourizona
+
+ACP de Maring�: Paranacity
+
+ACP de Maring�: Paranapoema
+
+ACP de Maring�: Paranava�
+
+ACP de Maring�: Presidente Castelo Branco
+
+ACP de Maring�: Santa F�
+
+ACP de Maring�: Santa In�s
+
+ACP de Maring�: Santo In�cio
+
+ACP de Maring�: S�o Jorge do Iva�
+
+Capivari: Mombuca
+
+ACP de Maring�: Uniflor
+
+Matinhos: Guaraque�aba
+
+Paranagu�: Antonina
+
+Paranagu�: Guaratuba
+
+Paranagu�: Morretes
+
+Paranagu�: Pontal do Paran�
+
+Pato Branco: Bom Sucesso do Sul
+
+Pato Branco: Chopinzinho
+
+Pato Branco: Clevel�ndia
+
+Pato Branco: Coronel Vivida
+
+Capivari: Rafard
+
+Pato Branco: Itapejara d'Oeste
+
+Pato Branco: Mari�polis
+
+Pato Branco: Palmas
+
+Pato Branco: Vitorino
+
+Ponta Grossa: Carambe�
+
+Ponta Grossa: Castro
+
+Ponta Grossa: Ipiranga
+
+Ponta Grossa: Irati
+
+Ponta Grossa: Iva�
+
+Ponta Grossa: Jaguaria�va
+
+Cruzeiro: Passa Quatro
+
+Ponta Grossa: Palmeira
+
+Ponta Grossa: Pira� do Sul
+
+Ponta Grossa: Porto Amazonas
+
+Ponta Grossa: Prudent�polis
+
+Ponta Grossa: Tel�maco Borba
+
+Umuarama: Alt�nia
+
+Umuarama: Alto Piquiri
+
+Umuarama: Brasil�ndia do Sul
+
+Umuarama: Cafezal do Sul
+
+Umuarama: Cidade Ga�cha
+
+Cruzeiro: Arape�
+
+Umuarama: Cruzeiro do Oeste
+
+Umuarama: Douradina
+
+Umuarama: Esperan�a Nova
+
+Umuarama: Francisco Alves
+
+Umuarama: Gua�ra
+
+Umuarama: Icara�ma
+
+Umuarama: Ipor�
+
+Umuarama: Ivat�
+
+Umuarama: Maria Helena
+
+Umuarama: Mariluz
+
+Cruzeiro: Areias
+
+Umuarama: Moreira Sales
+
+Umuarama: Nova Ol�mpia
+
+Umuarama: Perobal
+
+Umuarama: P�rola
+
+Umuarama: S�o Jorge do Patroc�nio
+
+Umuarama: Tapira
+
+Umuarama: Alto Para�so
+
+Umuarama: Xambr�
+
+Uni�o da Vit�ria: Bituruna
+
+Uni�o da Vit�ria: Cruz Machado
+
+Cruzeiro: Cachoeira Paulista
+
+Uni�o da Vit�ria: General Carneiro
+
+Uni�o da Vit�ria: Paula Freitas
+
+Uni�o da Vit�ria: Paulo Frontin
+
+Uni�o da Vit�ria: Porto Vit�ria
+
+Uni�o da Vit�ria: S�o Mateus do Sul
+
+Uni�o da Vit�ria: Porto Uni�o
+
+Wenceslau Braz: Santana do Itarar�
+
+Wenceslau Braz: S�o Jos� da Boa Vista
+
+ACP de Florian�polis: �guas Mornas
+
+ACP de Florian�polis: Alfredo Wagner
+
+Abelardo Luz: Ouro Verde
+
+Cruzeiro: Lavrinhas
+
+ACP de Florian�polis: Angelina
+
+ACP de Florian�polis: Anit�polis
+
+Ipor�: Piranhas
+
+ACP de Florian�polis: Ant�nio Carlos
+
+ACP de Florian�polis: Blumenau
+
+ACP de Florian�polis: Ca�ador
+
+ACP de Florian�polis: Chapec�
+
+ACP de Florian�polis: Crici�ma
+
+ACP de Florian�polis: Imbituba
+
+ACP de Florian�polis: Itaja�
+
+ACP de Florian�polis: Joa�aba
+
+Cruzeiro: Queluz
+
+ACP de Florian�polis: Lages
+
+ACP de Florian�polis: Porto Belo
+
+ACP de Florian�polis: Rancho Queimado
+
+ACP de Florian�polis: S�o Bonif�cio
+
+ACP de Florian�polis: S�o Pedro de Alc�ntara
+
+ACP de Florian�polis: Tijucas
+
+ACP de Florian�polis: Tubar�o
+
+ACP de Florian�polis: �guas Mornas
+
+ACP de Florian�polis: Alfredo Wagner
+
+ACP de Florian�polis: Angelina
+
+Cruzeiro: S�o Jos� do Barreiro
+
+ACP de Florian�polis: Anit�polis
+
+ACP de Florian�polis: Ant�nio Carlos
+
+Lajeado: Cruzeiro do Sul
+
+ACP de Florian�polis: Blumenau
+
+ACP de Florian�polis: Ca�ador
+
+ACP de Florian�polis: Chapec�
+
+ACP de Florian�polis: Crici�ma
+
+ACP de Florian�polis: Imbituba
+
+ACP de Florian�polis: Itaja�
+
+ACP de Florian�polis: Joa�aba
+
+ACP de Florian�polis: Lages
+
+Cruzeiro: Silveiras
+
+ACP de Florian�polis: Porto Belo
+
+ACP de Florian�polis: Rancho Queimado
+
+ACP de Florian�polis: S�o Bonif�cio
+
+ACP de Florian�polis: S�o Pedro de Alc�ntara
+
+ACP de Florian�polis: Tijucas
+
+ACP de Florian�polis: Tubar�o
+
+ACP de Joinville: Balne�rio Barra do Sul
+
+ACP de Joinville: Barra Velha
+
+ACP de Joinville: Corup�
+
+ACP de Joinville: Itapo�
+
+Esp�rito Santo do Pinhal: Albertina
+
+ACP de Joinville: Mafra
+
+ACP de Joinville: Massaranduba
+
+Lajeado: Encantado
+
+ACP de Joinville: S�o Bento do Sul
+
+ACP de Joinville: S�o Francisco do Sul
+
+ACP de Joinville: S�o Jo�o do Itaperi�
+
+Alegrete: Manoel Viana
+
+Camaqu�: Amaral Ferrador
+
+Camaqu�: Arambar�
+
+Camaqu�: Chuvisca
+
+Camaqu�: Cristal
+
+Esp�rito Santo do Pinhal: Santo Ant�nio do Jardim
+
+Camaqu�: Dom Feliciano
+
+Cap�o da Canoa: Itati
+
+Cap�o da Canoa: Terra de Areia
+
+Cap�o da Canoa: Tr�s Forquilhas
+
+ACP de Caxias do Sul: Alto Feliz
+
+ACP de Caxias do Sul: Ant�nio Prado
+
+ACP de Caxias do Sul: Bento Gon�alves
+
+ACP de Caxias do Sul: Bom Jesus
+
+ACP de Caxias do Sul: Cambar� do Sul
+
+ACP de Caxias do Sul: Campestre da Serra
+
+General Salgado: Magda
+
+ACP de Caxias do Sul: Canela
+
+ACP de Caxias do Sul: Feliz
+
+ACP de Caxias do Sul: Flores da Cunha
+
+ACP de Caxias do Sul: Gramado
+
+ACP de Caxias do Sul: Ip�
+
+ACP de Caxias do Sul: Jaquirana
+
+ACP de Caxias do Sul: Nova P�dua
+
+ACP de Caxias do Sul: Nova Petr�polis
+
+ACP de Caxias do Sul: Nova Roma do Sul
+
+ACP de Caxias do Sul: Para�
+
+General Salgado: Nova Castilho
+
+ACP de Caxias do Sul: S�o Francisco de Paula
+
+ACP de Caxias do Sul: S�o Jos� dos Ausentes
+
+ACP de Caxias do Sul: S�o Marcos
+
+ACP de Caxias do Sul: S�o Vendelino
+
+ACP de Caxias do Sul: Vacaria
+
+ACP de Caxias do Sul: Vale Real
+
+Cruz Alta: Boa Vista do Cadeado
+
+Cruz Alta: Boa Vista do Incra
+
+Cruz Alta: Condor
+
+Cruz Alta: Fortaleza dos Valos
+
+Guararapes: Rubi�cea
+
+Cruz Alta: Ibirub�
+
+Cruz Alta: Panambi
+
+Cruz Alta: Peju�ara
+
+Cruz Alta: Salto do Jacu�
+
+Cruz Alta: Santa B�rbara do Sul
+
+Cruz Alta: Tupanciret�
+
+Guapor�: Dois Lajeados
+
+Guapor�: S�o Valentim do Sul
+
+Guapor�: Uni�o da Serra
+
+Guapor�: Vista Alegre do Prata
+
+Itarar�: Bar�o de Antonina
+
+Iju�: Ajuricaba
+
+Iju�: Augusto Pestana
+
+Iju�: Bozano
+
+Iju�: Campo Novo
+
+Iju�: Catu�pe
+
+Iju�: Coronel Barros
+
+Iju�: J�ia
+
+Iju�: Nova Ramada
+
+Iju�: Santo �ngelo
+
+Iju�: Santo Augusto
+
+Abelardo Luz: Ouro Verde
+
+Itarar�: Itaporanga
+
+Iju�: Tenente Portela
+
+Iju�: Tr�s Passos
+
+Lajeado: Arroio do Meio
+
+Lajeado: Bom Retiro do Sul
+
+Lajeado: Canudos do Vale
+
+Lajeado: Coqueiro Baixo
+
+Lajeado: Estrela
+
+Lajeado: Forquetinha
+
+Itarar�: Riversul
+
+Lajeado: Imigrante
+
+Lajeado: Marques de Souza
+
+Lajeado: Paverama
+
+Lajeado: Pouso Novo
+
+Lajeado: Progresso
+
+Lajeado: Santa Clara do Sul
+
+Lajeado: S�o Jos� do Herval
+
+Lajeado: S�rio
+
+Lajeado: Travesseiro
+
+Montenegro: Brochier
+
+Itarar�: Seng�s
+
+Montenegro: Marat�
+
+Montenegro: Pareci Novo
+
+Montenegro: Salvador do Sul
+
+Montenegro: S�o Pedro da Serra
+
+Mostardas: Tavares
+
+ACP de Novo Hamburgo/S�o Leopoldo: Bom Princ�pio
+
+ACP de Novo Hamburgo/S�o Leopoldo: Linha Nova
+
+ACP de Novo Hamburgo/S�o Leopoldo: Nova Hartz
+
+ACP de Novo Hamburgo/S�o Leopoldo: Parob�
+
+ACP de Novo Hamburgo/S�o Leopoldo: Presidente Lucena
+
+Leme: Santa Cruz da Concei��o
+
+ACP de Novo Hamburgo/S�o Leopoldo: Santa Maria do Herval
+
+ACP de Novo Hamburgo/S�o Leopoldo: S�o Jos� do Hort�ncio
+
+Passo Fundo: Muliterno
+
+ACP de Novo Hamburgo/S�o Leopoldo: S�o Sebasti�o do Ca�
+
+Os�rio: Maquin�
+
+Passo Fundo: Barrac�o
+
+Passo Fundo: Cacique Doble
+
+Passo Fundo: Carazinho
+
+Passo Fundo: Casca
+
+Passo Fundo: Cir�aco
+
+Passo Fundo: Colorado
+
+Lorena: Canas
+
+Passo Fundo: Coxilha
+
+Passo Fundo: David Canabarro
+
+Passo Fundo: Erechim
+
+Passo Fundo: Ernestina
+
+Passo Fundo: Espumoso
+
+Passo Fundo: Frederico Westphalen
+
+Passo Fundo: Ibiraiaras
+
+Passo Fundo: Lagoa dos Tr�s Cantos
+
+Passo Fundo: Lagoa Vermelha
+
+Passo Fundo: Machadinho
+
+Santa Maria: Restinga Seca
+
+Lorena: Piquete
+
+Passo Fundo: Marau
+
+Passo Fundo: Mato Castelhano
+
+Passo Fundo: Nicolau Vergueiro
+
+Passo Fundo: Nova Ara��
+
+Passo Fundo: Palmeira das Miss�es
+
+Passo Fundo: Pont�o
+
+Passo Fundo: Ronda Alta
+
+Passo Fundo: Sananduva
+
+Passo Fundo: Selbach
+
+Luc�lia: Pracinha
+
+Passo Fundo: Serafina Corr�a
+
+Passo Fundo: Sert�o
+
+Passo Fundo: Soledade
+
+Passo Fundo: Tapejara
+
+Passo Fundo: Tapera
+
+Passo Fundo: Tio Hugo
+
+Passo Fundo: Tr�s Palmeiras
+
+Passo Fundo: Vanini
+
+Passo Fundo: Victor Graeff
+
+Passo Fundo: Vila Maria
+
+Luc�lia: Pracinha
+
+ACP de Pelotas - Rio Grande: Arroio do Padre
+
+ACP de Pelotas - Rio Grande: Arroio Grande
+
+ACP de Pelotas - Rio Grande: Bag�
+
+ACP de Pelotas - Rio Grande: Cangu�u
+
+ACP de Pelotas - Rio Grande: Cap�o do Le�o
+
+ACP de Pelotas - Rio Grande: Cerrito
+
+ACP de Pelotas - Rio Grande: Herval
+
+ACP de Pelotas - Rio Grande: Jaguar�o
+
+ACP de Pelotas - Rio Grande: Morro Redondo
+
+ACP de Pelotas - Rio Grande: Pedro Os�rio
+
+Palmeira d'Oeste: Marin�polis
+
+ACP de Pelotas - Rio Grande: Piratini
+
+ACP de Pelotas - Rio Grande: Santa Vit�ria do Palmar
+
+ACP de Pelotas - Rio Grande: S�o Jos� do Norte
+
+ACP de Pelotas - Rio Grande: S�o Louren�o do Sul
+
+ACP de Pelotas - Rio Grande: Turu�u
+
+Santa Cruz do Sul: Boqueir�o do Le�o
+
+Santa Cruz do Sul: Candel�ria
+
+Santa Cruz do Sul: Gramado Xavier
+
+Santa Cruz do Sul: Pantano Grande
+
+Santa Cruz do Sul: Rio Pardo
+
+Paragua�u Paulista: Bor�
+
+Santa Cruz do Sul: Sinimbu
+
+Ju�na: Castanheira
+
+Santa Cruz do Sul: Vale Verde
+
+Santa Cruz do Sul: Vale do Sol
+
+Santa Cruz do Sul: Ven�ncio Aires
+
+Santa Cruz do Sul: Vera Cruz
+
+Santa Maria: Agudo
+
+Santa Maria: Ca�apava do Sul
+
+Santa Maria: Cacequi
+
+Santa Maria: Cachoeira do Sul
+
+Santa Maria: Dilermando de Aguiar
+
+Ibirama: Jos� Boiteux
+
+Paragua�u Paulista: Lut�cia
+
+Santa Maria: Dona Francisca
+
+Santa Maria: Faxinal do Soturno
+
+Santa Maria: Formigueiro
+
+Santa Maria: Itaara
+
+Santa Maria: Ivor�
+
+Santa Maria: Jaguari
+
+Santa Maria: Jari
+
+Santa Maria: J�lio de Castilhos
+
+Santa Maria: Mata
+
+Santa Maria: Nova Palma
+
+Pen�polis: Alto Alegre
+
+Santa Maria: Pinhal Grande
+
+Santa Maria: Quevedos
+
+Santa Maria: Santa Margarida do Sul
+
+Santa Maria: Santiago
+
+Santa Maria: S�o Francisco de Assis
+
+Santa Maria: S�o Gabriel
+
+Santa Maria: S�o Jo�o do Pol�sine
+
+Santa Maria: S�o Martinho da Serra
+
+Santa Maria: S�o Pedro do Sul
+
+Pen�polis: Avanhandava
+
+Santa Maria: S�o Sep�
+
+Santa Maria: S�o Vicente do Sul
+
+Santa Maria: Silveira Martins
+
+Santa Maria: Toropi
+
+Santa Maria: Vila Nova do Sul
+
+Santana do Livramento: Quara�
+
+Santa Rosa: Alecrim
+
+Santa Rosa: Campina das Miss�es
+
+Santa Rosa: C�ndido God�i
+
+Santa Rosa: Horizontina
+
+Pen�polis: Barbosa
+
+Santa Rosa: Porto Lucena
+
+Santa Rosa: Porto Mau�
+
+Santa Rosa: Porto Vera Cruz
+
+Santa Rosa: Santo Cristo
+
+Santa Rosa: S�o Paulo das Miss�es
+
+Santa Rosa: Senador Salgado Filho
+
+Santa Rosa: Tr�s de Maio
+
+Santa Rosa: Tucunduva
+
+Santa Rosa: Tuparendi
+
+Santo Ant�nio da Patrulha: Cara�
+
+Pen�polis: Luizi�nia
+
+S�o Borja: Itaqui
+
+S�o Jer�nimo: General C�mara
+
+Sobradinho: Arroio do Tigre
+
+Sobradinho: Estrela Velha
+
+Sobradinho: Ibarama
+
+Sobradinho: Lagoa Bonita do Sul
+
+Sobradinho: Lago�o
+
+Sobradinho: Passa Sete
+
+Sobradinho: Segredo
+
+Sobradinho: Tunas
+
+Piraju: Fartura
+
+Tapes: Sentinela do Sul
+
+Taquara: Riozinho
+
+Taquara: Rolante
+
+Torres: Arroio do Sal
+
+Torres: Dom Pedro de Alc�ntara
+
+Torres: Mampituba
+
+Torres: Morrinhos do Sul
+
+Torres: Tr�s Cachoeiras
+
+Torres: Tr�s Forquilhas
+
+Tramanda�: Imb�
+
+Piraju: Sarutai�
+
+Uruguaiana: Barra do Quara�
+
+Uruguaiana: Itaqui
+
+ACP de Campo Grande: Aquidauana
+
+ACP de Campo Grande: Bandeirantes
+
+ACP de Campo Grande: Bataguassu
+
+ACP de Campo Grande: Bonito
+
+ACP de Campo Grande: Camapu�
+
+ACP de Campo Grande: Cassil�ndia
+
+ACP de Campo Grande: Chapad�o do Sul
+
+ACP de Campo Grande: Corguinho
+
+Piraju: Tejup�
+
+ACP de Campo Grande: Corumb�
+
+ACP de Campo Grande: Costa Rica
+
+ACP de Campo Grande: Coxim
+
+ACP de Campo Grande: Dois Irm�os do Buriti
+
+ACP de Campo Grande: Dourados
+
+ACP de Campo Grande: Jaraguari
+
+ACP de Campo Grande: Jardim
+
+ACP de Campo Grande: Miranda
+
+ACP de Campo Grande: Nova Alvorada do Sul
+
+C�ceres: Salto do C�u
+
+ACP de Campo Grande: Nova Andradina
+
+Piraju: Timburi
+
+ACP de Campo Grande: Parana�ba
+
+ACP de Campo Grande: Pedro Gomes
+
+ACP de Campo Grande: Porto Murtinho
+
+ACP de Campo Grande: Ribas do Rio Pardo
+
+ACP de Campo Grande: Rio Negro
+
+ACP de Campo Grande: Rio Verde de Mato Grosso
+
+ACP de Campo Grande: Rochedo
+
+ACP de Campo Grande: S�o Gabriel do Oeste
+
+ACP de Campo Grande: Sidrol�ndia
+
+ACP de Campo Grande: Sonora
+
+Rio Claro: Anal�ndia
+
+ACP de Campo Grande: Terenos
+
+ACP de Campo Grande: Tr�s Lagoas
+
+Alta Floresta: Apiac�s
+
+Alta Floresta: Carlinda
+
+Alta Floresta: Nova Bandeirantes
+
+Alta Floresta: Parana�ta
+
+Alta Floresta: Nova Monte verde
+
+Alto Araguaia: Alto Taquari
+
+Alto Araguaia: Araguainha
+
+Barra do Bugres: Denise
+
+Ibirama: Jos� Boiteux
+
+Rio Claro: Cordeir�polis
+
+Barra do Gar�as: �gua Boa
+
+Barra do Gar�as: Araguaiana
+
+Barra do Gar�as: Confresa
+
+Barra do Gar�as: General Carneiro
+
+Barra do Gar�as: Nova Xavantina
+
+Barra do Gar�as: Novo S�o Joaquim
+
+Barra do Gar�as: Pontal do Araguaia
+
+Barra do Gar�as: Ponte Branca
+
+Barra do Gar�as: Ribeir�ozinho
+
+Barra do Gar�as: Torixor�u
+
+Rio Claro: Corumbata�
+
+Barra do Gar�as: Vila Rica
+
+Barra do Gar�as: Aragar�as
+
+Barra do Gar�as: Baliza
+
+Barra do Gar�as: Bom Jardim de Goi�s
+
+Barra do Gar�as: Piranhas
+
+C�ceres: Araputanga
+
+C�ceres: Curvel�ndia
+
+C�ceres: Lambari d'Oeste
+
+C�ceres: Mirassol d'Oeste
+
+C�ceres: Pontes e Lacerda
+
+Rio Claro: Ipe�na
+
+C�ceres: Rio Branco
+
+Col�der: Nova Santa Helena
+
+Col�der: Nova Cana� do Norte
+
+Diamantino: Alto Paraguai
+
+Diamantino: Aren�polis
+
+Diamantino: Nortel�ndia
+
+Diamantino: Nova Maril�ndia
+
+Diamantino: Nova Maring�
+
+Juara: Novo Horizonte do Norte
+
+Rio Claro: Santa Gertrudes
+
+Juara: Porto dos Ga�chos
+
+Juara: Tabapor�
+
+Ju�na: Aripuan�
+
+Ju�na: Colniza
+
+Ju�na: Cotrigua�u
+
+Ju�na: Juruena
+
+Nova Mutum: Santa Rita do Trivelato
+
+Peixoto de Azevedo: Guarant� do Norte
+
+Peixoto de Azevedo: Matup�
+
+S�o Joaquim da Barra: Ipu�
+
+Peixoto de Azevedo: Novo Mundo
+
+Primavera do Leste: Paranatinga
+
+Primavera do Leste: Poxor�o
+
+Primavera do Leste: Santo Ant�nio do Leste
+
+Rondon�polis: Alto Gar�as
+
+Rondon�polis: Guiratinga
+
+Rondon�polis: Itiquira
+
+Rondon�polis: Jaciara
+
+Rondon�polis: Pedra Preta
+
+Rondon�polis: S�o Jos� do Povo
+
+Assis Chateaubriand: Iracema do Oeste
+
+Rondon�polis: Tesouro
+
+S�o F�lix do Araguaia: Alto Boa Vista
+
+S�o F�lix do Araguaia: Bom Jesus do Araguaia
+
+S�o F�lix do Araguaia: Canabrava do Norte
+
+S�o F�lix do Araguaia: Luci�ra
+
+S�o F�lix do Araguaia: Novo Santo Ant�nio
+
+S�o F�lix do Araguaia: Serra Nova Dourada
+
+S�o F�lix do Araguaia: Alto Boa Vista
+
+S�o F�lix do Araguaia: Bom Jesus do Araguaia
+
+S�o F�lix do Araguaia: Canabrava do Norte
+
+Assis Chateaubriand: Jesu�tas
+
+S�o F�lix do Araguaia: Luci�ra
+
+S�o F�lix do Araguaia: Novo Santo Ant�nio
+
+S�o F�lix do Araguaia: Serra Nova Dourada
+
+Sinop: Cl�udia
+
+Sinop: Feliz Natal
+
+Sinop: Ita�ba
+
+Sinop: Marcel�ndia
+
+Sinop: Santa Carmem
+
+Sinop: Terra Nova do Norte
+
+Sinop: Uni�o do Sul
+
+Barrac�o: Bom Jesus do Sul
+
+Sinop: Vera
+
+Sorriso: Feliz Natal
+
+Sorriso: Ipiranga do Norte
+
+Sorriso: Itanhang�
+
+Sorriso: Lucas do Rio Verde
+
+Sorriso: Nova Ubirat�
+
+Tangar� da Serra: Brasnorte
+
+Tangar� da Serra: Campo Novo do Parecis
+
+Tangar� da Serra: Nova Ol�mpia
+
+An�polis: Abadi�nia
+
+Campina da Lagoa: Altamira do Paran�
+
+An�polis: Alex�nia
+
+An�polis: Campo Limpo de Goi�s
+
+An�polis: Cocalzinho de Goi�s
+
+An�polis: Corumb� de Goi�s
+
+An�polis: Gameleira de Goi�s
+
+An�polis: Jes�polis
+
+An�polis: Ouro Verde de Goi�s
+
+An�polis: Piren�polis
+
+An�polis: S�o Francisco de Goi�s
+
+Anicuns: Adel�ndia
+
+Dois Vizinhos: Boa Esperan�a do Igua�u
+
+Caldas Novas: Corumba�ba
+
+Caldas Novas: Marzag�o
+
+Caldas Novas: Rio Quente
+
+Campos Belos: Arraias
+
+Campos Belos: Aurora do Tocantins
+
+Campos Belos: Combinado
+
+Campos Belos: Concei��o do Tocantins
+
+Campos Belos: Lavandeira
+
+Campos Belos: Novo Alegre
+
+Campos Belos: Monte Alegre de Goi�s
+
+Ibirama: Vitor Meireles
+
+Dois Vizinhos: Cruzeiro do Igua�u
+
+Campos Belos: Teresina de Goi�s
+
+Catal�o: Anhanguera
+
+Catal�o: Campo Alegre de Goi�s
+
+Catal�o: Cumari
+
+Catal�o: Davin�polis
+
+Catal�o: Goiandira
+
+Catal�o: Nova Aurora
+
+Catal�o: Ouvidor
+
+Catal�o: Tr�s Ranchos
+
+Ceres: Carmo do Rio Verde
+
+Dois Vizinhos: Salto do Lontra
+
+Ceres: Guarinos
+
+Ceres: Nova Gl�ria
+
+Ceres: Pilar de Goi�s
+
+Ceres: Rian�polis
+
+Ceres: Rubiataba
+
+Ceres: Santa Isabel
+
+Ceres: S�o Patr�cio
+
+Crix�s: Campos Verdes
+
+Crix�s: Santa Terezinha de Goi�s
+
+Goian�sia: Barro Alto
+
+Dois Vizinhos: S�o Jo�o
+
+Goian�sia: Santa Rita do Novo Destino
+
+Goian�sia: Vila Prop�cio
+
+Goi�s: Araguapaz
+
+Goi�s: Faina
+
+Goi�s: Itapirapu�
+
+Goi�s: Matrinch�
+
+Goi�s: Moss�medes
+
+Inhumas: Ara�u
+
+Inhumas: Damol�ndia
+
+Ipor�: Amorin�polis
+
+Dois Vizinhos: S�o Jorge d'Oeste
+
+Ipor�: Aren�polis
+
+Ipor�: Diorama
+
+Ipor�: Israel�ndia
+
+Ipor�: Jaupaci
+
+Ipor�: Montes Claros de Goi�s
+
+Ipor�: Palestina de Goi�s
+
+Itabera�: Heitora�
+
+Itabera�: Itaguaru
+
+Itapaci: Guarinos
+
+Goioer�: Moreira Sales
+
+Itapaci: Pilar de Goi�s
+
+Itapuranga: Guara�ta
+
+Itumbiara: Arapor�
+
+Itumbiara: Bom Jesus de Goi�s
+
+Itumbiara: Buriti Alegre
+
+Itumbiara: Cachoeira Dourada
+
+Itumbiara: Goiatuba
+
+Itumbiara: Inaciol�ndia
+
+Itumbiara: Panam�
+
+Jata�: Caiap�nia
+
+Goioer�: Quarto Centen�rio
+
+Jata�: Perol�ndia
+
+Jata�: Serran�polis
+
+Jussara: Brit�nia
+
+Jussara: Matrinch�
+
+Jussara: Novo Brasil
+
+Jussara: Santa F� de Goi�s
+
+Mineiros: Portel�ndia
+
+Mineiros: Santa Rita do Araguaia
+
+Morrinhos: �gua Limpa
+
+Morrinhos: Alo�ndia
+
+Posse: S�o Domingos
+
+Goioer�: Rancho Alegre d'Oeste
+
+Morrinhos: Edealina
+
+Niquel�ndia: Colinas do Sul
+
+Pires do Rio: Orizona
+
+Pires do Rio: Palmelo
+
+Porangatu: Bon�polis
+
+Porangatu: Campina�u
+
+Porangatu: Estrela do Norte
+
+Porangatu: Formoso
+
+Porangatu: Montividiu do Norte
+
+Porangatu: Mutun�polis
+
+Jandaia do Sul: Bom Sucesso
+
+Porangatu: Novo Planalto
+
+Porangatu: Santa Tereza de Goi�s
+
+Porangatu: Trombas
+
+Posse: Alvorada do Norte
+
+Posse: Buritin�polis
+
+Posse: Damian�polis
+
+Posse: Divin�polis de Goi�s
+
+Posse: Guarani de Goi�s
+
+Posse: Iaciara
+
+Posse: Mamba�
+
+Jandaia do Sul: Cambira
+
+Posse: Nova Roma
+
+Posse: Simol�ndia
+
+ACP de Manaus: Itacoatiara
+
+Rio Verde: Aparecida do Rio Doce
+
+Rio Verde: Cachoeira Alta
+
+Rio Verde: Ca�u
+
+Rio Verde: Castel�ndia
+
+Rio Verde: Itarum�
+
+Rio Verde: Mauril�ndia
+
+Rio Verde: Montividiu
+
+Jandaia do Sul: Marumbi
+
+Rio Verde: Porteir�o
+
+Rio Verde: Quirin�polis
+
+Rio Verde: Santa Helena de Goi�s
+
+Rio Verde: Santo Ant�nio da Barra
+
+Rio Verde: Turvel�ndia
+
+Sanclerl�ndia: Buriti de Goi�s
+
+S�o Lu�s de Montes Belos: Auril�ndia
+
+S�o Lu�s de Montes Belos: Cachoeira de Goi�s
+
+S�o Lu�s de Montes Belos: C�rrego do Ouro
+
+S�o Lu�s de Montes Belos: Fazenda Nova
+
+Ibirama: Vitor Meireles
+
+Jandaia do Sul: S�o Pedro do Iva�
+
+S�o Lu�s de Montes Belos: Ivol�ndia
+
+S�o Lu�s de Montes Belos: Moipor�
+
+S�o Miguel do Araguaia: Mundo Novo
+
+S�o Miguel do Araguaia: Nova Crix�s
+
+Urua�u: Campinorte
+
+Urua�u: Hidrolina
+
+Urua�u: S�o Lu�z do Norte
+
+Porto Velho: Ariquemes
+
+Porto Velho: Guajar�-Mirim
+
+Porto Velho: Jaru
+
+Loanda: Porto Rico
+
+Porto Velho: Ji-Paran�
+
+Porto Velho: Vilhena
+
+Porto Velho: Candeias do Jamari
+
+Porto Velho: Itapu� do Oeste
+
+Porto Velho: Rio Branco
+
+Porto Velho: Humait�
+
+Porto Velho: L�brea
+
+ACP de Manaus: Anam�
+
+ACP de Manaus: Anori
+
+ACP de Manaus: Apu�
+
+Loanda: Quer�ncia do Norte
+
+ACP de Manaus: Autazes
+
+ACP de Manaus: Barcelos
+
+ACP de Manaus: Beruri
+
+ACP de Manaus: Borba
+
+ACP de Manaus: Careiro da V�rzea
+
+ACP de Manaus: Coari
+
+Loanda: Santa Cruz de Monte Castelo
+
+ACP de Manaus: Codaj�s
+
+ACP de Manaus: Eirunep�
+
+ACP de Manaus: Iranduba
+
+ACP de Manaus: Manacapuru
+
+ACP de Manaus: Manaquiri
+
+ACP de Manaus: Manicor�
+
+ACP de Manaus: Nova Olinda do Norte
+
+ACP de Manaus: Novo Air�o
+
+ACP de Manaus: Novo Aripuan�
+
+Loanda: Santa Isabel do Iva�
+
+ACP de Manaus: Parintins
+
+ACP de Manaus: Presidente Figueiredo
+
+ACP de Manaus: Rio Preto da Eva
+
+ACP de Manaus: Santa Isabel do Rio Negro
+
+ACP de Manaus: S�o Gabriel da Cachoeira
+
+ACP de Manaus: Silves
+
+ACP de Manaus: Tabatinga
+
+ACP de Manaus: Tapau�
+
+ACP de Manaus: Tef�
+
+ACP de Manaus: Urucar�
+
+Loanda: Santa M�nica
+
+ACP de Manaus: Boa Vista
+
+ACP de Bel�m: Abaetetuba
+
+ACP de Bel�m: Acar�
+
+ACP de Bel�m: Almeirim
+
+ACP de Bel�m: Altamira
+
+ACP de Bel�m: Anaj�s
+
+ACP de Bel�m: Bragan�a
+
+ACP de Bel�m: Breves
+
+ACP de Bel�m: Bujaru
+
+ACP de Bel�m: Cachoeira do Arari
+
+ACP de Bel�m: Tucuru�
+
+Loanda: S�o Pedro do Paran�
+
+ACP de Bel�m: Camet�
+
+ACP de Bel�m: Capanema
+
+ACP de Bel�m: Capit�o Po�o
+
+ACP de Bel�m: Castanhal
+
+ACP de Bel�m: Colares
+
+ACP de Bel�m: Concei��o do Araguaia
+
+ACP de Bel�m: Conc�rdia do Par�
+
+ACP de Bel�m: Curu��
+
+ACP de Bel�m: Igarap�-A�u
+
+ACP de Bel�m: Irituia
+
+Medianeira: Missal
+
+ACP de Bel�m: Marab�
+
+ACP de Bel�m: Mocajuba
+
+ACP de Bel�m: Muan�
+
+ACP de Bel�m: Paragominas
+
+ACP de Bel�m: Ponta de Pedras
+
+ACP de Bel�m: Santa B�rbara do Par�
+
+ACP de Bel�m: Santa Cruz do Arari
+
+ACP de Bel�m: Santa Isabel do Par�
+
+Medianeira: Serran�polis do Igua�u
+
+ACP de Bel�m: Santar�m
+
+ACP de Bel�m: Santo Ant�nio do Tau�
+
+ACP de Bel�m: S�o Jo�o de Pirabas
+
+ACP de Bel�m: S�o Sebasti�o da Boa Vista
+
+ACP de Bel�m: Soure
+
+ACP de Bel�m: Tail�ndia
+
+ACP de Bel�m: Tom�-A�u
+
+ACP de Bel�m: Vigia
+
+ACP de Bel�m: ACP de Macap�
+
+Nova Londrina: Marilena
+
+ACP de Bel�m: Amap� do Maranh�o
+
+ACP de Bel�m: Boa Vista do Gurupi
+
+ACP de Bel�m: Carutapera
+
+ACP de Bel�m: Maraca�um�
+
+ACP de Fortaleza: ACP de S�o Lu�s
+
+ACP de Fortaleza: ACP de Teresina
+
+ACP de Fortaleza: Acarape
+
+ACP de Fortaleza: Acara�
+
+ACP de Fortaleza: Apuiar�s
+
+ACP de Fortaleza: Aracati
+
+ACP de Fortaleza: Itapi�na
+
+Ibirama: Witmarsum
+
+Rio Negro: Campo do Tenente
+
+ACP de Fortaleza: Aracoiaba
+
+ACP de Fortaleza: Aratuba
+
+ACP de Fortaleza: Barreira
+
+ACP de Fortaleza: Baturit�
+
+ACP de Fortaleza: Beberibe
+
+ACP de Fortaleza: Canind�
+
+ACP de Fortaleza: Capistrano
+
+ACP de Fortaleza: Cascavel
+
+ACP de Fortaleza: Catunda
+
+ACP de Fortaleza: Chorozinho
+
+Roncador: Mato Rico
+
+ACP de Fortaleza: Crate�s
+
+ACP de Fortaleza: Erer�
+
+ACP de Fortaleza: General Sampaio
+
+ACP de Fortaleza: Guai�ba
+
+ACP de Fortaleza: Guaramiranga
+
+ACP de Fortaleza: Horizonte
+
+ACP de Fortaleza: Icapu�
+
+ACP de Fortaleza: Iguatu
+
+ACP de Fortaleza: Iracema
+
+ACP de Fortaleza: Itapag�
+
+S�o Jo�o do Iva�: Godoy Moreira
+
+ACP de Fortaleza: Itapipoca
+
+ACP de Fortaleza: Jaguaretama
+
+ACP de Fortaleza: Jaguaribara
+
+ACP de Fortaleza: Jaguaribe
+
+ACP de Fortaleza: ACP de Juazeiro do Norte - Crato - Barbalha
+
+ACP de Fortaleza: Limoeiro do Norte
+
+ACP de Fortaleza: Morada Nova
+
+ACP de Fortaleza: Mulungu
+
+ACP de Fortaleza: Ocara
+
+Siqueira Campos: Salto do Itarar�
+
+ACP de Fortaleza: Pacajus
+
+ACP de Fortaleza: Pacoti
+
+ACP de Fortaleza: Palm�cia
+
+ACP de Fortaleza: Paracuru
+
+ACP de Fortaleza: Paraipaba
+
+ACP de Fortaleza: Pentecoste
+
+ACP de Fortaleza: Pindoretama
+
+ACP de Fortaleza: Quixad�
+
+ACP de Fortaleza: Reden��o
+
+ACP de Fortaleza: Russas
+
+Ararangu�: Balne�rio Arroio do Silva
+
+ACP de Fortaleza: S�o Gon�alo do Amarante
+
+ACP de Fortaleza: S�o Lu�s do Curu
+
+ACP de Fortaleza: Sobral
+
+ACP de Fortaleza: Tabuleiro do Norte
+
+ACP de Fortaleza: Tau�
+
+ACP de Fortaleza: Teju�uoca
+
+ACP de Fortaleza: Trairi
+
+ACP de Fortaleza: ACP de Natal
+
+ACP de Recife: ACP de Natal
+
+ACP de Recife: ACP de Jo�o Pessoa
+
+Ararangu�: Balne�rio Arroio do Silva
+
+ACP de Recife: Afogados da Ingazeira
+
+ACP de Recife: Amaraji
+
+ACP de Recife: Ara�oiaba
+
+ACP de Recife: Araripina
+
+ACP de Recife: Arcoverde
+
+ACP de Recife: Barreiros
+
+ACP de Recife: Bezerros
+
+ACP de Recife: Bom Jardim
+
+ACP de Recife: Buenos Aires
+
+ACP de Recife: Camutanga
+
+Ararangu�: Ermo
+
+ACP de Recife: Carpina
+
+ACP de Recife: Caruaru
+
+ACP de Recife: Catende
+
+ACP de Recife: Ch� Grande
+
+ACP de Recife: Cort�s
+
+ACP de Recife: Fernando de Noronha
+
+ACP de Recife: Garanhuns
+
+ACP de Recife: Gl�ria do Goit�
+
+ACP de Recife: Goiana
+
+Ararangu�: Ermo
+
+ACP de Recife: Ipojuca
+
+ACP de Recife: Itamb�
+
+ACP de Recife: Itaquitinga
+
+ACP de Recife: Jo�o Alfredo
+
+ACP de Recife: Limoeiro
+
+ACP de Recife: Nazar� da Mata
+
+ACP de Recife: Orob�
+
+ACP de Recife: Palmares
+
+ACP de Recife: Pesqueira
+
+ACP de Recife: ACP de Petrolina - Juazeiro
+
+Ararangu�: Jacinto Machado
+
+ACP de Recife: Primavera
+
+ACP de Recife: Ribeir�o
+
+ACP de Recife: Rio Formoso
+
+ACP de Recife: Salgueiro
+
+ACP de Recife: S�o Jos� da Coroa Grande
+
+ACP de Recife: Serra Talhada
+
+ACP de Recife: Sirinha�m
+
+ACP de Recife: Surubim
+
+ACP de Recife: Tamandar�
+
+ACP de Recife: Timba�ba
+
+Ararangu�: Jacinto Machado
+
+ACP de Recife: Vic�ncia
+
+ACP de Recife: Vit�ria de Santo Ant�o
+
+ACP de Recife: ACP de Macei�
+
+ACP de Salvador: ACP de Petrolina - Juazeiro
+
+ACP de Salvador: ACP de Aracaju
+
+ACP de Salvador: Alagoinhas
+
+ACP de Salvador: Andara�
+
+ACP de Salvador: Anguera
+
+ACP de Salvador: Barreiras
+
+ACP de Salvador: Cansan��o
+
+Ibirama: Witmarsum
+
+Ararangu�: Maracaj�
+
+ACP de Salvador: Capim Grosso
+
+ACP de Salvador: Catu
+
+ACP de Salvador: Conde
+
+ACP de Salvador: Cruz das Almas
+
+ACP de Salvador: Esplanada
+
+ACP de Salvador: ACP de Feira de Santana
+
+ACP de Salvador: ACP de Ilh�us - Itabuna
+
+ACP de Salvador: Inhambupe
+
+ACP de Salvador: Irec�
+
+ACP de Salvador: Itaberaba
+
+Ararangu�: Maracaj�
+
+ACP de Salvador: Itanagra
+
+ACP de Salvador: Itapicuru
+
+ACP de Salvador: Jacobina
+
+ACP de Salvador: Jequi�
+
+ACP de Salvador: Maragogipe
+
+ACP de Salvador: Monte Santo
+
+ACP de Salvador: Mundo Novo
+
+ACP de Salvador: Muritiba
+
+ACP de Salvador: Nazar�
+
+ACP de Salvador: Paulo Afonso
+
+Ararangu�: Meleiro
+
+ACP de Salvador: Pojuca
+
+ACP de Salvador: Ribeira do Pombal
+
+ACP de Salvador: Rio Real
+
+ACP de Salvador: Salinas da Margarida
+
+ACP de Salvador: Santa In�s
+
+ACP de Salvador: Santo Amaro
+
+ACP de Salvador: Santo Ant�nio de Jesus
+
+ACP de Salvador: S�o F�lix
+
+ACP de Salvador: S�o Gabriel
+
+ACP de Salvador: Saubara
+
+Ararangu�: Meleiro
+
+ACP de Salvador: Seabra
+
+ACP de Salvador: Tapiramut�
+
+ACP de Salvador: Teodoro Sampaio
+
+ACP de Salvador: Terra Nova
+
+ACP de Salvador: Uba�ra
+
+ACP de Salvador: Utinga
+
+ACP de Salvador: Valen�a
+
+ACP de Salvador: Vera Cruz
+
+ACP de Salvador: Vit�ria da Conquista
+
+ACP de Belo Horizonte: Abaet�
+
+Ararangu�: Morro Grande
+
+ACP de Belo Horizonte: Abre Campo
+
+ACP de Belo Horizonte: Aimor�s
+
+ACP de Belo Horizonte: Ara�a�
+
+ACP de Belo Horizonte: Augusto de Lima
+
+ACP de Belo Horizonte: Baldim
+
+ACP de Belo Horizonte: Bambu�
+
+ACP de Belo Horizonte: Bar�o de Cocais
+
+ACP de Belo Horizonte: Barra Longa
+
+ACP de Belo Horizonte: Bom Despacho
+
+ACP de Belo Horizonte: Bonfim
+
+Ararangu�: Morro Grande
+
+ACP de Belo Horizonte: Cachoeira da Prata
+
+ACP de Belo Horizonte: Caetan�polis
+
+ACP de Belo Horizonte: Campo Belo
+
+ACP de Belo Horizonte: Capelinha
+
+ACP de Belo Horizonte: Carbonita
+
+ACP de Belo Horizonte: Carm�sia
+
+ACP de Belo Horizonte: Carm�polis de Minas
+
+ACP de Belo Horizonte: Chapada do Norte
+
+ACP de Belo Horizonte: Coluna
+
+ACP de Belo Horizonte: Concei��o do Mato Dentro
+
+Ararangu�: Passo de Torres
+
+ACP de Belo Horizonte: Congonhas
+
+ACP de Belo Horizonte: Conselheiro Lafaiete
+
+ACP de Belo Horizonte: Cordisburgo
+
+ACP de Belo Horizonte: Crucil�ndia
+
+ACP de Belo Horizonte: Curvelo
+
+ACP de Belo Horizonte: Diamantina
+
+ACP de Belo Horizonte: Divin�polis
+
+ACP de Belo Horizonte: Dores do Indai�
+
+ACP de Belo Horizonte: Entre Rios de Minas
+
+ACP de Belo Horizonte: Ferros
+
+Ararangu�: Passo de Torres
+
+ACP de Belo Horizonte: Florestal
+
+ACP de Belo Horizonte: Formiga
+
+ACP de Belo Horizonte: Fortuna de Minas
+
+ACP de Belo Horizonte: Funil�ndia
+
+ACP de Belo Horizonte: Governador Valadares
+
+ACP de Belo Horizonte: Guanh�es
+
+ACP de Belo Horizonte: Guaxup�
+
+ACP de Belo Horizonte: Inha�ma
+
+ACP de Belo Horizonte: ACP de Ipatinga - Coronel Fabriciano - Tim�
+
+ACP de Belo Horizonte: Itabira
+
+Ararangu�: Praia Grande
+
+ACP de Belo Horizonte: Itabirito
+
+ACP de Belo Horizonte: Itaguara
+
+ACP de Belo Horizonte: Itamarandiba
+
+ACP de Belo Horizonte: Jaboticatubas
+
+ACP de Belo Horizonte: Jequitib�
+
+ACP de Belo Horizonte: Jo�o Monlevade
+
+ACP de Belo Horizonte: Jos� Gon�alves de Minas
+
+ACP de Belo Horizonte: Nova Uni�o
+
+ACP de Belo Horizonte: ACP de Juiz de Fora
+
+ACP de Belo Horizonte: Lavras
+
+Ararangu�: Praia Grande
+
+ACP de Belo Horizonte: Leandro Ferreira
+
+ACP de Belo Horizonte: Leme do Prado
+
+ACP de Belo Horizonte: Luz
+
+ACP de Belo Horizonte: Manhua�u
+
+ACP de Belo Horizonte: Mariana
+
+ACP de Belo Horizonte: Martinho Campos
+
+ACP de Belo Horizonte: Moeda
+
+ACP de Belo Horizonte: Moema
+
+ACP de Belo Horizonte: Montes Claros
+
+ACP de Belo Horizonte: Morada Nova de Minas
+
+Tucum�: Ouril�ndia do Norte
+
+Itapiranga: Barra do Guarita
+
+Ararangu�: Santa Rosa do Sul
+
+ACP de Belo Horizonte: Morro do Pilar
+
+ACP de Belo Horizonte: Oliveira
+
+ACP de Belo Horizonte: Ouro Branco
+
+ACP de Belo Horizonte: Ouro Preto
+
+ACP de Belo Horizonte: Papagaios
+
+ACP de Belo Horizonte: Paracatu
+
+ACP de Belo Horizonte: Paraopeba
+
+ACP de Belo Horizonte: Passa Tempo
+
+ACP de Belo Horizonte: Passos
+
+ACP de Belo Horizonte: Pe�anha
+
+Ararangu�: Santa Rosa do Sul
+
+ACP de Belo Horizonte: Piedade dos Gerais
+
+ACP de Belo Horizonte: Piracema
+
+ACP de Belo Horizonte: Pitangui
+
+ACP de Belo Horizonte: Pomp�u
+
+ACP de Belo Horizonte: Ponte Nova
+
+ACP de Belo Horizonte: Rio Manso
+
+ACP de Belo Horizonte: Rio Vermelho
+
+ACP de Belo Horizonte: Sabin�polis
+
+ACP de Belo Horizonte: Santa B�rbara
+
+ACP de Belo Horizonte: Santa Maria do Sua�u�
+
+Ararangu�: S�o Jo�o do Sul
+
+ACP de Belo Horizonte: Santana de Pirapama
+
+ACP de Belo Horizonte: Santana do Riacho
+
+ACP de Belo Horizonte: S�o Jo�o del Rei
+
+ACP de Belo Horizonte: S�o Jo�o Evangelista
+
+ACP de Belo Horizonte: S�o Jos� do Jacuri
+
+ACP de Belo Horizonte: Taquara�u de Minas
+
+ACP de Belo Horizonte: Te�filo Otoni
+
+ACP de Belo Horizonte: Tr�s Marias
+
+ACP de Belo Horizonte: Turmalina
+
+ACP de Belo Horizonte: Uberaba
+
+Ararangu�: S�o Jo�o do Sul
+
+ACP de Belo Horizonte: Varginha
+
+ACP do Rio de Janeiro: ACP de Juiz de Fora
+
+ACP do Rio de Janeiro: ACP de Vit�ria
+
+ACP do Rio de Janeiro: Angra dos Reis
+
+ACP do Rio de Janeiro: Araruama
+
+ACP do Rio de Janeiro: Areal
+
+ACP do Rio de Janeiro: Cabo Frio
+
+ACP do Rio de Janeiro: Cachoeiras de Macacu
+
+ACP do Rio de Janeiro: ACP de Campos dos Goytacazes
+
+ACP do Rio de Janeiro: Carmo
+
+Ararangu�: Sombrio
+
+ACP do Rio de Janeiro: Casimiro de Abreu
+
+ACP do Rio de Janeiro: Itaperuna
+
+ACP do Rio de Janeiro: Maca�
+
+ACP do Rio de Janeiro: Miguel Pereira
+
+ACP do Rio de Janeiro: Nova Friburgo
+
+ACP do Rio de Janeiro: Paty do Alferes
+
+ACP do Rio de Janeiro: Rio Bonito
+
+ACP do Rio de Janeiro: Saquarema
+
+ACP do Rio de Janeiro: Tangu�
+
+ACP do Rio de Janeiro: Teres�polis
+
+Ararangu�: Sombrio
+
+ACP do Rio de Janeiro: Tr�s Rios
+
+ACP do Rio de Janeiro: Valen�a
+
+ACP do Rio de Janeiro: Vassouras
+
+ACP do Rio de Janeiro: ACP de Volta Redonda - Barra Mansa
+
+ACP de S�o Paulo: Alfenas
+
+ACP de S�o Paulo: Itajub�
+
+ACP de S�o Paulo: Po�os de Caldas
+
+ACP de S�o Paulo: Pouso Alegre
+
+ACP de S�o Paulo: Uberaba
+
+ACP de S�o Paulo: ACP de Uberl�ndia
+
+Ararangu�: Timb� do Sul
+
+ACP de S�o Paulo: Araraquara
+
+ACP de S�o Paulo: Bauru
+
+ACP de S�o Paulo: Biritiba-Mirim
+
+ACP de S�o Paulo: Botucatu
+
+ACP de S�o Paulo: ACP de Campinas
+
+ACP de S�o Paulo: ACP de Jundia�
+
+ACP de S�o Paulo: Mar�lia
+
+ACP de S�o Paulo: Ourinhos
+
+ACP de S�o Paulo: Pirassununga
+
+ACP de S�o Paulo: Presidente Prudente
+
+Ararangu�: Timb� do Sul
+
+ACP de S�o Paulo: ACP de Ribeir�o Preto
+
+ACP de S�o Paulo: Sales�polis
+
+ACP de S�o Paulo: ACP de Santos
+
+ACP de S�o Paulo: S�o Carlos
+
+ACP de S�o Paulo: ACP de S�o Jos� do Rio Preto
+
+ACP de S�o Paulo: ACP de S�o Jos� dos Campos
+
+ACP de S�o Jos� dos Campos: S�o Sebasti�o
+
+ACP de S�o Paulo: ACP de Sorocaba
+
+ACP de S�o Paulo: ACP de Campo Grande
+
+ACP de Curitiba: Adrian�polis
+
+Ararangu�: Turvo
+
+ACP de Curitiba: Agudos do Sul
+
+ACP de Curitiba: Balsa Nova
+
+ACP de Curitiba: Bocai�va do Sul
+
+ACP de Curitiba: Cascavel
+
+ACP de Curitiba: Cerro Azul
+
+ACP de Curitiba: Contenda
+
+ACP de Curitiba: Guarapuava
+
+ACP de Curitiba: Lapa
+
+ACP de Curitiba: ACP de Londrina
+
+ACP de Curitiba: Mandirituba
+
+Ararangu�: Turvo
+
+ACP de Curitiba: ACP de Maring�
+
+ACP de Curitiba: Matinhos
+
+ACP de Curitiba: Paranagu�
+
+ACP de Curitiba: Pato Branco
+
+ACP de Curitiba: Ponta Grossa
+
+ACP de Curitiba: Quitandinha
+
+ACP de Curitiba: Tijucas do Sul
+
+ACP de Curitiba: Tunas do Paran�
+
+ACP de Curitiba: Umuarama
+
+ACP de Curitiba: Uni�o da Vit�ria
+
+Itapiranga: Barra do Guarita
+
+Balne�rio Cambori�: Cambori�
+
+ACP de Curitiba: Wenceslau Braz
+
+ACP de Curitiba: Doutor Ulysses
+
+ACP de Curitiba: ACP de Florian�polis
+
+ACP de Curitiba: ACP de Joinville
+
+ACP de Porto Alegre): ACP de Florian�polis
+
+ACP de Porto Alegre): Alegrete
+
+ACP de Porto Alegre): Balne�rio Pinhal
+
+ACP de Porto Alegre): Bar�o
+
+ACP de Porto Alegre): Bar�o do Triunfo
+
+ACP de Porto Alegre): Barra do Ribeiro
+
+Balne�rio Cambori�: Cambori�
+
+ACP de Porto Alegre): Buti�
+
+ACP de Porto Alegre): Camaqu�
+
+ACP de Porto Alegre): Cap�o da Canoa
+
+ACP de Porto Alegre): Capivari do Sul
+
+ACP de Porto Alegre): ACP de Caxias do Sul
+
+ACP de Porto Alegre): Cerro Grande do Sul
+
+ACP de Porto Alegre): Charqueadas
+
+ACP de Porto Alegre): Cidreira
+
+ACP de Porto Alegre): Cruz Alta
+
+ACP de Porto Alegre): Encruzilhada do Sul
+
+Balne�rio Cambori�: Cambori�
+
+ACP de Porto Alegre): Fazenda Vilanova
+
+ACP de Porto Alegre): Glorinha
+
+ACP de Porto Alegre): Guapor�
+
+ACP de Porto Alegre): Igrejinha
+
+ACP de Porto Alegre): Iju�
+
+ACP de Porto Alegre): Lajeado
+
+ACP de Porto Alegre): Mariana Pimentel
+
+ACP de Porto Alegre): Minas do Le�o
+
+ACP de Porto Alegre): Montenegro
+
+ACP de Porto Alegre): Mostardas
+
+Balne�rio Cambori�: Cambori�
+
+ACP de Porto Alegre): ACP de Novo Hamburgo/S�o Leopoldo
+
+ACP de Porto Alegre): Os�rio
+
+ACP de Porto Alegre): Palmares do Sul
+
+ACP de Porto Alegre): Passo Fundo
+
+ACP de Porto Alegre): ACP de Pelotas - Rio Grande
+
+ACP de Porto Alegre): Ros�rio do Sul
+
+ACP de Porto Alegre): Santa Cruz do Sul
+
+ACP de Porto Alegre): Santa Maria
+
+ACP de Porto Alegre): Santana do Livramento
+
+ACP de Porto Alegre): Santa Rosa
+
+Balne�rio Cambori�: Itapema
+
+ACP de Porto Alegre): Santo Ant�nio da Patrulha
+
+ACP de Porto Alegre): S�o Borja
+
+ACP de Porto Alegre): S�o Jer�nimo
+
+ACP de Porto Alegre): Sert�o Santana
+
+ACP de Porto Alegre): Sobradinho
+
+ACP de Porto Alegre): Taba�
+
+ACP de Porto Alegre): Tapes
+
+ACP de Porto Alegre): Taquara
+
+ACP de Porto Alegre): Taquari
+
+ACP de Porto Alegre): Torres
+
+Balne�rio Cambori�: Itapema
+
+ACP de Porto Alegre): Tramanda�
+
+ACP de Porto Alegre): Tr�s Coroas
+
+ACP de Porto Alegre): Triunfo
+
+ACP de Porto Alegre): Uruguaiana
+
+ACP de Porto Alegre): Xangri-l�
+
+ACP de Cuiab�: Acorizal
+
+ACP de Cuiab�: Alta Floresta
+
+ACP de Cuiab�: Alto Araguaia
+
+ACP de Cuiab�: Bar�o de Melga�o
+
+ACP de Cuiab�: Barra do Bugres
+
+Balne�rio Cambori�: Itapema
+
+ACP de Cuiab�: Barra do Gar�as
+
+ACP de Cuiab�: C�ceres
+
+ACP de Cuiab�: Campo Verde
+
+ACP de Cuiab�: Chapada dos Guimar�es
+
+ACP de Cuiab�: Col�der
+
+ACP de Cuiab�: Diamantino
+
+ACP de Cuiab�: Jangada
+
+ACP de Cuiab�: Juara
+
+ACP de Cuiab�: Ju�na
+
+ACP de Cuiab�: Nobres
+
+Balne�rio Cambori�: Itapema
+
+ACP de Cuiab�: Nossa Senhora do Livramento
+
+ACP de Cuiab�: Nova Brasil�ndia
+
+ACP de Cuiab�: Nova Mutum
+
+ACP de Cuiab�: Peixoto de Azevedo
+
+ACP de Cuiab�: Planalto da Serra
+
+ACP de Cuiab�: Pocon�
+
+ACP de Cuiab�: Porto Estrela
+
+ACP de Cuiab�: Primavera do Leste
+
+ACP de Cuiab�: Santo Afonso
+
+ACP de Cuiab�: S�o Jos� do Rio Claro
+
+Bra�o do Norte: Gr�o Par�
+
+ACP de Cuiab�: Rondon�polis
+
+ACP de Cuiab�: Ros�rio Oeste
+
+ACP de Cuiab�: Santo Ant�nio do Leverger
+
+ACP de Cuiab�: S�o F�lix do Araguaia
+
+ACP de Cuiab�: Sinop
+
+ACP de Cuiab�: Sorriso
+
+ACP de Cuiab�: Tangar� da Serra
+
+ACP de Goi�nia: Palmas
+
+ACP de Goi�nia: Correntina
+
+ACP de Goi�nia: Cocalinho
+
+Bra�o do Norte: Gr�o Par�
+
+ACP de Goi�nia: S�o F�lix do Araguaia
+
+ACP de Goi�nia: Acre�na
+
+ACP de Goi�nia: Alto Horizonte
+
+ACP de Goi�nia: Amaralina
+
+ACP de Goi�nia: Americano do Brasil
+
+ACP de Goi�nia: An�polis
+
+ACP de Goi�nia: Anicuns
+
+ACP de Goi�nia: Aragoi�nia
+
+ACP de Goi�nia: Aruan�
+
+ACP de Goi�nia: Avelin�polis
+
+Ituporanga: Aurora
+
+Bra�o do Norte: Rio Fortuna
+
+ACP de Goi�nia: Bela Vista de Goi�s
+
+ACP de Goi�nia: Bonfin�polis
+
+ACP de Goi�nia: Brazabrantes
+
+ACP de Goi�nia: Caldas Novas
+
+ACP de Goi�nia: Caldazinha
+
+ACP de Goi�nia: Campestre de Goi�s
+
+ACP de Goi�nia: Catal�o
+
+ACP de Goi�nia: Catura�
+
+ACP de Goi�nia: Ceres
+
+ACP de Goi�nia: Cezarina
+
+Bra�o do Norte: Rio Fortuna
+
+ACP de Goi�nia: Cristian�polis
+
+ACP de Goi�nia: Crix�s
+
+ACP de Goi�nia: Crom�nia
+
+ACP de Goi�nia: Doverl�ndia
+
+ACP de Goi�nia: Ed�ia
+
+ACP de Goi�nia: Firmin�polis
+
+ACP de Goi�nia: Goian�polis
+
+ACP de Goi�nia: Goian�sia
+
+ACP de Goi�nia: Goi�s
+
+ACP de Goi�nia: Guap�
+
+Bra�o do Norte: Santa Rosa de Lima
+
+ACP de Goi�nia: Hidrol�ndia
+
+ACP de Goi�nia: Inhumas
+
+ACP de Goi�nia: Ipameri
+
+ACP de Goi�nia: Ipor�
+
+ACP de Goi�nia: Itabera�
+
+ACP de Goi�nia: Itaguari
+
+ACP de Goi�nia: Itapaci
+
+ACP de Goi�nia: Itapuranga
+
+ACP de Goi�nia: Itau�u
+
+Bra�o do Norte: Santa Rosa de Lima
+
+ACP de Goi�nia: Itumbiara
+
+ACP de Goi�nia: Jandaia
+
+ACP de Goi�nia: Jaragu�
+
+ACP de Goi�nia: Jata�
+
+ACP de Goi�nia: Jussara
+
+ACP de Goi�nia: Leopoldo de Bulh�es
+
+ACP de Goi�nia: Mairipotaba
+
+ACP de Goi�nia: Mara Rosa
+
+ACP de Goi�nia: Mina�u
+
+ACP de Goi�nia: Mineiros
+
+Brusque: Botuver�
+
+ACP de Goi�nia: Morrinhos
+
+ACP de Goi�nia: Mozarl�ndia
+
+ACP de Goi�nia: Naz�rio
+
+ACP de Goi�nia: Niquel�ndia
+
+ACP de Goi�nia: Nova Igua�u de Goi�s
+
+ACP de Goi�nia: Nova Veneza
+
+ACP de Goi�nia: Palmeiras de Goi�s
+
+ACP de Goi�nia: Palmin�polis
+
+ACP de Goi�nia: Para�na
+
+ACP de Goi�nia: Petrolina de Goi�s
+
+Brusque: Botuver�
+
+ACP de Goi�nia: Piracanjuba
+
+ACP de Goi�nia: Pires do Rio
+
+ACP de Goi�nia: Pontalina
+
+ACP de Goi�nia: Porangatu
+
+ACP de Goi�nia: Professor Jamil
+
+ACP de Goi�nia: Rialma
+
+ACP de Goi�nia: Rio Verde
+
+ACP de Goi�nia: Sanclerl�ndia
+
+ACP de Goi�nia: Santa B�rbara de Goi�s
+
+ACP de Goi�nia: Santa Cruz de Goi�s
+
+Brusque: Guabiruba
+
+ACP de Goi�nia: Santa Rosa de Goi�s
+
+ACP de Goi�nia: Santo Ant�nio de Goi�s
+
+ACP de Goi�nia: S�o Jo�o da Para�na
+
+ACP de Goi�nia: S�o Lu�s de Montes Belos
+
+ACP de Goi�nia: S�o Miguel do Araguaia
+
+ACP de Goi�nia: S�o Miguel do Passa Quatro
+
+ACP de Goi�nia: Silv�nia
+
+ACP de Goi�nia: Taquaral de Goi�s
+
+ACP de Goi�nia: Terez�polis de Goi�s
+
+ACP de Goi�nia: Turv�nia
+
+Brusque: Guabiruba
+
+ACP de Goi�nia: Uirapuru
+
+ACP de Goi�nia: Urua�u
+
+ACP de Goi�nia: Uruana
+
+ACP de Goi�nia: Uruta�
+
+ACP de Goi�nia: Varj�o
+
+ACP de Goi�nia: Vian�polis
+
+ACP de Goi�nia: Vicentin�polis
+
+ACP de Bras�lia: Barreiras
+
+ACP de Bras�lia: Arinos
+
+ACP de Bras�lia: Buritis
+
+Brusque: Nova Trento
+
+ACP de Bras�lia: Paracatu
+
+ACP de Bras�lia: Una�
+
+ACP de Bras�lia: �gua Fria de Goi�s
+
+ACP de Bras�lia: Alto Para�so de Goi�s
+
+ACP de Bras�lia: Cabeceiras
+
+ACP de Bras�lia: Campos Belos
+
+ACP de Bras�lia: Cavalcante
+
+ACP de Bras�lia: Cristalina
+
+ACP de Bras�lia: Flores de Goi�s
+
+ACP de Bras�lia: Mimoso de Goi�s
+
+Brusque: Nova Trento
+
+ACP de Bras�lia: Posse
+
+ACP de Bras�lia: S�o Jo�o d'Alian�a
+
+ACP de Bras�lia: S�tio d'Abadia
+
+ACP de Bras�lia: Vila Boa
+
+ACP de Bras�lia: Bom Jesus da Lapa
+
+Ituporanga: Aurora
+
+Brusque: S�o Jo�o Batista
+
+Brusque: S�o Jo�o Batista
+
+Campos Novos: Celso Ramos
+
+Campos Novos: Celso Ramos
+
+Canoinhas: Bela Vista do Toldo
+
+Canoinhas: Irine�polis
+
+Canoinhas: Major Vieira
+
+Canoinhas: Monte Castelo
+
+Canoinhas: Tr�s Barras
+
+Capinzal: Ouro
+
+Ituporanga: Chapad�o do Lageado
+
+Capinzal: Ouro
+
+Capinzal: Piratuba
+
+Capinzal: Piratuba
+
+Capinzal: Zort�a
+
+Capinzal: Zort�a
+
+Conc�rdia: Alto Bela Vista
+
+Conc�rdia: Alto Bela Vista
+
+Conc�rdia: Arabut�
+
+Conc�rdia: Arabut�
+
+Conc�rdia: Ipira
+
+Ituporanga: Chapad�o do Lageado
+
+Conc�rdia: Ipira
+
+Conc�rdia: Ipumirim
+
+Conc�rdia: Ipumirim
+
+Conc�rdia: Irani
+
+Conc�rdia: Irani
+
+Conc�rdia: It�
+
+Conc�rdia: It�
+
+Conc�rdia: Lind�ia do Sul
+
+Conc�rdia: Lind�ia do Sul
+
+Conc�rdia: Peritiba
+
+Ituporanga: Imbuia
+
+Conc�rdia: Peritiba
+
+Conc�rdia: Piratuba
+
+Conc�rdia: Piratuba
+
+Conc�rdia: Presidente Castelo Branco
+
+Conc�rdia: Presidente Castelo Branco
+
+Curitibanos: Abdon Batista
+
+Curitibanos: Abdon Batista
+
+Curitibanos: Brun�polis
+
+Curitibanos: Brun�polis
+
+Curitibanos: Frei Rog�rio
+
+Ituporanga: Imbuia
+
+Curitibanos: Frei Rog�rio
+
+Curitibanos: Monte Carlo
+
+Curitibanos: Monte Carlo
+
+Curitibanos: Ponte Alta do Norte
+
+Curitibanos: Ponte Alta do Norte
+
+Curitibanos: Santa Cec�lia
+
+Curitibanos: Santa Cec�lia
+
+Curitibanos: S�o Cristov�o do Sul
+
+Curitibanos: S�o Cristov�o do Sul
+
+Curitibanos: Vargem
+
+Ituporanga: Leoberto Leal
+
+Curitibanos: Vargem
+
+Indaial: Rodeio
+
+Indaial: Rodeio
+
+Maravilha: Bom Jesus do Oeste
+
+Maravilha: Bom Jesus do Oeste
+
+Maravilha: Flor do Sert�o
+
+Maravilha: Flor do Sert�o
+
+Maravilha: Iraceminha
+
+Maravilha: Iraceminha
+
+Maravilha: Romel�ndia
+
+Ituporanga: Leoberto Leal
+
+Maravilha: Romel�ndia
+
+Maravilha: Saltinho
+
+Maravilha: Saltinho
+
+Maravilha: Santa Terezinha do Progresso
+
+Maravilha: Santa Terezinha do Progresso
+
+Maravilha: S�o Miguel da Boa Vista
+
+Maravilha: S�o Miguel da Boa Vista
+
+Maravilha: Tigrinhos
+
+Maravilha: Tigrinhos
+
+Pinhalzinho: Saudades
+
+Tucum�: S�o F�lix do Xingu
+
+Ituporanga: Petrol�ndia
+
+Pinhalzinho: Saudades
+
+Pinhalzinho: Sul Brasil
+
+Pinhalzinho: Sul Brasil
+
+Presidente Get�lio: Dona Emma
+
+Presidente Get�lio: Dona Emma
+
+Rio do Sul: Agrol�ndia
+
+Rio do Sul: Agrol�ndia
+
+Rio do Sul: Agron�mica
+
+Rio do Sul: Agron�mica
+
+Rio do Sul: Atalanta
+
+Ituporanga: Petrol�ndia
+
+Rio do Sul: Atalanta
+
+Videira: Macieira
+
+Rio do Sul: Bra�o do Trombudo
+
+Rio do Sul: Bra�o do Trombudo
+
+Rio do Sul: Ibirama
+
+Rio do Sul: Ibirama
+
+Rio do Sul: Ituporanga
+
+Rio do Sul: Ituporanga
+
+Rio do Sul: Laurentino
+
+Rio do Sul: Laurentino
+
+Rio do Sul: Lontras
+
+Ituporanga: Vidal Ramos
+
+Rio do Sul: Lontras
+
+Rio do Sul: Pouso Redondo
+
+Rio do Sul: Pouso Redondo
+
+Rio do Sul: Presidente Nereu
+
+Rio do Sul: Presidente Nereu
+
+Rio do Sul: Rio do Oeste
+
+Rio do Sul: Rio do Oeste
+
+Rio do Sul: Tai�
+
+Rio do Sul: Tai�
+
+Rio do Sul: Trombudo Central
+
+Ituporanga: Vidal Ramos
+
+Rio do Sul: Trombudo Central
+
+S�o Louren�o do Oeste: Campo Er�
+
+S�o Louren�o do Oeste: Campo Er�
+
+S�o Louren�o do Oeste: Galv�o
+
+S�o Louren�o do Oeste: Galv�o
+
+S�o Louren�o do Oeste: Jupi�
+
+S�o Louren�o do Oeste: Jupi�
+
+S�o Louren�o do Oeste: Novo Horizonte
+
+S�o Louren�o do Oeste: Novo Horizonte
+
+S�o Louren�o do Oeste: S�o Bernardino
+
+Ponte Serrada: Passos Maia
+
+S�o Louren�o do Oeste: S�o Bernardino
+
+S�o Miguel do Oeste: Anchieta
+
+S�o Miguel do Oeste: Anchieta
+
+S�o Miguel do Oeste: Bandeirante
+
+Videira: Monte Carlo
+
+S�o Miguel do Oeste: Bandeirante
+
+S�o Miguel do Oeste: Barra Bonita
+
+S�o Miguel do Oeste: Barra Bonita
+
+S�o Miguel do Oeste: Belmonte
+
+S�o Miguel do Oeste: Belmonte
+
+S�o Miguel do Oeste: Cunha Por�
+
+Ponte Serrada: Passos Maia
+
+S�o Miguel do Oeste: Cunha Por�
+
+S�o Miguel do Oeste: Descanso
+
+S�o Miguel do Oeste: Descanso
+
+S�o Miguel do Oeste: Dion�sio Cerqueira
+
+Videira: Fraiburgo
+
+S�o Miguel do Oeste: Dion�sio Cerqueira
+
+S�o Miguel do Oeste: Flor do Sert�o
+
+S�o Miguel do Oeste: Flor do Sert�o
+
+S�o Miguel do Oeste: Guaraciaba
+
+S�o Miguel do Oeste: Guaraciaba
+
+S�o Miguel do Oeste: Guaruj� do Sul
+
+Ouro Preto do Oeste: Mirante da Serra
+
+S�o Domingos: Coronel Martins
+
+S�o Miguel do Oeste: Guaruj� do Sul
+
+S�o Miguel do Oeste: Ipor� do Oeste
+
+S�o Miguel do Oeste: Ipor� do Oeste
+
+S�o Miguel do Oeste: Itapiranga
+
+S�o Miguel do Oeste: Itapiranga
+
+S�o Miguel do Oeste: Palma Sola
+
+S�o Miguel do Oeste: Palma Sola
+
+S�o Miguel do Oeste: Para�so
+
+S�o Miguel do Oeste: Para�so
+
+S�o Miguel do Oeste: Santa Helena
+
+S�o Domingos: Coronel Martins
+
+S�o Miguel do Oeste: Santa Helena
+
+S�o Miguel do Oeste: S�o Jo�o do Oeste
+
+S�o Miguel do Oeste: S�o Jo�o do Oeste
+
+S�o Miguel do Oeste: S�o Jos� do Cedro
+
+S�o Miguel do Oeste: S�o Jos� do Cedro
+
+Brasil�ia: Assis Brasil
+
+S�o Miguel do Oeste: Tun�polis
+
+S�o Miguel do Oeste: Tun�polis
+
+Seara: Paial
+
+Seara: Paial
+
+Timb�: Doutor Pedrinho
+
+S�o Jo�o Batista: Major Gercino
+
+Timb�: Doutor Pedrinho
+
+Timb�: Rio dos Cedros
+
+Timb�: Rio dos Cedros
+
+Videira: Arroio Trinta
+
+Videira: Arroio Trinta
+
+Videira: Calmon
+
+Videira: Calmon
+
+Videira: Fraiburgo
+
+Videira: Iomer�
+
+S�o Jo�o Batista: Major Gercino
+
+Videira: Iomer�
+
+Videira: Macieira
+
+Videira: Monte Carlo
+
+Videira: Pinheiro Preto
+
+Videira: Pinheiro Preto
+
+Videira: Rio das Antas
+
+Videira: Rio das Antas
+
+Videira: Salto Veloso
+
+Xinguara: �gua Azul do Norte
+
+S�o Jos� do Cedro: Princesa
+
+Videira: Salto Veloso
+
+Videira: Tangar�
+
+Videira: Tangar�
+
+Xanxer�: Abelardo Luz
+
+Xanxer�: Abelardo Luz
+
+Xanxer�: Bom Jesus
+
+Xanxer�: Bom Jesus
+
+Xanxer�: Entre Rios
+
+Xanxer�: Entre Rios
+
+Xanxer�: Faxinal dos Guedes
+
+S�o Jos� do Cedro: Princesa
+
+Xanxer�: Faxinal dos Guedes
+
+Xanxer�: Ipua�u
+
+Xanxer�: Ipua�u
+
+Xanxer�: Lajeado Grande
+
+Xanxer�: Lajeado Grande
+
+Xanxer�: Marema
+
+Xanxer�: Marema
+
+Xanxer�: Ponte Serrada
+
+Xanxer�: Ponte Serrada
+
+Xanxer�: S�o Domingos
+
+Sombrio: Balne�rio Gaivota
+
+Xanxer�: S�o Domingos
+
+Xanxer�: Varge�o
+
+Xanxer�: Varge�o
+
+Xanxer�: Xavantina
+
+Xanxer�: Xavantina
+
+Xaxim: Lajeado Grande
+
+Xaxim: Lajeado Grande
+
+Xaxim: Marema
+
+Xaxim: Marema
+
+Arvorezinha: Itapuca
+
+Sombrio: Balne�rio Gaivota
+
+Arvorezinha: Itapuca
+
+Arvorezinha: Putinga
+
+Arvorezinha: Putinga
+
+Boa Vista do Buric�: Nova Candel�ria
+
+Cerro Largo: Roque Gonzales
+
+Cerro Largo: Salvador das Miss�es
+
+Cerro Largo: S�o Pedro do Buti�
+
+Cerro Largo: Ubiretama
+
+Garibaldi: Boa Vista do Sul
+
+Garibaldi: Coronel Pilar
+
+Tai�: Mirim Doce
+
+Get�lio Vargas: Erebango
+
+Get�lio Vargas: Floriano Peixoto
+
+Get�lio Vargas: Ipiranga do Sul
+
+Mu�um: Vespasiano Correa
+
+Nonoai: Gramado dos Loureiros
+
+Nonoai: Gramado dos Loureiros
+
+Nonoai: Rio dos �ndios
+
+Nonoai: Rio dos �ndios
+
+Nova Prata: Andr� da Rocha
+
+Nova Prata: Guabiju
+
+Tai�: Mirim Doce
+
+Nova Prata: Nova Bassano
+
+Nova Prata: Prot�sio Alves
+
+Nova Prata: S�o Jorge
+
+Nova Prata: Vila Flores
+
+Pinheiro Machado: Pedras Altas
+
+Rodeio Bonito: Cristal do Sul
+
+Rodeio Bonito: Cristal do Sul
+
+Rodeio Bonito: Novo Tiradentes
+
+Rodeio Bonito: Novo Tiradentes
+
+S�o Luiz Gonzaga: Bossoroca
+
+Tai�: Rio do Campo
+
+S�o Luiz Gonzaga: Caibat�
+
+Reden��o: Tucum�
+
+S�o Luiz Gonzaga: Dezesseis de Novembro
+
+S�o Luiz Gonzaga: Garruchos
+
+S�o Luiz Gonzaga: Pirap�
+
+S�o Luiz Gonzaga: Rolador
+
+S�o Luiz Gonzaga: Roque Gonzales
+
+S�o Luiz Gonzaga: Santo Ant�nio das Miss�es
+
+S�o Luiz Gonzaga: S�o Nicolau
+
+S�o Valentim: Entre Rios do Sul
+
+Sarandi: Barra Funda
+
+Tai�: Rio do Campo
+
+Sarandi: Constantina
+
+Sarandi: Engenho Velho
+
+Sarandi: Nova Boa Vista
+
+Sarandi: Rondinha
+
+Teut�nia: Po�o das Antas
+
+Teut�nia: Westf�lia
+
+Veran�polis: Cotipor�
+
+Veran�polis: Fagundes Varela
+
+Veran�polis: Vila Flores
+
+Amamba�: Coronel Sapucaia
+
+Tai�: Salete
+
+Amamba�: Paranhos
+
+Mundo Novo: Gua�ra
+
+Mundo Novo: Eldorado
+
+Mundo Novo: Iguatemi
+
+Mundo Novo: Japor�
+
+Navira�: Iguatemi
+
+Navira�: Itaquira�
+
+Ponta Por�: Ant�nio Jo�o
+
+Ponta Por�: Aral Moreira
+
+Ponta Por�: Bela Vista
+
+Tai�: Salete
+
+Cacoal: Espig�o d'Oeste
+
+Cacoal: Pimenta Bueno
+
+Cacoal: Rolim de Moura
+
+Cacoal: Ministro Andreazza
+
+Cacoal: Primavera de Rond�nia
+
+Cacoal: S�o Felipe d'Oeste
+
+Cerejeiras: Pimenteiras do Oeste
+
+Cruzeiro do Sul: M�ncio Lima
+
+Xinguara: Sapucaia
+
+Reden��o: Xinguara
+
+Tai�: Santa Terezinha
+
+Cruzeiro do Sul: Marechal Thaumaturgo
+
+Cruzeiro do Sul: Porto Walter
+
+Cruzeiro do Sul: Rodrigues Alves
+
+Cruzeiro do Sul: Guajar�
+
+Cruzeiro do Sul: Ipixuna
+
+Sena Madureira: Manoel Urbano
+
+Tarauac�: Jord�o
+
+Itaituba: Jacareacanga
+
+Itaituba: Novo Progresso
+
+Itaituba: Trair�o
+
+Tai�: Santa Terezinha
+
+Monte Alegre: Prainha
+
+Parauapebas: Cana� dos Caraj�s
+
+Parauapebas: Curion�polis
+
+Reden��o: Bannach
+
+Reden��o: Concei��o do Araguaia
+
+Reden��o: Cumaru do Norte
+
+Reden��o: Floresta do Araguaia
+
+Reden��o: Pau d'Arco
+
+Reden��o: Rio Maria
+
+Reden��o: Santana do Araguaia
+
+Tangar�: Ibiam
+
+Tucum�: Ouril�ndia do Norte
+
+Tucum�: S�o F�lix do Xingu
+
+Xinguara: �gua Azul do Norte
+
+Xinguara: Sapucaia
+
+Aragua�na: Pi�arra
+
+Aragua�na: Reden��o
+
+Aragua�na: S�o Geraldo do Araguaia
+
+Aragua�na: Aguiarn�polis
+
+Tangar�: Ibiam
+
+Aragua�na: Anan�s
+
+Aragua�na: Angico
+
+Aragua�na: Aragominas
+
+Aragua�na: Araguan�
+
+Aragua�na: Arapoema
+
+Aragua�na: Baba�ul�ndia
+
+Aragua�na: Bandeirantes do Tocantins
+
+Aragua�na: Barra do Ouro
+
+Aragua�na: Campos Lindos
+
+Aragua�na: Carmol�ndia
+
+Constantina: Novo Xingu
+
+Aragua�na: Colinas do Tocantins
+
+Aragua�na: Darcin�polis
+
+Aragua�na: Filad�lfia
+
+Aragua�na: Goiatins
+
+Aragua�na: Guara�
+
+Aragua�na: Muricil�ndia
+
+Aragua�na: Nova Olinda
+
+Aragua�na: Palmeirante
+
+Aragua�na: Pau d'Arco
+
+Aragua�na: Piraqu�
+
+Bela Vista: Caracol
+
+Aragua�na: Riachinho
+
+Aragua�na: Santa F� do Araguaia
+
+Aragua�na: Tocantin�polis
+
+Aragua�na: Wanderl�ndia
+
+Aragua�na: Xambio�
+
+Aragua�na: Balsas
+
+Aragua�na: Carolina
+
+Dian�polis: Almas
+
+Dian�polis: Concei��o do Tocantins
+
+Dian�polis: Novo Jardim
+
+Rolim de Moura: Alta Floresta d'Oeste
+
+Dian�polis: Porto Alegre do Tocantins
+
+Dian�polis: Rio da Concei��o
+
+Dian�polis: Taguatinga
+
+Dian�polis: Taipas do Tocantins
+
+F�tima: Santa Rita do Tocantins
+
+Gurupi: Alian�a do Tocantins
+
+Gurupi: Alvorada
+
+Gurupi: Aragua�u
+
+Gurupi: Cariri do Tocantins
+
+Gurupi: Crix�s do Tocantins
+
+Rolim de Moura: Nova Brasil�ndia d'Oeste
+
+Gurupi: Duer�
+
+Gurupi: Figueir�polis
+
+Gurupi: Formoso do Araguaia
+
+Gurupi: Ja� do Tocantins
+
+Gurupi: Natividade
+
+Gurupi: Palmeir�polis
+
+Gurupi: Paran�
+
+Gurupi: Peixe
+
+Gurupi: S�o Val�rio da Natividade
+
+Gurupi: Sucupira
+
+Rolim de Moura: Santa Luzia d'Oeste
+
+Gurupi: Talism�
+
+Miracema do Tocantins: Dois Irm�os do Tocantins
+
+Miracema do Tocantins: Miranorte
+
+Miracema do Tocantins: Rio dos Bois
+
+Miracema do Tocantins: Tocant�nia
+
+Para�so do Tocantins: Abreul�ndia
+
+Para�so do Tocantins: Araguacema
+
+Para�so do Tocantins: Barrol�ndia
+
+Para�so do Tocantins: Caseara
+
+Para�so do Tocantins: Chapada de Areia
+
+Rolim de Moura: Alto Alegre dos Parecis
+
+Para�so do Tocantins: Monte Santo do Tocantins
+
+Para�so do Tocantins: Pium
+
+Para�so do Tocantins: Pugmil
+
+Porto Nacional: Brejinho de Nazar�
+
+Porto Nacional: Ipueiras
+
+Porto Nacional: Oliveira de F�tima
+
+Porto Nacional: Pindorama do Tocantins
+
+Porto Nacional: Ponte Alta do Tocantins
+
+ACP de Bras�lia: Porto Velho
+
+ACP de Bras�lia: Cuiab�
+
+ACP de S�o Paulo: Porto Velho
+
+ACP de S�o Paulo: Cuiab�
+
