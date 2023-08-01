@@ -86,6 +86,10 @@ print(f'{status} ao realizar o saque')
 repetição
 
 for -> usado para percorrer um objeto repetivel
+for/else
+range -> usado para produzir uma sequencia de numeros inteiros a partir de um inicio
+para um fim (geralmente i e j)
+range tem 3 args: stop (obrigatorio) start step (opcionais)
 
 """
 
@@ -95,4 +99,41 @@ VOGAIS = "AEIOU"
 for letra in texto:
     if letra.upper() in VOGAIS:
         print(letra, end="")
-        
+
+else:
+    print()
+    print("Finalizado")
+
+for numero in range(0, 11): #o 11 é exclusivo, então lista termina em 10
+    print(numero, end=" ")
+
+for numero in range(0,51,5): # 5 é o step, então é contado de cinco em cinco
+    print(numero, end=" ")
+
+"""
+
+while -> usado para repetir um bloco de codigo varias vezes, usado quando não sabemos
+quantas vezes o codigo tem que ser repetido
+break -> quebra o loop
+
+"""
+
+opcao = -1
+
+while opcao != 0:
+    opcao = int(input("[1] Sacar \n[2] Extrato \n[0] Sair \n: "))
+
+    if opcao == 1:
+        print("Sacando...")
+    elif opcao == 2:
+        print("Exibindo o Extrato")
+else:
+    print("Obrigado por usar nosso sistema")
+
+while True:
+    numero = int(input("Informe um numero: "))
+    
+    if numero == 10:
+        break
+
+    print(numero)
