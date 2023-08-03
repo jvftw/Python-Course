@@ -115,6 +115,7 @@ for numero in range(0,51,5): # 5 é o step, então é contado de cinco em cinco
 while -> usado para repetir um bloco de codigo varias vezes, usado quando não sabemos
 quantas vezes o codigo tem que ser repetido
 break -> quebra o loop
+continue -> usado para pular execução
 
 """
 
